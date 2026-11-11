@@ -1,0 +1,1201 @@
+﻿customer_id,company_name,industry,country,city,registration_date,customer_status
+1,Orion Services 0001,Retail,Mexico,Guadalajara,2026-11-23,Active
+2,Pioneer Corporation 0002,Education,Mexico,Monterrey,2025-08-27,Active
+3,Northstar Industries 0003,Telecommunications,Mexico,Merida,2026-06-26,Active
+4,Pioneer Holdings 0004,Manufacturing,Mexico,Tijuana,2025-08-22,Active
+5,Northstar Partners 0005,Education,Mexico,Puebla,2026-07-15,Active
+6,Nova Enterprises 0006,Telecommunications,Mexico,Merida,2025-06-01,Active
+7,Digital Logistics 0007,Telecommunications,Mexico,Guadalajara,2026-10-17,Active
+8,Pioneer Logistics 0008,Healthcare,Mexico,Leon,2025-09-12,Active
+9,Vantage Industries 0009,Telecommunications,Mexico,Monterrey,2026-04-08,Active
+10,Cloud Solutions 0010,Retail,Mexico,Tijuana,2025-11-18,Active
+11,Elevate Systems 0011,Financial Services,Mexico,Puebla,2026-07-06,Cancelled
+12,Nexa Holdings 0012,Healthcare,Mexico,Leon,2026-08-01,Active
+13,Nexa Industries 0013,Manufacturing,Mexico,Puebla,2026-05-20,Active
+14,Blue Services 0014,Financial Services,Mexico,Monterrey,2025-06-23,Cancelled
+15,Digital Consulting 0015,Telecommunications,Mexico,Merida,2025-04-26,Active
+16,Quantum Group 0016,Manufacturing,Mexico,Guadalajara,2025-10-13,Active
+17,Urban Partners 0017,Telecommunications,Mexico,Puebla,2026-03-05,Active
+18,Quantum Group 0018,Telecommunications,Mexico,Queretaro,2026-11-23,Active
+19,Fusion Partners 0019,Education,Mexico,Queretaro,2026-11-14,Active
+20,Urban Consulting 0020,Retail,Mexico,Merida,2025-11-22,Active
+21,Apex Industries 0021,Manufacturing,Mexico,Mexico City,2026-01-24,Suspended
+22,Cobalt Technologies 0022,Manufacturing,Mexico,Leon,2026-10-03,Active
+23,Fusion Technologies 0023,Education,Mexico,Monterrey,2025-12-23,Active
+24,Blue Enterprises 0024,Manufacturing,Mexico,Merida,2025-12-02,Active
+25,Apex Consulting 0025,Retail,Mexico,Queretaro,2025-05-24,Active
+26,Quantum Group 0026,Telecommunications,Mexico,Leon,2026-05-01,Cancelled
+27,Quantum Solutions 0027,Manufacturing,Mexico,Puebla,2026-11-27,Active
+28,Urban Group 0028,Telecommunications,Mexico,Queretaro,2026-03-04,Active
+29,Nova Solutions 0029,Retail,Mexico,Queretaro,2025-11-02,Cancelled
+30,Bright Group 0030,Education,Mexico,Queretaro,2025-10-17,Active
+31,Atlas Logistics 0031,Healthcare,Mexico,Guadalajara,2026-04-30,Active
+32,Cobalt Networks 0032,Retail,Mexico,Monterrey,2026-03-16,Active
+33,Cobalt Solutions 0033,Retail,Mexico,Queretaro,2026-01-14,Active
+34,Nexa Industries 0034,Financial Services,Mexico,Monterrey,2026-01-09,Active
+35,Blue Consulting 0035,Financial Services,Mexico,Tijuana,2025-09-27,Active
+36,Prime Labs 0036,Financial Services,Mexico,Tijuana,2026-07-05,Active
+37,Apex Consulting 0037,Telecommunications,Mexico,Puebla,2026-11-11,Cancelled
+38,Apex Services 0038,Manufacturing,Mexico,Merida,2026-01-16,Active
+39,Core Services 0039,Financial Services,Mexico,Mexico City,2025-09-09,Active
+40,Vertex Systems 0040,Retail,Mexico,Leon,2026-03-17,Active
+41,Prime Industries 0041,Manufacturing,Mexico,Merida,2026-11-02,Cancelled
+42,Blue Enterprises 0042,Telecommunications,Mexico,Queretaro,2026-12-26,Active
+43,Redwood Partners 0043,Manufacturing,Mexico,Merida,2026-04-27,Cancelled
+44,Atlas Technologies 0044,Retail,Mexico,Puebla,2026-02-18,Suspended
+45,Digital Services 0045,Financial Services,Mexico,Mexico City,2026-03-20,Active
+46,Redwood Group 0046,Telecommunications,Mexico,Leon,2025-02-17,Active
+47,Apex Labs 0047,Education,Mexico,Leon,2025-10-12,Active
+48,Quantum Enterprises 0048,Telecommunications,Mexico,Merida,2025-07-30,Active
+49,Pioneer Labs 0049,Retail,Mexico,Leon,2025-01-27,Active
+50,Bright Systems 0050,Telecommunications,Mexico,Tijuana,2026-09-17,Active
+51,Quantum Enterprises 0051,Education,Mexico,Leon,2026-02-25,Cancelled
+52,Northstar Holdings 0052,Manufacturing,Mexico,Guadalajara,2026-05-23,Active
+53,Core Industries 0053,Financial Services,Mexico,Monterrey,2026-12-03,Active
+54,Atlas Partners 0054,Financial Services,Mexico,Monterrey,2026-06-08,Active
+55,Digital Technologies 0055,Financial Services,Mexico,Monterrey,2025-10-17,Active
+56,Vertex Consulting 0056,Education,Mexico,Queretaro,2025-01-16,Active
+57,Atlas Systems 0057,Retail,Mexico,Puebla,2026-08-21,Active
+58,Vantage Group 0058,Financial Services,Mexico,Monterrey,2025-10-18,Active
+59,Apex Corporation 0059,Financial Services,Mexico,Puebla,2026-11-13,Active
+60,Evergreen Labs 0060,Manufacturing,Mexico,Merida,2026-08-06,Active
+61,Blue Partners 0061,Manufacturing,Mexico,Mexico City,2026-09-20,Active
+62,Northstar Services 0062,Education,Mexico,Puebla,2026-12-14,Active
+63,Vantage Solutions 0063,Financial Services,Mexico,Queretaro,2026-07-22,Cancelled
+64,Momentum Systems 0064,Retail,Mexico,Puebla,2026-04-19,Active
+65,Evergreen Consulting 0065,Manufacturing,Mexico,Monterrey,2026-01-04,Suspended
+66,Core Holdings 0066,Education,Mexico,Leon,2026-09-30,Active
+67,Redwood Solutions 0067,Manufacturing,Mexico,Mexico City,2026-01-22,Cancelled
+68,Redwood Labs 0068,Manufacturing,Mexico,Merida,2025-10-22,Active
+69,Nova Partners 0069,Healthcare,Mexico,Tijuana,2026-07-27,Active
+70,Vertex Technologies 0070,Financial Services,Mexico,Queretaro,2025-07-05,Active
+71,Prime Group 0071,Manufacturing,Mexico,Puebla,2026-07-25,Active
+72,Atlas Logistics 0072,Healthcare,Mexico,Mexico City,2025-04-24,Active
+73,Prime Networks 0073,Healthcare,Mexico,Leon,2026-02-28,Active
+74,Cobalt Holdings 0074,Financial Services,Mexico,Monterrey,2026-11-27,Active
+75,Vantage Systems 0075,Telecommunications,Mexico,Mexico City,2026-03-30,Suspended
+76,Evergreen Services 0076,Education,Mexico,Tijuana,2026-11-18,Active
+77,Cloud Corporation 0077,Education,Mexico,Leon,2025-10-17,Active
+78,Atlas Systems 0078,Manufacturing,Mexico,Mexico City,2025-11-18,Suspended
+79,Pioneer Logistics 0079,Retail,Mexico,Guadalajara,2026-11-20,Cancelled
+80,Pioneer Services 0080,Manufacturing,Mexico,Guadalajara,2026-02-07,Cancelled
+81,Vertex Corporation 0081,Financial Services,Mexico,Merida,2026-05-27,Active
+82,Elevate Solutions 0082,Manufacturing,Mexico,Queretaro,2026-10-11,Active
+83,Prime Systems 0083,Financial Services,Mexico,Tijuana,2026-09-01,Active
+84,Core Group 0084,Education,Mexico,Monterrey,2026-06-25,Active
+85,Urban Services 0085,Education,Mexico,Monterrey,2026-12-29,Active
+86,Silver Technologies 0086,Retail,Mexico,Guadalajara,2026-05-25,Active
+87,Atlas Group 0087,Retail,Mexico,Mexico City,2025-11-28,Cancelled
+88,Pioneer Industries 0088,Telecommunications,Mexico,Monterrey,2026-07-17,Active
+89,Digital Systems 0089,Retail,Mexico,Puebla,2026-10-26,Active
+90,Digital Technologies 0090,Healthcare,Mexico,Mexico City,2025-12-24,Active
+91,Cloud Logistics 0091,Retail,Mexico,Monterrey,2026-07-12,Active
+92,Prime Group 0092,Telecommunications,Mexico,Merida,2025-12-17,Active
+93,Quantum Industries 0093,Healthcare,Mexico,Queretaro,2026-01-10,Active
+94,Bright Holdings 0094,Healthcare,Mexico,Monterrey,2026-09-06,Active
+95,Prime Logistics 0095,Education,Mexico,Guadalajara,2026-02-21,Active
+96,Cobalt Labs 0096,Manufacturing,Mexico,Monterrey,2025-11-13,Active
+97,Momentum Labs 0097,Healthcare,Mexico,Tijuana,2026-12-21,Active
+98,Digital Consulting 0098,Healthcare,Mexico,Tijuana,2026-07-06,Active
+99,Summit Networks 0099,Healthcare,Mexico,Puebla,2026-08-18,Active
+100,Bright Partners 0100,Telecommunications,Mexico,Tijuana,2025-08-29,Cancelled
+101,Momentum Technologies 0101,Education,Mexico,Merida,2026-05-25,Active
+102,Vantage Systems 0102,Retail,Mexico,Guadalajara,2025-04-13,Active
+103,Fusion Group 0103,Telecommunications,Mexico,Mexico City,2025-07-10,Active
+104,Orion Services 0104,Education,Mexico,Monterrey,2026-03-24,Active
+105,Summit Enterprises 0105,Manufacturing,Mexico,Leon,2025-02-16,Active
+106,Apex Technologies 0106,Education,Mexico,Leon,2025-08-01,Active
+107,Quantum Holdings 0107,Financial Services,Mexico,Leon,2026-02-11,Active
+108,Atlas Logistics 0108,Healthcare,Mexico,Monterrey,2025-11-29,Suspended
+109,Core Enterprises 0109,Healthcare,Mexico,Tijuana,2026-08-30,Active
+110,Vertex Solutions 0110,Retail,Mexico,Queretaro,2026-01-03,Active
+111,Elevate Labs 0111,Education,Mexico,Merida,2025-10-08,Active
+112,Summit Industries 0112,Financial Services,Mexico,Guadalajara,2026-05-28,Cancelled
+113,Vantage Services 0113,Financial Services,Mexico,Mexico City,2026-11-24,Active
+114,Vantage Networks 0114,Financial Services,Mexico,Queretaro,2025-09-13,Active
+115,Redwood Solutions 0115,Education,Mexico,Leon,2025-05-30,Active
+116,Nexa Corporation 0116,Telecommunications,Mexico,Mexico City,2026-08-02,Active
+117,Vertex Networks 0117,Education,Mexico,Guadalajara,2026-07-04,Active
+118,Apex Corporation 0118,Manufacturing,Mexico,Leon,2026-08-29,Active
+119,Quantum Logistics 0119,Financial Services,Mexico,Leon,2026-01-09,Active
+120,Cloud Group 0120,Education,Mexico,Leon,2026-12-03,Active
+121,Fusion Partners 0121,Telecommunications,Mexico,Monterrey,2026-06-30,Active
+122,Urban Consulting 0122,Manufacturing,Mexico,Monterrey,2025-12-17,Active
+123,Core Logistics 0123,Manufacturing,Mexico,Guadalajara,2025-02-02,Active
+124,Bright Solutions 0124,Retail,Mexico,Puebla,2026-01-23,Active
+125,Evergreen Industries 0125,Financial Services,Mexico,Queretaro,2026-10-06,Active
+126,Cloud Partners 0126,Retail,Mexico,Mexico City,2026-01-25,Active
+127,Silver Consulting 0127,Manufacturing,Mexico,Merida,2025-08-12,Active
+128,Evergreen Consulting 0128,Manufacturing,Mexico,Leon,2026-04-06,Active
+129,Orion Logistics 0129,Financial Services,Mexico,Merida,2025-09-23,Cancelled
+130,Nexa Networks 0130,Retail,Mexico,Leon,2026-11-05,Active
+131,Digital Industries 0131,Retail,Mexico,Tijuana,2026-06-17,Active
+132,Nexa Consulting 0132,Manufacturing,Mexico,Leon,2026-08-07,Cancelled
+133,Vantage Technologies 0133,Retail,Mexico,Guadalajara,2026-06-30,Cancelled
+134,Silver Partners 0134,Education,Mexico,Monterrey,2026-11-23,Active
+135,Vantage Corporation 0135,Manufacturing,Mexico,Guadalajara,2025-03-15,Active
+136,Momentum Corporation 0136,Retail,Mexico,Leon,2026-05-01,Active
+137,Apex Labs 0137,Healthcare,Mexico,Tijuana,2026-10-18,Active
+138,Urban Logistics 0138,Financial Services,Mexico,Monterrey,2025-07-10,Active
+139,Atlas Corporation 0139,Retail,Mexico,Queretaro,2026-07-23,Active
+140,Elevate Systems 0140,Manufacturing,Mexico,Merida,2025-01-14,Active
+141,Orion Logistics 0141,Retail,Mexico,Tijuana,2025-03-02,Active
+142,Pioneer Consulting 0142,Manufacturing,Mexico,Queretaro,2026-11-10,Active
+143,Urban Systems 0143,Telecommunications,Mexico,Tijuana,2026-02-07,Cancelled
+144,Atlas Corporation 0144,Retail,Mexico,Mexico City,2025-12-16,Active
+145,Pioneer Enterprises 0145,Healthcare,Mexico,Monterrey,2026-05-29,Active
+146,Summit Group 0146,Healthcare,Mexico,Monterrey,2025-09-18,Cancelled
+147,Nova Partners 0147,Education,Mexico,Leon,2026-09-10,Active
+148,Cobalt Labs 0148,Financial Services,Mexico,Mexico City,2026-10-10,Active
+149,Prime Technologies 0149,Manufacturing,Mexico,Mexico City,2026-09-03,Active
+150,Cloud Group 0150,Manufacturing,Mexico,Tijuana,2026-06-12,Active
+151,Cobalt Enterprises 0151,Education,Mexico,Monterrey,2025-06-26,Active
+152,Redwood Networks 0152,Financial Services,Mexico,Mexico City,2025-03-08,Active
+153,Nexa Systems 0153,Retail,Mexico,Queretaro,2026-06-05,Active
+154,Pioneer Enterprises 0154,Financial Services,Mexico,Puebla,2026-09-23,Active
+155,Orion Systems 0155,Telecommunications,Mexico,Puebla,2026-10-10,Cancelled
+156,Prime Corporation 0156,Healthcare,Mexico,Monterrey,2026-02-17,Active
+157,Elevate Labs 0157,Retail,Mexico,Guadalajara,2026-11-16,Active
+158,Vertex Solutions 0158,Telecommunications,Mexico,Puebla,2025-01-15,Active
+159,Redwood Labs 0159,Telecommunications,Mexico,Guadalajara,2025-10-20,Active
+160,Fusion Industries 0160,Telecommunications,Mexico,Puebla,2026-11-18,Active
+161,Silver Industries 0161,Manufacturing,Mexico,Mexico City,2026-12-17,Active
+162,Urban Technologies 0162,Manufacturing,Mexico,Tijuana,2025-03-22,Active
+163,Cobalt Partners 0163,Telecommunications,Mexico,Leon,2026-11-07,Active
+164,Silver Systems 0164,Retail,Mexico,Mexico City,2025-06-26,Active
+165,Blue Industries 0165,Manufacturing,Mexico,Queretaro,2026-08-27,Active
+166,Pioneer Technologies 0166,Education,Mexico,Merida,2026-01-26,Active
+167,Atlas Labs 0167,Telecommunications,Mexico,Leon,2026-03-23,Active
+168,Evergreen Networks 0168,Manufacturing,Mexico,Tijuana,2026-03-23,Active
+169,Nova Group 0169,Manufacturing,Mexico,Tijuana,2025-09-12,Active
+170,Northstar Partners 0170,Financial Services,Mexico,Guadalajara,2025-04-21,Active
+171,Cloud Corporation 0171,Manufacturing,Mexico,Puebla,2026-11-02,Active
+172,Redwood Systems 0172,Retail,Mexico,Leon,2026-02-25,Suspended
+173,Apex Technologies 0173,Financial Services,Mexico,Queretaro,2025-07-07,Active
+174,Vertex Technologies 0174,Education,Mexico,Tijuana,2026-05-28,Active
+175,Vantage Corporation 0175,Education,Mexico,Mexico City,2025-05-24,Suspended
+176,Silver Partners 0176,Retail,Mexico,Leon,2026-02-19,Active
+177,Vantage Networks 0177,Manufacturing,Mexico,Guadalajara,2025-04-12,Active
+178,Core Partners 0178,Manufacturing,Mexico,Tijuana,2026-03-12,Active
+179,Cobalt Partners 0179,Education,Mexico,Leon,2026-09-21,Active
+180,Elevate Enterprises 0180,Retail,Mexico,Leon,2026-11-12,Cancelled
+181,Fusion Services 0181,Telecommunications,Mexico,Puebla,2026-09-18,Active
+182,Quantum Partners 0182,Telecommunications,Mexico,Mexico City,2026-01-09,Active
+183,Pioneer Logistics 0183,Telecommunications,Mexico,Guadalajara,2025-10-26,Active
+184,Cloud Logistics 0184,Education,Mexico,Queretaro,2026-05-16,Cancelled
+185,Evergreen Systems 0185,Education,Mexico,Merida,2025-10-26,Active
+186,Summit Solutions 0186,Education,Mexico,Mexico City,2026-12-15,Active
+187,Atlas Technologies 0187,Healthcare,Mexico,Merida,2026-08-14,Active
+188,Prime Logistics 0188,Education,Mexico,Tijuana,2025-07-30,Active
+189,Core Systems 0189,Education,Mexico,Queretaro,2025-02-01,Active
+190,Evergreen Networks 0190,Manufacturing,Mexico,Leon,2026-12-06,Active
+191,Fusion Partners 0191,Education,Mexico,Leon,2025-08-24,Active
+192,Cloud Logistics 0192,Telecommunications,Mexico,Puebla,2025-12-15,Active
+193,Summit Industries 0193,Education,Mexico,Puebla,2026-04-09,Active
+194,Momentum Industries 0194,Telecommunications,Mexico,Queretaro,2026-06-02,Active
+195,Atlas Services 0195,Retail,Mexico,Puebla,2025-09-08,Active
+196,Digital Networks 0196,Manufacturing,Mexico,Merida,2026-10-21,Active
+197,Pioneer Solutions 0197,Retail,Mexico,Mexico City,2025-03-16,Active
+198,Cloud Industries 0198,Telecommunications,Mexico,Tijuana,2026-08-15,Cancelled
+199,Orion Networks 0199,Telecommunications,Mexico,Puebla,2026-10-03,Active
+200,Elevate Labs 0200,Healthcare,Mexico,Queretaro,2026-11-12,Active
+201,Summit Corporation 0201,Healthcare,Mexico,Guadalajara,2026-09-29,Active
+202,Core Services 0202,Financial Services,Mexico,Monterrey,2026-06-19,Cancelled
+203,Nexa Technologies 0203,Telecommunications,Mexico,Tijuana,2026-10-09,Active
+204,Momentum Industries 0204,Retail,Mexico,Puebla,2026-04-13,Active
+205,Cloud Labs 0205,Healthcare,Mexico,Guadalajara,2025-02-15,Cancelled
+206,Redwood Enterprises 0206,Healthcare,Mexico,Guadalajara,2025-03-31,Active
+207,Evergreen Systems 0207,Telecommunications,Mexico,Puebla,2025-07-23,Active
+208,Pioneer Labs 0208,Education,Mexico,Mexico City,2025-01-05,Cancelled
+209,Pioneer Services 0209,Telecommunications,Mexico,Tijuana,2025-06-21,Suspended
+210,Prime Services 0210,Retail,Mexico,Queretaro,2025-03-10,Active
+211,Nexa Consulting 0211,Manufacturing,Mexico,Puebla,2025-06-19,Active
+212,Elevate Partners 0212,Retail,Mexico,Queretaro,2025-01-08,Active
+213,Silver Enterprises 0213,Manufacturing,Mexico,Leon,2026-11-24,Active
+214,Blue Systems 0214,Healthcare,Mexico,Tijuana,2026-12-09,Active
+215,Nova Industries 0215,Manufacturing,Mexico,Queretaro,2026-05-08,Active
+216,Atlas Industries 0216,Education,Mexico,Guadalajara,2026-05-17,Cancelled
+217,Core Holdings 0217,Financial Services,Mexico,Mexico City,2026-07-04,Active
+218,Silver Corporation 0218,Education,Mexico,Puebla,2026-03-23,Active
+219,Pioneer Partners 0219,Education,Mexico,Queretaro,2025-11-24,Active
+220,Evergreen Systems 0220,Manufacturing,Mexico,Leon,2026-03-10,Cancelled
+221,Evergreen Logistics 0221,Education,Mexico,Queretaro,2026-10-09,Cancelled
+222,Momentum Labs 0222,Financial Services,Mexico,Tijuana,2025-12-15,Active
+223,Vertex Labs 0223,Financial Services,Mexico,Guadalajara,2026-07-05,Active
+224,Bright Labs 0224,Education,Mexico,Monterrey,2025-09-16,Cancelled
+225,Urban Group 0225,Telecommunications,Mexico,Queretaro,2026-09-24,Active
+226,Vertex Networks 0226,Manufacturing,Mexico,Guadalajara,2025-09-08,Cancelled
+227,Redwood Services 0227,Education,Mexico,Guadalajara,2026-09-20,Active
+228,Pioneer Consulting 0228,Financial Services,Mexico,Merida,2026-12-11,Active
+229,Elevate Holdings 0229,Education,Mexico,Mexico City,2026-01-02,Active
+230,Core Group 0230,Education,Mexico,Guadalajara,2026-06-26,Active
+231,Evergreen Solutions 0231,Retail,Mexico,Merida,2025-02-05,Active
+232,Momentum Corporation 0232,Telecommunications,Mexico,Merida,2026-03-11,Active
+233,Urban Enterprises 0233,Manufacturing,Mexico,Merida,2026-07-15,Active
+234,Fusion Systems 0234,Telecommunications,Mexico,Leon,2026-12-05,Active
+235,Silver Networks 0235,Healthcare,Mexico,Queretaro,2026-10-03,Active
+236,Pioneer Services 0236,Telecommunications,Mexico,Merida,2025-01-12,Active
+237,Summit Services 0237,Retail,Mexico,Monterrey,2026-04-28,Active
+238,Apex Logistics 0238,Telecommunications,Mexico,Merida,2026-02-27,Active
+239,Summit Holdings 0239,Financial Services,Mexico,Mexico City,2026-01-09,Active
+240,Vantage Corporation 0240,Telecommunications,Mexico,Guadalajara,2026-08-17,Cancelled
+241,Silver Services 0241,Healthcare,Mexico,Queretaro,2026-01-23,Active
+242,Cobalt Networks 0242,Retail,Mexico,Queretaro,2025-01-29,Active
+243,Atlas Labs 0243,Education,Mexico,Leon,2025-10-22,Active
+244,Digital Networks 0244,Healthcare,Mexico,Merida,2026-03-15,Active
+245,Fusion Labs 0245,Telecommunications,Mexico,Monterrey,2026-02-01,Active
+246,Fusion Services 0246,Financial Services,Mexico,Leon,2025-08-07,Active
+247,Silver Logistics 0247,Education,Mexico,Leon,2025-12-10,Cancelled
+248,Cobalt Industries 0248,Manufacturing,Mexico,Monterrey,2025-07-29,Active
+249,Summit Enterprises 0249,Healthcare,Mexico,Puebla,2025-08-31,Active
+250,Urban Solutions 0250,Education,Mexico,Merida,2025-03-15,Active
+251,Prime Systems 0251,Manufacturing,Mexico,Queretaro,2025-10-13,Active
+252,Cloud Group 0252,Manufacturing,Mexico,Leon,2026-06-19,Active
+253,Apex Industries 0253,Manufacturing,Mexico,Guadalajara,2026-04-08,Active
+254,Momentum Labs 0254,Telecommunications,Mexico,Queretaro,2025-04-07,Active
+255,Pioneer Solutions 0255,Healthcare,Mexico,Queretaro,2026-06-20,Active
+256,Elevate Logistics 0256,Manufacturing,Mexico,Queretaro,2025-03-02,Active
+257,Bright Technologies 0257,Healthcare,Mexico,Leon,2025-12-27,Active
+258,Urban Networks 0258,Telecommunications,Mexico,Leon,2025-07-14,Active
+259,Prime Services 0259,Manufacturing,Mexico,Mexico City,2026-07-04,Active
+260,Momentum Enterprises 0260,Retail,Mexico,Queretaro,2025-08-29,Suspended
+261,Apex Labs 0261,Healthcare,Mexico,Monterrey,2026-07-31,Active
+262,Northstar Labs 0262,Telecommunications,Mexico,Merida,2026-10-11,Active
+263,Atlas Holdings 0263,Manufacturing,Mexico,Queretaro,2026-04-11,Active
+264,Digital Partners 0264,Retail,Mexico,Tijuana,2026-12-02,Active
+265,Elevate Services 0265,Manufacturing,Mexico,Monterrey,2025-11-25,Active
+266,Nexa Systems 0266,Telecommunications,Mexico,Tijuana,2025-06-30,Active
+267,Cloud Solutions 0267,Education,Mexico,Guadalajara,2026-10-05,Active
+268,Digital Solutions 0268,Financial Services,Mexico,Merida,2025-02-08,Active
+269,Summit Group 0269,Telecommunications,Mexico,Monterrey,2026-11-19,Active
+270,Urban Partners 0270,Financial Services,Mexico,Tijuana,2026-09-16,Cancelled
+271,Nova Networks 0271,Education,Mexico,Merida,2025-01-09,Active
+272,Elevate Industries 0272,Education,Mexico,Puebla,2026-09-29,Cancelled
+273,Digital Technologies 0273,Healthcare,Mexico,Mexico City,2026-12-24,Active
+274,Cobalt Holdings 0274,Healthcare,Mexico,Puebla,2025-09-26,Active
+275,Silver Group 0275,Retail,Mexico,Merida,2025-05-17,Active
+276,Core Holdings 0276,Retail,Mexico,Mexico City,2026-05-05,Active
+277,Momentum Solutions 0277,Financial Services,Mexico,Merida,2025-11-29,Cancelled
+278,Evergreen Solutions 0278,Telecommunications,Mexico,Guadalajara,2026-10-10,Active
+279,Evergreen Enterprises 0279,Manufacturing,Mexico,Leon,2025-02-12,Active
+280,Prime Solutions 0280,Healthcare,Mexico,Queretaro,2026-02-18,Active
+281,Northstar Services 0281,Retail,Mexico,Guadalajara,2025-12-21,Active
+282,Orion Networks 0282,Education,Mexico,Guadalajara,2025-12-17,Suspended
+283,Nova Holdings 0283,Education,Mexico,Monterrey,2026-06-11,Active
+284,Silver Group 0284,Retail,Mexico,Monterrey,2025-12-31,Active
+285,Silver Corporation 0285,Education,Mexico,Leon,2026-10-18,Active
+286,Core Consulting 0286,Financial Services,Mexico,Leon,2026-03-13,Active
+287,Summit Enterprises 0287,Financial Services,Mexico,Leon,2026-08-12,Active
+288,Vantage Technologies 0288,Retail,Mexico,Guadalajara,2026-11-11,Cancelled
+289,Evergreen Holdings 0289,Retail,Mexico,Merida,2025-08-19,Active
+290,Northstar Corporation 0290,Manufacturing,Mexico,Mexico City,2026-12-15,Active
+291,Summit Consulting 0291,Financial Services,Mexico,Mexico City,2025-06-01,Active
+292,Core Logistics 0292,Telecommunications,Mexico,Monterrey,2026-07-14,Suspended
+293,Quantum Group 0293,Financial Services,Mexico,Guadalajara,2025-06-12,Active
+294,Quantum Logistics 0294,Retail,Mexico,Mexico City,2025-08-16,Active
+295,Redwood Services 0295,Education,Mexico,Merida,2026-04-06,Active
+296,Quantum Networks 0296,Financial Services,Mexico,Leon,2026-02-15,Active
+297,Pioneer Technologies 0297,Manufacturing,Mexico,Mexico City,2025-01-07,Active
+298,Summit Labs 0298,Education,Mexico,Monterrey,2025-10-14,Active
+299,Cobalt Industries 0299,Retail,Mexico,Puebla,2025-03-28,Active
+300,Nexa Technologies 0300,Retail,Mexico,Merida,2026-02-02,Cancelled
+301,Quantum Industries 0301,Healthcare,Mexico,Tijuana,2026-02-09,Active
+302,Urban Group 0302,Healthcare,Mexico,Puebla,2026-04-11,Active
+303,Atlas Enterprises 0303,Education,Mexico,Merida,2026-07-22,Cancelled
+304,Urban Partners 0304,Manufacturing,Mexico,Monterrey,2025-06-18,Active
+305,Core Holdings 0305,Manufacturing,Mexico,Leon,2026-11-05,Active
+306,Atlas Industries 0306,Telecommunications,Mexico,Tijuana,2026-07-23,Cancelled
+307,Atlas Technologies 0307,Retail,Mexico,Merida,2025-05-05,Active
+308,Bright Labs 0308,Education,Mexico,Monterrey,2026-10-16,Active
+309,Nova Consulting 0309,Manufacturing,Mexico,Queretaro,2025-10-09,Active
+310,Core Group 0310,Manufacturing,Mexico,Tijuana,2026-05-30,Active
+311,Summit Industries 0311,Telecommunications,Mexico,Monterrey,2026-06-05,Active
+312,Vertex Services 0312,Education,Mexico,Tijuana,2025-07-13,Active
+313,Prime Enterprises 0313,Telecommunications,Mexico,Merida,2026-10-01,Active
+314,Core Logistics 0314,Education,Mexico,Mexico City,2026-07-04,Active
+315,Digital Corporation 0315,Retail,Mexico,Monterrey,2026-05-08,Active
+316,Northstar Corporation 0316,Telecommunications,Mexico,Merida,2025-01-23,Active
+317,Redwood Group 0317,Financial Services,Mexico,Mexico City,2025-06-19,Active
+318,Elevate Networks 0318,Education,Mexico,Queretaro,2026-09-19,Cancelled
+319,Urban Logistics 0319,Telecommunications,Mexico,Monterrey,2026-07-20,Active
+320,Evergreen Group 0320,Retail,Mexico,Merida,2026-01-13,Active
+321,Blue Enterprises 0321,Telecommunications,Mexico,Monterrey,2025-02-13,Active
+322,Urban Logistics 0322,Healthcare,Mexico,Tijuana,2026-06-25,Active
+323,Urban Consulting 0323,Telecommunications,Mexico,Tijuana,2026-02-19,Active
+324,Apex Logistics 0324,Telecommunications,Mexico,Mexico City,2026-06-03,Active
+325,Cloud Group 0325,Telecommunications,Mexico,Monterrey,2026-06-25,Active
+326,Prime Systems 0326,Education,Mexico,Monterrey,2025-05-05,Active
+327,Urban Holdings 0327,Manufacturing,Mexico,Monterrey,2026-08-07,Cancelled
+328,Redwood Technologies 0328,Financial Services,Mexico,Queretaro,2026-12-03,Active
+329,Silver Solutions 0329,Telecommunications,Mexico,Queretaro,2026-08-08,Cancelled
+330,Vertex Labs 0330,Financial Services,Mexico,Monterrey,2026-12-27,Cancelled
+331,Urban Group 0331,Retail,Mexico,Tijuana,2026-04-11,Active
+332,Atlas Labs 0332,Manufacturing,Mexico,Merida,2026-11-24,Active
+333,Quantum Enterprises 0333,Manufacturing,Mexico,Monterrey,2026-06-28,Active
+334,Pioneer Labs 0334,Education,Mexico,Mexico City,2025-12-28,Active
+335,Blue Holdings 0335,Retail,Mexico,Mexico City,2025-06-10,Active
+336,Cobalt Networks 0336,Manufacturing,Mexico,Merida,2026-12-22,Active
+337,Silver Technologies 0337,Healthcare,Mexico,Tijuana,2026-10-22,Suspended
+338,Cloud Systems 0338,Education,Mexico,Monterrey,2025-12-22,Active
+339,Nexa Partners 0339,Manufacturing,Mexico,Guadalajara,2026-03-13,Active
+340,Evergreen Systems 0340,Healthcare,Mexico,Merida,2025-01-05,Active
+341,Cloud Services 0341,Manufacturing,Mexico,Tijuana,2025-09-16,Active
+342,Evergreen Systems 0342,Financial Services,Mexico,Guadalajara,2026-08-16,Active
+343,Pioneer Solutions 0343,Retail,Mexico,Queretaro,2025-04-23,Active
+344,Momentum Services 0344,Education,Mexico,Tijuana,2026-03-28,Suspended
+345,Northstar Group 0345,Retail,Mexico,Leon,2026-02-27,Active
+346,Momentum Consulting 0346,Manufacturing,Mexico,Queretaro,2026-01-22,Active
+347,Elevate Enterprises 0347,Telecommunications,Mexico,Queretaro,2025-02-22,Cancelled
+348,Urban Industries 0348,Retail,Mexico,Mexico City,2026-01-17,Active
+349,Momentum Logistics 0349,Healthcare,Mexico,Queretaro,2026-03-02,Suspended
+350,Core Partners 0350,Telecommunications,Mexico,Merida,2025-10-29,Active
+351,Bright Enterprises 0351,Healthcare,Mexico,Guadalajara,2026-03-13,Active
+352,Orion Labs 0352,Education,Mexico,Monterrey,2026-09-30,Active
+353,Pioneer Industries 0353,Education,Mexico,Puebla,2026-12-27,Active
+354,Digital Enterprises 0354,Financial Services,Mexico,Monterrey,2025-09-21,Active
+355,Apex Industries 0355,Telecommunications,Mexico,Monterrey,2025-07-30,Active
+356,Summit Systems 0356,Telecommunications,Mexico,Leon,2025-03-09,Cancelled
+357,Silver Services 0357,Healthcare,Mexico,Puebla,2025-12-13,Active
+358,Urban Group 0358,Telecommunications,Mexico,Mexico City,2025-07-12,Active
+359,Core Partners 0359,Manufacturing,Mexico,Tijuana,2026-05-23,Cancelled
+360,Momentum Enterprises 0360,Telecommunications,Mexico,Mexico City,2026-01-02,Active
+361,Cloud Corporation 0361,Telecommunications,Mexico,Leon,2025-08-23,Cancelled
+362,Silver Holdings 0362,Manufacturing,Mexico,Queretaro,2025-10-01,Active
+363,Pioneer Partners 0363,Education,Mexico,Monterrey,2026-06-15,Active
+364,Atlas Corporation 0364,Financial Services,Mexico,Guadalajara,2026-09-06,Active
+365,Nova Group 0365,Healthcare,Mexico,Tijuana,2026-08-24,Active
+366,Bright Consulting 0366,Healthcare,Mexico,Puebla,2026-08-08,Active
+367,Vertex Corporation 0367,Retail,Mexico,Puebla,2026-05-21,Active
+368,Cloud Systems 0368,Financial Services,Mexico,Merida,2026-12-07,Active
+369,Momentum Holdings 0369,Manufacturing,Mexico,Mexico City,2025-12-25,Active
+370,Bright Services 0370,Financial Services,Mexico,Monterrey,2025-01-01,Active
+371,Digital Services 0371,Financial Services,Mexico,Guadalajara,2026-09-23,Active
+372,Redwood Consulting 0372,Healthcare,Mexico,Tijuana,2025-03-03,Active
+373,Vertex Consulting 0373,Financial Services,Mexico,Mexico City,2026-07-16,Active
+374,Cobalt Technologies 0374,Healthcare,Mexico,Monterrey,2026-06-03,Active
+375,Nova Labs 0375,Telecommunications,Mexico,Monterrey,2026-10-16,Active
+376,Cloud Consulting 0376,Healthcare,Mexico,Merida,2026-04-20,Active
+377,Bright Group 0377,Financial Services,Mexico,Monterrey,2026-08-15,Active
+378,Elevate Technologies 0378,Retail,Mexico,Merida,2025-10-29,Active
+379,Summit Industries 0379,Telecommunications,Mexico,Mexico City,2026-03-13,Active
+380,Vantage Consulting 0380,Education,Mexico,Puebla,2026-11-04,Cancelled
+381,Nova Enterprises 0381,Telecommunications,Mexico,Puebla,2025-12-20,Cancelled
+382,Prime Holdings 0382,Telecommunications,Mexico,Merida,2026-11-07,Active
+383,Summit Services 0383,Manufacturing,Mexico,Mexico City,2026-01-28,Active
+384,Vantage Group 0384,Education,Mexico,Guadalajara,2026-11-23,Cancelled
+385,Cobalt Technologies 0385,Education,Mexico,Merida,2025-06-12,Active
+386,Nexa Logistics 0386,Manufacturing,Mexico,Mexico City,2026-12-16,Active
+387,Nova Industries 0387,Healthcare,Mexico,Guadalajara,2026-02-04,Active
+388,Prime Industries 0388,Telecommunications,Mexico,Merida,2025-07-23,Active
+389,Vertex Corporation 0389,Education,Mexico,Monterrey,2026-07-25,Cancelled
+390,Vertex Networks 0390,Healthcare,Mexico,Monterrey,2026-06-08,Active
+391,Northstar Corporation 0391,Telecommunications,Mexico,Mexico City,2026-07-20,Active
+392,Elevate Enterprises 0392,Healthcare,Mexico,Guadalajara,2026-08-12,Active
+393,Blue Services 0393,Education,Mexico,Guadalajara,2026-08-11,Active
+394,Elevate Systems 0394,Financial Services,Mexico,Guadalajara,2026-12-03,Suspended
+395,Nova Systems 0395,Manufacturing,Mexico,Leon,2025-12-26,Active
+396,Nexa Partners 0396,Healthcare,Mexico,Puebla,2026-05-13,Active
+397,Momentum Solutions 0397,Retail,Mexico,Merida,2025-03-02,Suspended
+398,Orion Consulting 0398,Education,Mexico,Mexico City,2026-02-02,Cancelled
+399,Quantum Solutions 0399,Manufacturing,Mexico,Monterrey,2026-09-19,Active
+400,Momentum Group 0400,Education,Mexico,Mexico City,2026-05-11,Active
+401,Nova Solutions 0401,Financial Services,Mexico,Queretaro,2026-09-18,Active
+402,Silver Systems 0402,Healthcare,Mexico,Guadalajara,2026-07-06,Active
+403,Redwood Holdings 0403,Retail,Mexico,Queretaro,2026-12-02,Cancelled
+404,Orion Enterprises 0404,Financial Services,Mexico,Leon,2026-06-13,Active
+405,Apex Systems 0405,Healthcare,Mexico,Guadalajara,2026-12-11,Active
+406,Urban Enterprises 0406,Retail,Mexico,Puebla,2025-02-05,Cancelled
+407,Urban Solutions 0407,Retail,Mexico,Queretaro,2026-10-11,Active
+408,Elevate Labs 0408,Healthcare,Mexico,Tijuana,2026-06-05,Active
+409,Momentum Logistics 0409,Healthcare,Mexico,Queretaro,2026-09-10,Active
+410,Nova Holdings 0410,Education,Mexico,Leon,2026-07-29,Cancelled
+411,Nova Partners 0411,Financial Services,Mexico,Merida,2025-12-22,Active
+412,Blue Holdings 0412,Education,Mexico,Queretaro,2025-06-07,Active
+413,Cobalt Consulting 0413,Retail,Mexico,Mexico City,2026-01-31,Active
+414,Prime Technologies 0414,Telecommunications,Mexico,Leon,2026-04-29,Cancelled
+415,Northstar Group 0415,Education,Mexico,Monterrey,2026-02-13,Cancelled
+416,Vertex Labs 0416,Education,Mexico,Guadalajara,2025-07-21,Cancelled
+417,Summit Industries 0417,Retail,Mexico,Leon,2026-03-08,Active
+418,Core Enterprises 0418,Telecommunications,Mexico,Leon,2025-07-21,Active
+419,Summit Group 0419,Healthcare,Mexico,Monterrey,2026-05-20,Active
+420,Blue Systems 0420,Financial Services,Mexico,Monterrey,2025-10-27,Active
+421,Redwood Group 0421,Education,Mexico,Leon,2026-06-10,Suspended
+422,Urban Industries 0422,Manufacturing,Mexico,Puebla,2025-04-17,Active
+423,Nexa Logistics 0423,Telecommunications,Mexico,Puebla,2025-02-16,Active
+424,Vantage Solutions 0424,Healthcare,Mexico,Leon,2025-12-23,Active
+425,Summit Partners 0425,Manufacturing,Mexico,Guadalajara,2026-12-31,Active
+426,Nexa Solutions 0426,Manufacturing,Mexico,Tijuana,2025-05-14,Cancelled
+427,Summit Group 0427,Manufacturing,Mexico,Mexico City,2026-10-09,Active
+428,Blue Solutions 0428,Financial Services,Mexico,Queretaro,2025-03-13,Active
+429,Quantum Corporation 0429,Telecommunications,Mexico,Mexico City,2026-07-25,Active
+430,Vertex Solutions 0430,Financial Services,Mexico,Queretaro,2026-05-13,Cancelled
+431,Cobalt Group 0431,Retail,Mexico,Mexico City,2025-08-16,Active
+432,Apex Systems 0432,Education,Mexico,Merida,2026-08-25,Cancelled
+433,Evergreen Solutions 0433,Manufacturing,Mexico,Merida,2025-07-22,Active
+434,Nexa Industries 0434,Retail,Mexico,Tijuana,2026-04-20,Active
+435,Vantage Labs 0435,Education,Mexico,Queretaro,2025-01-18,Active
+436,Redwood Networks 0436,Manufacturing,Mexico,Guadalajara,2025-09-13,Active
+437,Cobalt Technologies 0437,Healthcare,Mexico,Queretaro,2026-07-16,Active
+438,Nova Technologies 0438,Telecommunications,Mexico,Leon,2025-10-06,Cancelled
+439,Quantum Labs 0439,Education,Mexico,Leon,2026-09-06,Active
+440,Nova Partners 0440,Education,Mexico,Queretaro,2026-04-03,Active
+441,Apex Logistics 0441,Manufacturing,Mexico,Leon,2026-05-24,Active
+442,Nexa Group 0442,Healthcare,Mexico,Queretaro,2025-04-30,Active
+443,Momentum Holdings 0443,Education,Mexico,Merida,2026-01-29,Active
+444,Nexa Holdings 0444,Education,Mexico,Leon,2026-03-30,Cancelled
+445,Quantum Labs 0445,Financial Services,Mexico,Leon,2025-12-24,Active
+446,Cobalt Labs 0446,Healthcare,Mexico,Tijuana,2025-10-16,Active
+447,Evergreen Solutions 0447,Financial Services,Mexico,Guadalajara,2026-03-31,Active
+448,Nova Networks 0448,Manufacturing,Mexico,Guadalajara,2026-04-23,Active
+449,Bright Logistics 0449,Healthcare,Mexico,Leon,2026-11-11,Active
+450,Apex Solutions 0450,Healthcare,Mexico,Monterrey,2025-06-15,Active
+451,Quantum Group 0451,Retail,Mexico,Merida,2025-09-27,Active
+452,Pioneer Partners 0452,Healthcare,Mexico,Monterrey,2026-06-22,Active
+453,Cloud Services 0453,Telecommunications,Mexico,Leon,2025-08-12,Active
+454,Core Labs 0454,Retail,Mexico,Queretaro,2026-10-15,Cancelled
+455,Silver Industries 0455,Telecommunications,Mexico,Puebla,2025-03-31,Active
+456,Core Labs 0456,Manufacturing,Mexico,Guadalajara,2026-01-01,Active
+457,Vantage Holdings 0457,Telecommunications,Mexico,Mexico City,2026-06-12,Active
+458,Atlas Consulting 0458,Financial Services,Mexico,Queretaro,2025-03-14,Active
+459,Nexa Corporation 0459,Financial Services,Mexico,Leon,2026-06-13,Active
+460,Bright Holdings 0460,Telecommunications,Mexico,Mexico City,2026-05-16,Active
+461,Elevate Solutions 0461,Financial Services,Mexico,Merida,2026-02-25,Active
+462,Nexa Technologies 0462,Manufacturing,Mexico,Merida,2026-08-03,Cancelled
+463,Blue Enterprises 0463,Manufacturing,Mexico,Queretaro,2026-07-12,Cancelled
+464,Apex Industries 0464,Financial Services,Mexico,Leon,2026-02-07,Active
+465,Vertex Partners 0465,Healthcare,Mexico,Merida,2026-02-23,Active
+466,Fusion Group 0466,Retail,Mexico,Tijuana,2026-02-08,Cancelled
+467,Cloud Systems 0467,Education,Mexico,Merida,2025-08-09,Active
+468,Atlas Holdings 0468,Healthcare,Mexico,Merida,2026-02-21,Active
+469,Orion Corporation 0469,Retail,Mexico,Puebla,2025-10-04,Active
+470,Silver Labs 0470,Education,Mexico,Tijuana,2026-01-26,Active
+471,Nova Technologies 0471,Financial Services,Mexico,Puebla,2026-07-04,Active
+472,Vantage Services 0472,Healthcare,Mexico,Mexico City,2025-11-17,Active
+473,Cloud Industries 0473,Financial Services,Mexico,Tijuana,2026-03-29,Active
+474,Silver Services 0474,Manufacturing,Mexico,Puebla,2025-06-07,Cancelled
+475,Silver Systems 0475,Retail,Mexico,Merida,2026-10-06,Active
+476,Apex Industries 0476,Manufacturing,Mexico,Tijuana,2026-08-17,Active
+477,Northstar Solutions 0477,Healthcare,Mexico,Mexico City,2026-05-18,Active
+478,Fusion Technologies 0478,Education,Mexico,Queretaro,2026-06-26,Active
+479,Prime Technologies 0479,Education,Mexico,Tijuana,2026-07-18,Cancelled
+480,Evergreen Industries 0480,Financial Services,Mexico,Merida,2026-05-01,Active
+481,Prime Labs 0481,Education,Mexico,Monterrey,2025-01-18,Active
+482,Nexa Systems 0482,Healthcare,Mexico,Queretaro,2026-08-18,Active
+483,Vertex Corporation 0483,Manufacturing,Mexico,Queretaro,2026-08-05,Active
+484,Cobalt Enterprises 0484,Education,Mexico,Puebla,2025-11-18,Active
+485,Vertex Technologies 0485,Education,Mexico,Merida,2026-02-04,Active
+486,Prime Services 0486,Financial Services,Mexico,Merida,2026-05-22,Active
+487,Cobalt Labs 0487,Education,Mexico,Mexico City,2026-03-18,Cancelled
+488,Momentum Group 0488,Retail,Mexico,Leon,2025-10-16,Active
+489,Silver Corporation 0489,Manufacturing,Mexico,Tijuana,2025-05-16,Suspended
+490,Silver Systems 0490,Education,Mexico,Merida,2026-05-22,Active
+491,Core Holdings 0491,Financial Services,Mexico,Tijuana,2026-06-19,Active
+492,Nova Partners 0492,Retail,Mexico,Puebla,2025-07-10,Active
+493,Core Corporation 0493,Financial Services,Mexico,Queretaro,2026-09-09,Active
+494,Momentum Enterprises 0494,Retail,Mexico,Puebla,2026-08-15,Active
+495,Cloud Group 0495,Healthcare,Mexico,Tijuana,2025-11-06,Active
+496,Elevate Services 0496,Education,Mexico,Leon,2026-07-28,Active
+497,Nexa Group 0497,Retail,Mexico,Merida,2025-09-21,Cancelled
+498,Northstar Solutions 0498,Healthcare,Mexico,Queretaro,2026-09-26,Active
+499,Apex Holdings 0499,Financial Services,Mexico,Tijuana,2025-04-13,Active
+500,Core Holdings 0500,Retail,Mexico,Leon,2026-07-04,Cancelled
+501,Silver Corporation 0501,Financial Services,Mexico,Guadalajara,2025-09-16,Active
+502,Vantage Services 0502,Healthcare,Mexico,Tijuana,2026-09-08,Active
+503,Quantum Systems 0503,Retail,Mexico,Mexico City,2026-06-29,Cancelled
+504,Apex Systems 0504,Education,Mexico,Queretaro,2026-07-17,Active
+505,Summit Corporation 0505,Healthcare,Mexico,Puebla,2025-11-28,Active
+506,Nova Enterprises 0506,Telecommunications,Mexico,Guadalajara,2025-09-20,Active
+507,Cloud Systems 0507,Education,Mexico,Guadalajara,2026-03-09,Active
+508,Pioneer Consulting 0508,Telecommunications,Mexico,Puebla,2026-11-08,Active
+509,Quantum Services 0509,Retail,Mexico,Queretaro,2026-07-12,Active
+510,Prime Enterprises 0510,Education,Mexico,Merida,2026-12-13,Active
+511,Prime Corporation 0511,Retail,Mexico,Puebla,2026-01-04,Cancelled
+512,Evergreen Group 0512,Retail,Mexico,Puebla,2026-02-25,Active
+513,Orion Corporation 0513,Telecommunications,Mexico,Puebla,2025-05-22,Active
+514,Momentum Holdings 0514,Financial Services,Mexico,Merida,2026-09-22,Active
+515,Cobalt Consulting 0515,Financial Services,Mexico,Tijuana,2025-12-15,Suspended
+516,Redwood Technologies 0516,Manufacturing,Mexico,Guadalajara,2025-05-13,Active
+517,Bright Partners 0517,Telecommunications,Mexico,Queretaro,2026-10-20,Active
+518,Evergreen Corporation 0518,Retail,Mexico,Puebla,2025-11-23,Active
+519,Fusion Systems 0519,Retail,Mexico,Mexico City,2025-12-03,Active
+520,Elevate Logistics 0520,Education,Mexico,Monterrey,2026-05-13,Active
+521,Cloud Group 0521,Healthcare,Mexico,Leon,2025-06-21,Cancelled
+522,Redwood Logistics 0522,Retail,Mexico,Leon,2026-06-07,Active
+523,Urban Enterprises 0523,Financial Services,Mexico,Tijuana,2026-05-31,Active
+524,Northstar Labs 0524,Education,Mexico,Mexico City,2026-11-21,Active
+525,Prime Group 0525,Telecommunications,Mexico,Merida,2026-04-10,Suspended
+526,Apex Enterprises 0526,Healthcare,Mexico,Monterrey,2026-07-31,Active
+527,Redwood Labs 0527,Manufacturing,Mexico,Monterrey,2025-06-25,Active
+528,Momentum Group 0528,Manufacturing,Mexico,Leon,2026-04-03,Active
+529,Atlas Corporation 0529,Financial Services,Mexico,Guadalajara,2025-04-01,Active
+530,Momentum Logistics 0530,Healthcare,Mexico,Monterrey,2026-04-18,Active
+531,Cobalt Labs 0531,Manufacturing,Mexico,Merida,2026-02-15,Active
+532,Silver Solutions 0532,Financial Services,Mexico,Queretaro,2026-09-02,Active
+533,Atlas Logistics 0533,Education,Mexico,Queretaro,2025-01-08,Active
+534,Cloud Consulting 0534,Healthcare,Mexico,Queretaro,2026-01-03,Active
+535,Pioneer Systems 0535,Financial Services,Mexico,Merida,2025-06-26,Active
+536,Nexa Group 0536,Financial Services,Mexico,Puebla,2026-06-06,Active
+537,Elevate Networks 0537,Education,Mexico,Leon,2025-08-22,Active
+538,Cobalt Partners 0538,Manufacturing,Mexico,Leon,2026-12-18,Active
+539,Silver Solutions 0539,Healthcare,Mexico,Queretaro,2025-03-26,Cancelled
+540,Bright Consulting 0540,Financial Services,Mexico,Monterrey,2025-03-09,Active
+541,Cloud Logistics 0541,Financial Services,Mexico,Merida,2026-12-31,Cancelled
+542,Momentum Networks 0542,Education,Mexico,Guadalajara,2025-05-11,Active
+543,Digital Group 0543,Telecommunications,Mexico,Guadalajara,2026-01-25,Active
+544,Redwood Services 0544,Manufacturing,Mexico,Mexico City,2026-03-01,Active
+545,Core Systems 0545,Healthcare,Mexico,Guadalajara,2026-08-31,Active
+546,Blue Corporation 0546,Education,Mexico,Puebla,2026-12-05,Active
+547,Cobalt Technologies 0547,Financial Services,Mexico,Mexico City,2025-12-25,Active
+548,Evergreen Holdings 0548,Education,Mexico,Queretaro,2026-02-24,Cancelled
+549,Bright Partners 0549,Telecommunications,Mexico,Merida,2025-09-25,Active
+550,Fusion Services 0550,Healthcare,Mexico,Tijuana,2026-01-21,Active
+551,Nova Corporation 0551,Financial Services,Mexico,Mexico City,2026-01-02,Active
+552,Evergreen Systems 0552,Financial Services,Mexico,Mexico City,2025-12-09,Active
+553,Orion Corporation 0553,Healthcare,Mexico,Tijuana,2025-02-21,Active
+554,Orion Services 0554,Financial Services,Mexico,Mexico City,2025-06-01,Active
+555,Pioneer Partners 0555,Telecommunications,Mexico,Leon,2025-01-21,Active
+556,Blue Enterprises 0556,Financial Services,Mexico,Guadalajara,2026-03-01,Active
+557,Cloud Systems 0557,Retail,Mexico,Leon,2025-12-06,Active
+558,Orion Consulting 0558,Financial Services,Mexico,Leon,2025-11-15,Active
+559,Blue Technologies 0559,Manufacturing,Mexico,Tijuana,2025-04-04,Active
+560,Core Enterprises 0560,Manufacturing,Mexico,Merida,2026-07-17,Active
+561,Blue Systems 0561,Telecommunications,Mexico,Guadalajara,2025-03-27,Suspended
+562,Blue Technologies 0562,Education,Mexico,Tijuana,2025-03-23,Active
+563,Urban Systems 0563,Education,Mexico,Merida,2025-12-14,Active
+564,Nova Enterprises 0564,Telecommunications,Mexico,Monterrey,2025-11-10,Active
+565,Blue Technologies 0565,Manufacturing,Mexico,Guadalajara,2026-09-07,Cancelled
+566,Atlas Solutions 0566,Telecommunications,Mexico,Queretaro,2026-12-02,Active
+567,Atlas Networks 0567,Education,Mexico,Mexico City,2025-12-09,Active
+568,Evergreen Partners 0568,Telecommunications,Mexico,Merida,2026-05-08,Active
+569,Vantage Solutions 0569,Financial Services,Mexico,Monterrey,2026-10-13,Active
+570,Evergreen Enterprises 0570,Healthcare,Mexico,Mexico City,2026-08-29,Cancelled
+571,Summit Partners 0571,Retail,Mexico,Guadalajara,2025-06-14,Active
+572,Cloud Technologies 0572,Manufacturing,Mexico,Queretaro,2026-10-09,Active
+573,Northstar Services 0573,Financial Services,Mexico,Tijuana,2026-08-16,Active
+574,Evergreen Consulting 0574,Telecommunications,Mexico,Guadalajara,2026-03-02,Active
+575,Apex Networks 0575,Education,Mexico,Guadalajara,2026-07-31,Active
+576,Vantage Corporation 0576,Retail,Mexico,Queretaro,2025-11-06,Cancelled
+577,Atlas Partners 0577,Financial Services,Mexico,Queretaro,2025-08-22,Active
+578,Fusion Logistics 0578,Education,Mexico,Tijuana,2025-06-19,Active
+579,Core Services 0579,Financial Services,Mexico,Mexico City,2025-07-06,Cancelled
+580,Nova Partners 0580,Retail,Mexico,Puebla,2025-04-24,Suspended
+581,Core Group 0581,Financial Services,Mexico,Monterrey,2026-07-11,Active
+582,Blue Industries 0582,Education,Mexico,Queretaro,2026-07-29,Active
+583,Bright Services 0583,Healthcare,Mexico,Leon,2026-07-21,Active
+584,Apex Corporation 0584,Telecommunications,Mexico,Mexico City,2026-08-01,Active
+585,Urban Corporation 0585,Education,Mexico,Monterrey,2025-08-19,Cancelled
+586,Prime Consulting 0586,Financial Services,Mexico,Merida,2025-01-03,Suspended
+587,Prime Logistics 0587,Healthcare,Mexico,Monterrey,2025-09-05,Cancelled
+588,Blue Technologies 0588,Telecommunications,Mexico,Leon,2025-03-07,Cancelled
+589,Redwood Labs 0589,Telecommunications,Mexico,Queretaro,2026-07-16,Active
+590,Pioneer Services 0590,Healthcare,Mexico,Monterrey,2026-06-25,Active
+591,Elevate Networks 0591,Retail,Mexico,Leon,2026-12-25,Cancelled
+592,Cloud Holdings 0592,Healthcare,Mexico,Queretaro,2025-10-11,Active
+593,Digital Partners 0593,Telecommunications,Mexico,Monterrey,2025-05-29,Active
+594,Nexa Networks 0594,Education,Mexico,Leon,2025-11-29,Active
+595,Fusion Services 0595,Education,Mexico,Merida,2025-06-30,Active
+596,Pioneer Enterprises 0596,Manufacturing,Mexico,Guadalajara,2025-10-01,Active
+597,Silver Systems 0597,Financial Services,Mexico,Guadalajara,2026-01-13,Active
+598,Pioneer Corporation 0598,Retail,Mexico,Monterrey,2026-03-24,Active
+599,Pioneer Holdings 0599,Education,Mexico,Guadalajara,2025-12-20,Active
+600,Blue Labs 0600,Telecommunications,Mexico,Queretaro,2026-08-20,Active
+601,Silver Holdings 0601,Education,Mexico,Puebla,2025-10-15,Active
+602,Silver Technologies 0602,Manufacturing,Mexico,Leon,2025-01-25,Cancelled
+603,Nova Consulting 0603,Retail,Mexico,Queretaro,2025-01-28,Cancelled
+604,Summit Corporation 0604,Telecommunications,Mexico,Leon,2025-08-15,Active
+605,Elevate Labs 0605,Healthcare,Mexico,Queretaro,2025-10-07,Active
+606,Digital Group 0606,Healthcare,Mexico,Monterrey,2026-04-01,Active
+607,Silver Solutions 0607,Manufacturing,Mexico,Puebla,2025-03-03,Active
+608,Nexa Labs 0608,Retail,Mexico,Guadalajara,2026-03-08,Active
+609,Cobalt Solutions 0609,Healthcare,Mexico,Leon,2026-12-30,Suspended
+610,Vantage Enterprises 0610,Telecommunications,Mexico,Puebla,2026-11-17,Active
+611,Fusion Partners 0611,Financial Services,Mexico,Leon,2026-10-21,Active
+612,Prime Group 0612,Education,Mexico,Monterrey,2026-04-05,Active
+613,Silver Group 0613,Retail,Mexico,Queretaro,2026-10-02,Active
+614,Atlas Partners 0614,Retail,Mexico,Puebla,2025-12-06,Active
+615,Prime Services 0615,Education,Mexico,Guadalajara,2026-11-13,Active
+616,Urban Holdings 0616,Telecommunications,Mexico,Queretaro,2026-06-27,Active
+617,Atlas Technologies 0617,Financial Services,Mexico,Merida,2025-12-16,Active
+618,Nova Networks 0618,Retail,Mexico,Tijuana,2026-05-25,Active
+619,Cloud Holdings 0619,Retail,Mexico,Mexico City,2026-06-01,Active
+620,Momentum Networks 0620,Education,Mexico,Guadalajara,2025-03-27,Active
+621,Digital Corporation 0621,Healthcare,Mexico,Merida,2025-04-18,Active
+622,Fusion Enterprises 0622,Telecommunications,Mexico,Merida,2025-04-16,Active
+623,Elevate Corporation 0623,Healthcare,Mexico,Guadalajara,2025-02-06,Active
+624,Apex Group 0624,Financial Services,Mexico,Guadalajara,2026-06-19,Cancelled
+625,Fusion Group 0625,Education,Mexico,Queretaro,2026-05-09,Cancelled
+626,Silver Services 0626,Telecommunications,Mexico,Merida,2025-07-28,Active
+627,Silver Corporation 0627,Financial Services,Mexico,Guadalajara,2026-01-09,Active
+628,Vertex Logistics 0628,Telecommunications,Mexico,Guadalajara,2025-11-13,Active
+629,Quantum Networks 0629,Financial Services,Mexico,Puebla,2025-02-07,Active
+630,Vantage Group 0630,Retail,Mexico,Tijuana,2025-06-04,Cancelled
+631,Nova Services 0631,Healthcare,Mexico,Queretaro,2026-12-05,Active
+632,Fusion Industries 0632,Telecommunications,Mexico,Monterrey,2026-07-20,Cancelled
+633,Quantum Solutions 0633,Education,Mexico,Monterrey,2026-11-28,Active
+634,Northstar Labs 0634,Manufacturing,Mexico,Mexico City,2026-01-03,Active
+635,Bright Technologies 0635,Telecommunications,Mexico,Monterrey,2026-06-26,Active
+636,Vantage Enterprises 0636,Retail,Mexico,Queretaro,2026-04-24,Cancelled
+637,Northstar Enterprises 0637,Financial Services,Mexico,Tijuana,2026-12-10,Cancelled
+638,Pioneer Corporation 0638,Financial Services,Mexico,Puebla,2025-02-07,Active
+639,Evergreen Partners 0639,Retail,Mexico,Monterrey,2026-10-25,Active
+640,Blue Industries 0640,Education,Mexico,Mexico City,2025-05-01,Active
+641,Evergreen Services 0641,Retail,Mexico,Puebla,2025-06-12,Active
+642,Northstar Labs 0642,Retail,Mexico,Leon,2025-03-20,Suspended
+643,Nova Partners 0643,Healthcare,Mexico,Queretaro,2025-03-28,Active
+644,Redwood Industries 0644,Retail,Mexico,Monterrey,2025-11-25,Active
+645,Evergreen Services 0645,Manufacturing,Mexico,Leon,2025-06-19,Active
+646,Fusion Group 0646,Healthcare,Mexico,Mexico City,2025-09-07,Active
+647,Fusion Holdings 0647,Retail,Mexico,Mexico City,2025-03-13,Suspended
+648,Prime Corporation 0648,Financial Services,Mexico,Merida,2025-01-10,Active
+649,Apex Networks 0649,Retail,Mexico,Tijuana,2025-04-19,Active
+650,Quantum Technologies 0650,Healthcare,Mexico,Puebla,2025-03-18,Active
+651,Prime Group 0651,Manufacturing,Mexico,Leon,2026-09-14,Active
+652,Summit Enterprises 0652,Education,Mexico,Monterrey,2026-12-06,Active
+653,Urban Systems 0653,Healthcare,Mexico,Monterrey,2025-03-13,Active
+654,Quantum Solutions 0654,Healthcare,Mexico,Tijuana,2025-09-05,Active
+655,Quantum Holdings 0655,Financial Services,Mexico,Queretaro,2026-05-16,Active
+656,Silver Services 0656,Manufacturing,Mexico,Guadalajara,2026-07-04,Suspended
+657,Atlas Group 0657,Telecommunications,Mexico,Puebla,2026-11-29,Active
+658,Northstar Networks 0658,Education,Mexico,Monterrey,2025-05-15,Suspended
+659,Quantum Labs 0659,Telecommunications,Mexico,Mexico City,2026-07-13,Active
+660,Summit Networks 0660,Manufacturing,Mexico,Leon,2026-07-12,Active
+661,Evergreen Logistics 0661,Manufacturing,Mexico,Guadalajara,2025-06-26,Cancelled
+662,Urban Systems 0662,Healthcare,Mexico,Mexico City,2026-03-13,Active
+663,Bright Systems 0663,Healthcare,Mexico,Monterrey,2026-05-24,Active
+664,Digital Holdings 0664,Manufacturing,Mexico,Leon,2026-03-02,Cancelled
+665,Digital Services 0665,Manufacturing,Mexico,Queretaro,2025-09-04,Cancelled
+666,Redwood Solutions 0666,Healthcare,Mexico,Guadalajara,2026-11-28,Active
+667,Nexa Systems 0667,Telecommunications,Mexico,Guadalajara,2026-10-31,Active
+668,Apex Systems 0668,Retail,Mexico,Monterrey,2025-03-17,Active
+669,Vantage Labs 0669,Telecommunications,Mexico,Guadalajara,2026-07-27,Active
+670,Pioneer Group 0670,Healthcare,Mexico,Tijuana,2025-12-05,Active
+671,Evergreen Systems 0671,Healthcare,Mexico,Merida,2026-08-30,Active
+672,Momentum Systems 0672,Education,Mexico,Puebla,2026-10-26,Active
+673,Atlas Services 0673,Education,Mexico,Mexico City,2026-12-18,Active
+674,Cobalt Group 0674,Financial Services,Mexico,Queretaro,2026-07-17,Active
+675,Digital Technologies 0675,Healthcare,Mexico,Mexico City,2026-09-16,Cancelled
+676,Vantage Solutions 0676,Education,Mexico,Mexico City,2026-11-11,Cancelled
+677,Cobalt Labs 0677,Education,Mexico,Guadalajara,2026-12-04,Active
+678,Cloud Technologies 0678,Education,Mexico,Merida,2025-12-14,Suspended
+679,Core Networks 0679,Manufacturing,Mexico,Queretaro,2026-01-23,Active
+680,Momentum Technologies 0680,Retail,Mexico,Mexico City,2025-09-04,Active
+681,Evergreen Logistics 0681,Healthcare,Mexico,Mexico City,2026-05-11,Active
+682,Redwood Industries 0682,Healthcare,Mexico,Guadalajara,2026-10-06,Suspended
+683,Northstar Networks 0683,Financial Services,Mexico,Guadalajara,2025-01-04,Cancelled
+684,Core Logistics 0684,Retail,Mexico,Merida,2026-04-16,Active
+685,Redwood Corporation 0685,Education,Mexico,Puebla,2026-03-21,Active
+686,Redwood Labs 0686,Retail,Mexico,Puebla,2026-10-02,Active
+687,Momentum Holdings 0687,Manufacturing,Mexico,Tijuana,2025-07-23,Active
+688,Fusion Services 0688,Retail,Mexico,Puebla,2026-10-14,Active
+689,Silver Consulting 0689,Healthcare,Mexico,Mexico City,2026-12-28,Active
+690,Core Systems 0690,Financial Services,Mexico,Queretaro,2025-08-17,Active
+691,Fusion Labs 0691,Telecommunications,Mexico,Guadalajara,2026-06-23,Active
+692,Nova Logistics 0692,Financial Services,Mexico,Monterrey,2026-11-22,Cancelled
+693,Redwood Group 0693,Financial Services,Mexico,Puebla,2026-11-04,Cancelled
+694,Vantage Solutions 0694,Telecommunications,Mexico,Merida,2026-02-10,Active
+695,Vantage Corporation 0695,Education,Mexico,Puebla,2025-07-25,Active
+696,Apex Logistics 0696,Healthcare,Mexico,Tijuana,2025-11-02,Suspended
+697,Digital Logistics 0697,Education,Mexico,Puebla,2026-04-14,Active
+698,Prime Networks 0698,Telecommunications,Mexico,Queretaro,2026-11-03,Active
+699,Apex Partners 0699,Healthcare,Mexico,Guadalajara,2026-12-12,Active
+700,Orion Logistics 0700,Manufacturing,Mexico,Leon,2025-02-14,Active
+701,Northstar Holdings 0701,Education,Mexico,Guadalajara,2025-07-27,Active
+702,Vertex Networks 0702,Retail,Mexico,Leon,2025-02-05,Cancelled
+703,Summit Labs 0703,Healthcare,Mexico,Tijuana,2026-05-22,Active
+704,Nova Industries 0704,Healthcare,Mexico,Merida,2025-10-22,Active
+705,Vertex Networks 0705,Retail,Mexico,Leon,2026-10-14,Active
+706,Orion Networks 0706,Education,Mexico,Puebla,2025-09-20,Active
+707,Northstar Services 0707,Healthcare,Mexico,Leon,2025-07-13,Cancelled
+708,Digital Services 0708,Education,Mexico,Guadalajara,2025-08-23,Active
+709,Vertex Technologies 0709,Telecommunications,Mexico,Queretaro,2026-05-13,Active
+710,Atlas Technologies 0710,Retail,Mexico,Guadalajara,2025-04-28,Active
+711,Summit Industries 0711,Financial Services,Mexico,Merida,2025-05-15,Active
+712,Vertex Networks 0712,Healthcare,Mexico,Tijuana,2025-06-25,Active
+713,Northstar Industries 0713,Healthcare,Mexico,Queretaro,2026-04-22,Active
+714,Summit Consulting 0714,Healthcare,Mexico,Puebla,2026-04-13,Active
+715,Summit Enterprises 0715,Education,Mexico,Leon,2026-04-14,Active
+716,Blue Group 0716,Telecommunications,Mexico,Tijuana,2026-02-24,Active
+717,Apex Enterprises 0717,Manufacturing,Mexico,Leon,2026-10-05,Suspended
+718,Northstar Enterprises 0718,Retail,Mexico,Tijuana,2025-09-10,Cancelled
+719,Orion Technologies 0719,Healthcare,Mexico,Monterrey,2026-09-19,Active
+720,Evergreen Networks 0720,Financial Services,Mexico,Leon,2026-08-05,Active
+721,Momentum Systems 0721,Manufacturing,Mexico,Mexico City,2026-12-18,Active
+722,Atlas Consulting 0722,Financial Services,Mexico,Guadalajara,2025-08-24,Active
+723,Northstar Group 0723,Retail,Mexico,Leon,2025-07-14,Active
+724,Nexa Networks 0724,Retail,Mexico,Queretaro,2026-05-13,Active
+725,Atlas Partners 0725,Healthcare,Mexico,Tijuana,2026-11-10,Active
+726,Core Logistics 0726,Retail,Mexico,Leon,2026-08-03,Suspended
+727,Urban Systems 0727,Education,Mexico,Monterrey,2025-05-24,Active
+728,Summit Enterprises 0728,Financial Services,Mexico,Puebla,2025-12-18,Active
+729,Redwood Enterprises 0729,Manufacturing,Mexico,Queretaro,2025-10-12,Active
+730,Evergreen Logistics 0730,Financial Services,Mexico,Monterrey,2026-03-18,Active
+731,Cloud Networks 0731,Education,Mexico,Leon,2026-03-10,Active
+732,Orion Networks 0732,Education,Mexico,Guadalajara,2025-06-03,Suspended
+733,Nexa Solutions 0733,Healthcare,Mexico,Puebla,2026-12-20,Active
+734,Blue Services 0734,Telecommunications,Mexico,Leon,2026-11-19,Suspended
+735,Fusion Networks 0735,Retail,Mexico,Leon,2026-07-04,Active
+736,Quantum Enterprises 0736,Telecommunications,Mexico,Queretaro,2026-03-04,Active
+737,Cloud Networks 0737,Healthcare,Mexico,Puebla,2026-11-29,Active
+738,Prime Services 0738,Telecommunications,Mexico,Tijuana,2026-12-11,Active
+739,Vantage Industries 0739,Manufacturing,Mexico,Monterrey,2025-07-15,Active
+740,Atlas Technologies 0740,Telecommunications,Mexico,Merida,2025-11-24,Cancelled
+741,Vertex Systems 0741,Retail,Mexico,Queretaro,2025-02-06,Active
+742,Pioneer Consulting 0742,Retail,Mexico,Merida,2026-12-01,Active
+743,Momentum Enterprises 0743,Retail,Mexico,Tijuana,2026-08-16,Active
+744,Nova Systems 0744,Telecommunications,Mexico,Queretaro,2026-04-05,Cancelled
+745,Elevate Group 0745,Healthcare,Mexico,Monterrey,2025-12-25,Active
+746,Vertex Services 0746,Education,Mexico,Guadalajara,2026-02-18,Active
+747,Prime Logistics 0747,Financial Services,Mexico,Mexico City,2026-07-23,Active
+748,Vertex Corporation 0748,Manufacturing,Mexico,Puebla,2026-03-21,Cancelled
+749,Urban Corporation 0749,Healthcare,Mexico,Monterrey,2026-05-26,Active
+750,Nova Solutions 0750,Telecommunications,Mexico,Leon,2026-03-29,Active
+751,Evergreen Services 0751,Education,Mexico,Puebla,2025-06-16,Active
+752,Core Networks 0752,Healthcare,Mexico,Tijuana,2026-03-11,Cancelled
+753,Northstar Technologies 0753,Education,Mexico,Puebla,2025-11-22,Active
+754,Fusion Holdings 0754,Financial Services,Mexico,Tijuana,2025-09-04,Suspended
+755,Orion Systems 0755,Retail,Mexico,Guadalajara,2026-07-31,Active
+756,Quantum Industries 0756,Manufacturing,Mexico,Guadalajara,2026-03-11,Cancelled
+757,Momentum Services 0757,Retail,Mexico,Guadalajara,2025-09-09,Active
+758,Vantage Holdings 0758,Financial Services,Mexico,Leon,2025-05-30,Active
+759,Redwood Technologies 0759,Healthcare,Mexico,Monterrey,2026-10-15,Active
+760,Silver Enterprises 0760,Manufacturing,Mexico,Queretaro,2025-11-27,Active
+761,Cloud Holdings 0761,Education,Mexico,Puebla,2026-08-05,Active
+762,Orion Technologies 0762,Healthcare,Mexico,Mexico City,2026-09-30,Active
+763,Blue Corporation 0763,Manufacturing,Mexico,Tijuana,2026-05-29,Active
+764,Evergreen Holdings 0764,Retail,Mexico,Guadalajara,2026-11-15,Active
+765,Nova Systems 0765,Financial Services,Mexico,Puebla,2026-10-01,Active
+766,Elevate Solutions 0766,Healthcare,Mexico,Mexico City,2026-08-13,Active
+767,Bright Partners 0767,Manufacturing,Mexico,Puebla,2026-09-10,Active
+768,Quantum Services 0768,Telecommunications,Mexico,Guadalajara,2025-09-13,Active
+769,Apex Industries 0769,Manufacturing,Mexico,Mexico City,2026-03-16,Active
+770,Bright Enterprises 0770,Retail,Mexico,Merida,2026-04-03,Suspended
+771,Momentum Consulting 0771,Healthcare,Mexico,Merida,2025-03-04,Active
+772,Summit Consulting 0772,Financial Services,Mexico,Queretaro,2025-08-15,Active
+773,Prime Corporation 0773,Healthcare,Mexico,Tijuana,2026-02-18,Suspended
+774,Atlas Systems 0774,Telecommunications,Mexico,Guadalajara,2026-06-09,Active
+775,Prime Group 0775,Retail,Mexico,Tijuana,2025-10-09,Cancelled
+776,Quantum Solutions 0776,Telecommunications,Mexico,Queretaro,2025-04-12,Active
+777,Cloud Technologies 0777,Retail,Mexico,Guadalajara,2025-05-01,Active
+778,Northstar Group 0778,Manufacturing,Mexico,Queretaro,2026-05-22,Active
+779,Northstar Logistics 0779,Telecommunications,Mexico,Tijuana,2026-01-22,Active
+780,Quantum Logistics 0780,Financial Services,Mexico,Queretaro,2025-03-21,Active
+781,Digital Labs 0781,Retail,Mexico,Guadalajara,2026-02-16,Cancelled
+782,Cobalt Consulting 0782,Education,Mexico,Mexico City,2026-11-27,Cancelled
+783,Atlas Networks 0783,Telecommunications,Mexico,Leon,2026-04-30,Active
+784,Elevate Holdings 0784,Financial Services,Mexico,Merida,2025-08-13,Active
+785,Orion Solutions 0785,Manufacturing,Mexico,Tijuana,2026-03-10,Active
+786,Core Services 0786,Healthcare,Mexico,Monterrey,2026-10-05,Active
+787,Elevate Services 0787,Retail,Mexico,Monterrey,2026-06-15,Active
+788,Urban Industries 0788,Retail,Mexico,Leon,2026-03-21,Active
+789,Prime Technologies 0789,Telecommunications,Mexico,Monterrey,2026-11-23,Active
+790,Quantum Logistics 0790,Education,Mexico,Queretaro,2025-11-14,Active
+791,Digital Networks 0791,Manufacturing,Mexico,Queretaro,2026-02-02,Suspended
+792,Momentum Networks 0792,Healthcare,Mexico,Puebla,2026-09-12,Cancelled
+793,Atlas Group 0793,Financial Services,Mexico,Mexico City,2026-11-25,Active
+794,Nexa Enterprises 0794,Financial Services,Mexico,Queretaro,2026-03-08,Active
+795,Blue Solutions 0795,Education,Mexico,Merida,2026-04-09,Active
+796,Vantage Consulting 0796,Education,Mexico,Puebla,2025-09-27,Active
+797,Vantage Consulting 0797,Financial Services,Mexico,Guadalajara,2026-04-24,Active
+798,Cloud Services 0798,Financial Services,Mexico,Tijuana,2025-04-17,Active
+799,Quantum Networks 0799,Telecommunications,Mexico,Merida,2025-02-01,Active
+800,Apex Enterprises 0800,Education,Mexico,Puebla,2025-12-29,Active
+801,Pioneer Group 0801,Healthcare,Mexico,Mexico City,2026-02-06,Active
+802,Fusion Technologies 0802,Healthcare,Mexico,Queretaro,2026-04-29,Active
+803,Northstar Corporation 0803,Healthcare,Mexico,Merida,2026-05-08,Active
+804,Northstar Partners 0804,Telecommunications,Mexico,Tijuana,2025-11-23,Active
+805,Blue Systems 0805,Healthcare,Mexico,Merida,2025-08-07,Active
+806,Nexa Networks 0806,Education,Mexico,Tijuana,2026-12-03,Active
+807,Fusion Partners 0807,Retail,Mexico,Merida,2025-06-11,Active
+808,Elevate Partners 0808,Education,Mexico,Queretaro,2025-08-09,Cancelled
+809,Silver Logistics 0809,Education,Mexico,Puebla,2026-04-20,Active
+810,Urban Technologies 0810,Financial Services,Mexico,Guadalajara,2026-08-20,Active
+811,Nova Networks 0811,Healthcare,Mexico,Puebla,2025-11-02,Active
+812,Bright Enterprises 0812,Retail,Mexico,Guadalajara,2026-04-24,Active
+813,Orion Networks 0813,Education,Mexico,Monterrey,2025-12-20,Cancelled
+814,Quantum Systems 0814,Healthcare,Mexico,Puebla,2026-08-24,Active
+815,Summit Holdings 0815,Retail,Mexico,Puebla,2026-10-26,Active
+816,Northstar Holdings 0816,Telecommunications,Mexico,Mexico City,2026-07-24,Active
+817,Nexa Services 0817,Telecommunications,Mexico,Mexico City,2025-09-05,Active
+818,Apex Consulting 0818,Education,Mexico,Merida,2026-06-03,Active
+819,Momentum Partners 0819,Retail,Mexico,Merida,2026-01-29,Active
+820,Momentum Holdings 0820,Telecommunications,Mexico,Guadalajara,2026-03-03,Active
+821,Silver Solutions 0821,Retail,Mexico,Guadalajara,2025-11-20,Active
+822,Cobalt Partners 0822,Education,Mexico,Queretaro,2026-10-17,Active
+823,Elevate Technologies 0823,Manufacturing,Mexico,Mexico City,2026-12-11,Active
+824,Silver Systems 0824,Healthcare,Mexico,Leon,2026-05-29,Active
+825,Elevate Solutions 0825,Education,Mexico,Merida,2026-10-20,Active
+826,Prime Technologies 0826,Telecommunications,Mexico,Monterrey,2026-07-24,Active
+827,Fusion Holdings 0827,Manufacturing,Mexico,Merida,2025-09-04,Active
+828,Fusion Labs 0828,Telecommunications,Mexico,Queretaro,2025-04-11,Active
+829,Momentum Technologies 0829,Retail,Mexico,Mexico City,2026-05-17,Active
+830,Redwood Partners 0830,Retail,Mexico,Queretaro,2026-07-31,Cancelled
+831,Cloud Solutions 0831,Retail,Mexico,Monterrey,2026-11-01,Active
+832,Urban Labs 0832,Healthcare,Mexico,Tijuana,2025-11-12,Active
+833,Bright Corporation 0833,Retail,Mexico,Monterrey,2026-04-30,Active
+834,Blue Consulting 0834,Financial Services,Mexico,Queretaro,2025-02-13,Active
+835,Pioneer Solutions 0835,Retail,Mexico,Mexico City,2025-03-17,Active
+836,Nova Partners 0836,Healthcare,Mexico,Queretaro,2026-08-30,Active
+837,Momentum Industries 0837,Education,Mexico,Tijuana,2026-09-25,Active
+838,Core Consulting 0838,Telecommunications,Mexico,Guadalajara,2025-03-14,Active
+839,Prime Solutions 0839,Retail,Mexico,Monterrey,2026-12-06,Active
+840,Core Labs 0840,Retail,Mexico,Guadalajara,2026-04-13,Cancelled
+841,Vertex Technologies 0841,Telecommunications,Mexico,Puebla,2026-01-05,Suspended
+842,Quantum Enterprises 0842,Financial Services,Mexico,Guadalajara,2025-12-04,Suspended
+843,Silver Holdings 0843,Manufacturing,Mexico,Mexico City,2026-11-29,Active
+844,Vantage Networks 0844,Financial Services,Mexico,Monterrey,2025-09-06,Active
+845,Fusion Consulting 0845,Financial Services,Mexico,Guadalajara,2026-08-23,Active
+846,Pioneer Partners 0846,Manufacturing,Mexico,Merida,2026-09-29,Active
+847,Quantum Corporation 0847,Retail,Mexico,Leon,2025-01-10,Active
+848,Prime Industries 0848,Financial Services,Mexico,Puebla,2025-05-01,Active
+849,Fusion Industries 0849,Healthcare,Mexico,Monterrey,2025-01-16,Active
+850,Digital Systems 0850,Financial Services,Mexico,Merida,2026-07-21,Active
+851,Vantage Enterprises 0851,Telecommunications,Mexico,Queretaro,2026-12-14,Active
+852,Cobalt Technologies 0852,Retail,Mexico,Leon,2026-10-21,Active
+853,Bright Corporation 0853,Healthcare,Mexico,Queretaro,2026-03-09,Active
+854,Core Consulting 0854,Education,Mexico,Monterrey,2025-06-08,Suspended
+855,Cloud Labs 0855,Healthcare,Mexico,Leon,2026-03-16,Active
+856,Elevate Group 0856,Healthcare,Mexico,Leon,2026-09-30,Active
+857,Elevate Solutions 0857,Retail,Mexico,Merida,2025-03-16,Cancelled
+858,Urban Consulting 0858,Telecommunications,Mexico,Puebla,2025-06-05,Active
+859,Blue Systems 0859,Healthcare,Mexico,Guadalajara,2026-04-07,Active
+860,Vantage Industries 0860,Education,Mexico,Queretaro,2025-11-10,Active
+861,Digital Solutions 0861,Retail,Mexico,Mexico City,2026-04-29,Active
+862,Cobalt Networks 0862,Education,Mexico,Tijuana,2025-09-02,Active
+863,Nexa Enterprises 0863,Manufacturing,Mexico,Tijuana,2025-07-11,Cancelled
+864,Bright Holdings 0864,Financial Services,Mexico,Merida,2026-03-25,Active
+865,Orion Technologies 0865,Healthcare,Mexico,Queretaro,2025-01-08,Active
+866,Nexa Services 0866,Education,Mexico,Tijuana,2025-02-03,Active
+867,Summit Technologies 0867,Manufacturing,Mexico,Guadalajara,2025-08-23,Active
+868,Elevate Partners 0868,Manufacturing,Mexico,Guadalajara,2026-07-14,Cancelled
+869,Urban Enterprises 0869,Financial Services,Mexico,Queretaro,2026-08-20,Active
+870,Elevate Solutions 0870,Education,Mexico,Merida,2026-07-22,Active
+871,Apex Holdings 0871,Retail,Mexico,Tijuana,2026-11-19,Active
+872,Momentum Enterprises 0872,Retail,Mexico,Tijuana,2026-06-05,Active
+873,Vantage Solutions 0873,Telecommunications,Mexico,Monterrey,2026-05-31,Active
+874,Urban Group 0874,Telecommunications,Mexico,Mexico City,2026-11-27,Active
+875,Core Networks 0875,Healthcare,Mexico,Merida,2026-10-27,Active
+876,Nova Systems 0876,Manufacturing,Mexico,Queretaro,2026-08-19,Active
+877,Orion Partners 0877,Telecommunications,Mexico,Monterrey,2025-02-16,Active
+878,Vertex Group 0878,Telecommunications,Mexico,Tijuana,2025-03-05,Suspended
+879,Prime Consulting 0879,Manufacturing,Mexico,Monterrey,2025-02-13,Cancelled
+880,Apex Logistics 0880,Healthcare,Mexico,Leon,2026-07-14,Active
+881,Cobalt Systems 0881,Healthcare,Mexico,Monterrey,2026-12-04,Cancelled
+882,Redwood Industries 0882,Retail,Mexico,Tijuana,2025-01-27,Active
+883,Blue Systems 0883,Healthcare,Mexico,Guadalajara,2026-04-03,Active
+884,Nova Services 0884,Manufacturing,Mexico,Tijuana,2025-05-10,Active
+885,Vantage Services 0885,Healthcare,Mexico,Queretaro,2026-01-03,Active
+886,Urban Technologies 0886,Manufacturing,Mexico,Mexico City,2026-09-01,Cancelled
+887,Summit Networks 0887,Retail,Mexico,Queretaro,2026-01-04,Active
+888,Apex Corporation 0888,Retail,Mexico,Guadalajara,2026-03-17,Active
+889,Digital Labs 0889,Education,Mexico,Puebla,2026-01-17,Active
+890,Apex Group 0890,Manufacturing,Mexico,Monterrey,2026-02-14,Active
+891,Vantage Corporation 0891,Telecommunications,Mexico,Monterrey,2026-05-26,Cancelled
+892,Quantum Solutions 0892,Financial Services,Mexico,Puebla,2025-10-24,Active
+893,Vertex Logistics 0893,Manufacturing,Mexico,Mexico City,2026-07-14,Active
+894,Blue Consulting 0894,Retail,Mexico,Leon,2026-03-10,Active
+895,Bright Consulting 0895,Healthcare,Mexico,Guadalajara,2026-09-26,Active
+896,Prime Group 0896,Manufacturing,Mexico,Puebla,2026-11-19,Active
+897,Orion Networks 0897,Education,Mexico,Leon,2026-06-12,Suspended
+898,Northstar Services 0898,Education,Mexico,Tijuana,2025-11-11,Active
+899,Vantage Holdings 0899,Telecommunications,Mexico,Puebla,2026-04-03,Active
+900,Blue Solutions 0900,Manufacturing,Mexico,Mexico City,2025-01-01,Active
+901,Vantage Technologies 0901,Manufacturing,Mexico,Guadalajara,2025-04-17,Active
+902,Cloud Holdings 0902,Financial Services,Mexico,Queretaro,2026-10-14,Active
+903,Vertex Industries 0903,Retail,Mexico,Leon,2025-05-11,Active
+904,Digital Partners 0904,Retail,Mexico,Merida,2025-02-28,Active
+905,Nova Enterprises 0905,Healthcare,Mexico,Queretaro,2025-11-12,Active
+906,Digital Services 0906,Manufacturing,Mexico,Guadalajara,2026-06-23,Active
+907,Cobalt Corporation 0907,Manufacturing,Mexico,Leon,2025-09-04,Cancelled
+908,Elevate Solutions 0908,Education,Mexico,Puebla,2026-07-31,Active
+909,Atlas Networks 0909,Education,Mexico,Guadalajara,2026-12-14,Active
+910,Atlas Logistics 0910,Retail,Mexico,Mexico City,2026-12-17,Cancelled
+911,Nova Partners 0911,Manufacturing,Mexico,Monterrey,2025-05-24,Active
+912,Nexa Labs 0912,Financial Services,Mexico,Puebla,2026-07-19,Active
+913,Core Solutions 0913,Retail,Mexico,Merida,2025-06-11,Suspended
+914,Quantum Services 0914,Retail,Mexico,Queretaro,2026-05-02,Active
+915,Blue Partners 0915,Financial Services,Mexico,Queretaro,2026-03-31,Active
+916,Prime Solutions 0916,Manufacturing,Mexico,Monterrey,2025-08-16,Cancelled
+917,Elevate Enterprises 0917,Education,Mexico,Puebla,2026-09-05,Suspended
+918,Momentum Enterprises 0918,Financial Services,Mexico,Monterrey,2025-03-15,Active
+919,Urban Technologies 0919,Telecommunications,Mexico,Mexico City,2026-01-19,Active
+920,Digital Enterprises 0920,Education,Mexico,Mexico City,2026-01-23,Active
+921,Blue Networks 0921,Telecommunications,Mexico,Puebla,2026-01-24,Active
+922,Cloud Holdings 0922,Retail,Mexico,Queretaro,2026-06-09,Active
+923,Fusion Partners 0923,Manufacturing,Mexico,Mexico City,2026-05-22,Active
+924,Orion Group 0924,Financial Services,Mexico,Mexico City,2026-03-22,Suspended
+925,Fusion Partners 0925,Retail,Mexico,Monterrey,2026-06-29,Active
+926,Northstar Holdings 0926,Healthcare,Mexico,Mexico City,2025-05-26,Active
+927,Fusion Services 0927,Financial Services,Mexico,Monterrey,2026-06-23,Cancelled
+928,Apex Group 0928,Manufacturing,Mexico,Guadalajara,2026-12-12,Active
+929,Nexa Consulting 0929,Education,Mexico,Tijuana,2026-07-20,Cancelled
+930,Atlas Enterprises 0930,Healthcare,Mexico,Mexico City,2026-06-09,Active
+931,Northstar Systems 0931,Financial Services,Mexico,Tijuana,2025-08-27,Active
+932,Digital Corporation 0932,Telecommunications,Mexico,Tijuana,2026-06-08,Active
+933,Cobalt Enterprises 0933,Education,Mexico,Puebla,2026-04-25,Suspended
+934,Nexa Consulting 0934,Telecommunications,Mexico,Leon,2025-07-20,Cancelled
+935,Urban Services 0935,Financial Services,Mexico,Mexico City,2025-06-16,Active
+936,Evergreen Services 0936,Healthcare,Mexico,Puebla,2026-06-29,Suspended
+937,Northstar Systems 0937,Education,Mexico,Mexico City,2025-11-06,Active
+938,Atlas Networks 0938,Telecommunications,Mexico,Mexico City,2026-02-24,Active
+939,Urban Technologies 0939,Education,Mexico,Merida,2025-09-30,Active
+940,Fusion Systems 0940,Manufacturing,Mexico,Merida,2026-05-05,Active
+941,Core Labs 0941,Manufacturing,Mexico,Merida,2026-04-17,Active
+942,Fusion Consulting 0942,Healthcare,Mexico,Monterrey,2026-06-25,Active
+943,Elevate Consulting 0943,Education,Mexico,Tijuana,2025-02-09,Active
+944,Urban Partners 0944,Education,Mexico,Mexico City,2026-11-02,Cancelled
+945,Pioneer Technologies 0945,Financial Services,Mexico,Mexico City,2025-04-01,Active
+946,Momentum Enterprises 0946,Manufacturing,Mexico,Leon,2025-11-02,Active
+947,Apex Group 0947,Healthcare,Mexico,Monterrey,2026-12-05,Active
+948,Nova Logistics 0948,Healthcare,Mexico,Monterrey,2025-11-22,Active
+949,Silver Labs 0949,Education,Mexico,Tijuana,2026-05-30,Suspended
+950,Atlas Industries 0950,Education,Mexico,Puebla,2026-12-15,Suspended
+951,Core Partners 0951,Financial Services,Mexico,Guadalajara,2025-08-11,Active
+952,Silver Enterprises 0952,Healthcare,Mexico,Puebla,2026-09-19,Active
+953,Apex Solutions 0953,Telecommunications,Mexico,Leon,2026-10-09,Active
+954,Nova Holdings 0954,Manufacturing,Mexico,Merida,2026-05-25,Active
+955,Silver Technologies 0955,Manufacturing,Mexico,Merida,2025-12-31,Active
+956,Nexa Services 0956,Healthcare,Mexico,Queretaro,2026-12-06,Active
+957,Redwood Systems 0957,Retail,Mexico,Monterrey,2026-07-04,Active
+958,Cloud Solutions 0958,Healthcare,Mexico,Tijuana,2026-02-06,Active
+959,Vertex Systems 0959,Telecommunications,Mexico,Merida,2025-03-11,Active
+960,Vantage Technologies 0960,Education,Mexico,Monterrey,2025-12-23,Active
+961,Fusion Enterprises 0961,Manufacturing,Mexico,Merida,2026-08-06,Cancelled
+962,Redwood Labs 0962,Financial Services,Mexico,Tijuana,2026-04-06,Suspended
+963,Core Networks 0963,Retail,Mexico,Merida,2025-05-02,Cancelled
+964,Quantum Solutions 0964,Financial Services,Mexico,Tijuana,2025-10-23,Active
+965,Northstar Services 0965,Telecommunications,Mexico,Mexico City,2025-02-27,Suspended
+966,Momentum Logistics 0966,Retail,Mexico,Tijuana,2026-09-27,Active
+967,Vantage Group 0967,Healthcare,Mexico,Tijuana,2026-09-25,Active
+968,Digital Group 0968,Telecommunications,Mexico,Puebla,2025-12-06,Active
+969,Fusion Logistics 0969,Financial Services,Mexico,Tijuana,2026-06-25,Active
+970,Northstar Consulting 0970,Retail,Mexico,Merida,2026-08-29,Active
+971,Pioneer Systems 0971,Financial Services,Mexico,Puebla,2026-05-31,Cancelled
+972,Orion Solutions 0972,Telecommunications,Mexico,Tijuana,2025-10-16,Active
+973,Apex Corporation 0973,Retail,Mexico,Guadalajara,2026-10-21,Cancelled
+974,Cobalt Networks 0974,Financial Services,Mexico,Puebla,2026-02-12,Active
+975,Orion Industries 0975,Retail,Mexico,Guadalajara,2026-11-12,Cancelled
+976,Nexa Labs 0976,Telecommunications,Mexico,Monterrey,2025-11-06,Active
+977,Nexa Industries 0977,Telecommunications,Mexico,Queretaro,2025-07-09,Active
+978,Apex Partners 0978,Financial Services,Mexico,Monterrey,2026-09-28,Active
+979,Evergreen Logistics 0979,Manufacturing,Mexico,Merida,2026-03-20,Suspended
+980,Elevate Corporation 0980,Healthcare,Mexico,Queretaro,2026-08-14,Active
+981,Apex Corporation 0981,Retail,Mexico,Mexico City,2026-06-26,Active
+982,Silver Services 0982,Retail,Mexico,Tijuana,2026-08-26,Active
+983,Summit Technologies 0983,Telecommunications,Mexico,Merida,2025-09-30,Active
+984,Prime Enterprises 0984,Manufacturing,Mexico,Guadalajara,2026-03-16,Active
+985,Silver Corporation 0985,Retail,Mexico,Guadalajara,2026-08-18,Active
+986,Cloud Partners 0986,Manufacturing,Mexico,Puebla,2026-09-30,Active
+987,Blue Industries 0987,Telecommunications,Mexico,Merida,2026-05-17,Active
+988,Elevate Holdings 0988,Telecommunications,Mexico,Queretaro,2026-12-12,Active
+989,Core Systems 0989,Retail,Mexico,Guadalajara,2026-12-13,Active
+990,Nova Technologies 0990,Financial Services,Mexico,Mexico City,2025-02-04,Active
+991,Summit Consulting 0991,Retail,Mexico,Puebla,2025-06-29,Active
+992,Vantage Group 0992,Financial Services,Mexico,Queretaro,2026-01-13,Cancelled
+993,Blue Consulting 0993,Financial Services,Mexico,Mexico City,2025-11-23,Active
+994,Silver Corporation 0994,Telecommunications,Mexico,Monterrey,2025-03-08,Active
+995,Nexa Industries 0995,Retail,Mexico,Tijuana,2025-12-23,Active
+996,Cloud Services 0996,Retail,Mexico,Merida,2025-02-08,Active
+997,Momentum Logistics 0997,Retail,Mexico,Puebla,2025-12-08,Active
+998,Orion Logistics 0998,Financial Services,Mexico,Merida,2026-02-07,Cancelled
+999,Orion Enterprises 0999,Retail,Mexico,Monterrey,2026-01-31,Active
+1000,Bright Labs 1000,Manufacturing,Mexico,Monterrey,2026-09-09,Active
+1001,Cobalt Networks 1001,Manufacturing,Mexico,Queretaro,2025-02-25,Active
+1002,Urban Consulting 1002,Retail,Mexico,Mexico City,2026-02-24,Active
+1003,Northstar Consulting 1003,Retail,Mexico,Tijuana,2026-02-06,Cancelled
+1004,Cobalt Corporation 1004,Telecommunications,Mexico,Guadalajara,2026-09-12,Active
+1005,Silver Industries 1005,Healthcare,Mexico,Leon,2025-12-07,Active
+1006,Nova Networks 1006,Telecommunications,Mexico,Tijuana,2025-10-22,Active
+1007,Elevate Logistics 1007,Financial Services,Mexico,Queretaro,2026-07-26,Suspended
+1008,Momentum Services 1008,Financial Services,Mexico,Leon,2026-12-19,Active
+1009,Silver Solutions 1009,Telecommunications,Mexico,Mexico City,2026-06-05,Active
+1010,Vertex Enterprises 1010,Manufacturing,Mexico,Puebla,2026-06-24,Active
+1011,Fusion Solutions 1011,Manufacturing,Mexico,Queretaro,2025-04-01,Active
+1012,Blue Corporation 1012,Telecommunications,Mexico,Leon,2026-07-19,Active
+1013,Urban Consulting 1013,Healthcare,Mexico,Monterrey,2026-11-20,Active
+1014,Elevate Labs 1014,Healthcare,Mexico,Tijuana,2026-01-13,Active
+1015,Cloud Industries 1015,Manufacturing,Mexico,Tijuana,2026-10-04,Cancelled
+1016,Apex Partners 1016,Financial Services,Mexico,Leon,2025-01-09,Cancelled
+1017,Silver Group 1017,Healthcare,Mexico,Tijuana,2025-01-22,Cancelled
+1018,Cobalt Consulting 1018,Education,Mexico,Queretaro,2025-10-02,Active
+1019,Elevate Systems 1019,Manufacturing,Mexico,Guadalajara,2025-01-19,Active
+1020,Apex Holdings 1020,Telecommunications,Mexico,Monterrey,2026-11-13,Active
+1021,Apex Industries 1021,Financial Services,Mexico,Tijuana,2026-11-20,Cancelled
+1022,Vertex Enterprises 1022,Financial Services,Mexico,Mexico City,2026-10-30,Active
+1023,Summit Group 1023,Healthcare,Mexico,Merida,2026-11-12,Active
+1024,Silver Partners 1024,Financial Services,Mexico,Monterrey,2026-12-14,Cancelled
+1025,Momentum Solutions 1025,Education,Mexico,Monterrey,2026-04-20,Active
+1026,Orion Systems 1026,Manufacturing,Mexico,Monterrey,2026-03-03,Active
+1027,Nexa Services 1027,Healthcare,Mexico,Guadalajara,2025-10-11,Active
+1028,Vantage Technologies 1028,Healthcare,Mexico,Guadalajara,2026-11-20,Active
+1029,Nova Solutions 1029,Healthcare,Mexico,Mexico City,2025-02-11,Active
+1030,Pioneer Technologies 1030,Telecommunications,Mexico,Tijuana,2025-10-31,Active
+1031,Cobalt Corporation 1031,Retail,Mexico,Tijuana,2025-04-16,Active
+1032,Vantage Consulting 1032,Financial Services,Mexico,Monterrey,2026-03-31,Cancelled
+1033,Vertex Corporation 1033,Retail,Mexico,Leon,2025-11-10,Active
+1034,Summit Holdings 1034,Financial Services,Mexico,Mexico City,2026-10-13,Active
+1035,Prime Holdings 1035,Manufacturing,Mexico,Queretaro,2026-10-04,Active
+1036,Blue Logistics 1036,Healthcare,Mexico,Tijuana,2026-04-10,Active
+1037,Digital Solutions 1037,Financial Services,Mexico,Leon,2026-03-23,Active
+1038,Orion Partners 1038,Education,Mexico,Tijuana,2026-08-11,Active
+1039,Fusion Systems 1039,Healthcare,Mexico,Guadalajara,2026-01-27,Active
+1040,Vertex Holdings 1040,Telecommunications,Mexico,Tijuana,2026-03-01,Active
+1041,Redwood Holdings 1041,Telecommunications,Mexico,Leon,2026-06-16,Active
+1042,Atlas Holdings 1042,Financial Services,Mexico,Queretaro,2026-02-26,Active
+1043,Silver Holdings 1043,Financial Services,Mexico,Tijuana,2025-04-13,Cancelled
+1044,Redwood Systems 1044,Healthcare,Mexico,Tijuana,2026-01-28,Active
+1045,Cobalt Services 1045,Telecommunications,Mexico,Queretaro,2026-07-11,Active
+1046,Bright Partners 1046,Healthcare,Mexico,Guadalajara,2025-05-19,Active
+1047,Orion Systems 1047,Financial Services,Mexico,Tijuana,2025-01-31,Active
+1048,Momentum Partners 1048,Healthcare,Mexico,Puebla,2026-03-29,Cancelled
+1049,Vantage Systems 1049,Education,Mexico,Queretaro,2026-11-23,Active
+1050,Evergreen Enterprises 1050,Healthcare,Mexico,Tijuana,2026-09-25,Suspended
+1051,Nova Consulting 1051,Manufacturing,Mexico,Queretaro,2025-05-23,Active
+1052,Northstar Holdings 1052,Education,Mexico,Monterrey,2026-08-11,Active
+1053,Redwood Solutions 1053,Financial Services,Mexico,Tijuana,2025-01-03,Active
+1054,Apex Technologies 1054,Education,Mexico,Merida,2025-09-16,Suspended
+1055,Blue Services 1055,Manufacturing,Mexico,Queretaro,2026-12-23,Active
+1056,Core Consulting 1056,Manufacturing,Mexico,Queretaro,2026-01-07,Cancelled
+1057,Summit Corporation 1057,Financial Services,Mexico,Guadalajara,2026-06-01,Active
+1058,Nexa Consulting 1058,Manufacturing,Mexico,Guadalajara,2026-06-06,Active
+1059,Momentum Systems 1059,Telecommunications,Mexico,Merida,2025-08-26,Active
+1060,Cloud Services 1060,Telecommunications,Mexico,Guadalajara,2026-07-09,Active
+1061,Silver Consulting 1061,Retail,Mexico,Guadalajara,2025-02-06,Active
+1062,Core Labs 1062,Education,Mexico,Queretaro,2026-05-19,Active
+1063,Vantage Partners 1063,Telecommunications,Mexico,Guadalajara,2025-02-11,Active
+1064,Quantum Solutions 1064,Financial Services,Mexico,Merida,2026-12-12,Suspended
+1065,Apex Partners 1065,Retail,Mexico,Monterrey,2026-11-13,Active
+1066,Vertex Networks 1066,Telecommunications,Mexico,Queretaro,2025-12-27,Active
+1067,Summit Networks 1067,Financial Services,Mexico,Tijuana,2026-06-21,Active
+1068,Core Holdings 1068,Telecommunications,Mexico,Queretaro,2025-10-25,Active
+1069,Prime Corporation 1069,Manufacturing,Mexico,Puebla,2026-05-17,Cancelled
+1070,Quantum Services 1070,Manufacturing,Mexico,Mexico City,2026-07-10,Cancelled
+1071,Digital Enterprises 1071,Education,Mexico,Puebla,2026-09-30,Cancelled
+1072,Digital Consulting 1072,Financial Services,Mexico,Queretaro,2026-07-08,Active
+1073,Vertex Group 1073,Manufacturing,Mexico,Monterrey,2025-08-23,Active
+1074,Blue Systems 1074,Retail,Mexico,Mexico City,2026-02-09,Cancelled
+1075,Cobalt Enterprises 1075,Healthcare,Mexico,Guadalajara,2025-09-12,Active
+1076,Fusion Systems 1076,Manufacturing,Mexico,Leon,2026-12-16,Cancelled
+1077,Nova Industries 1077,Healthcare,Mexico,Mexico City,2026-11-27,Active
+1078,Prime Corporation 1078,Retail,Mexico,Merida,2026-04-29,Active
+1079,Cloud Logistics 1079,Retail,Mexico,Tijuana,2026-12-02,Active
+1080,Prime Enterprises 1080,Education,Mexico,Tijuana,2026-12-23,Active
+1081,Cobalt Logistics 1081,Retail,Mexico,Monterrey,2026-10-18,Active
+1082,Evergreen Partners 1082,Retail,Mexico,Guadalajara,2025-04-27,Active
+1083,Urban Systems 1083,Education,Mexico,Monterrey,2026-05-26,Cancelled
+1084,Nexa Systems 1084,Telecommunications,Mexico,Monterrey,2025-05-27,Cancelled
+1085,Apex Partners 1085,Education,Mexico,Monterrey,2026-03-01,Cancelled
+1086,Nexa Holdings 1086,Education,Mexico,Guadalajara,2026-07-09,Active
+1087,Cobalt Partners 1087,Manufacturing,Mexico,Monterrey,2025-06-26,Active
+1088,Nova Technologies 1088,Manufacturing,Mexico,Monterrey,2026-03-04,Active
+1089,Cobalt Solutions 1089,Telecommunications,Mexico,Leon,2025-06-13,Cancelled
+1090,Evergreen Industries 1090,Education,Mexico,Monterrey,2025-06-01,Active
+1091,Atlas Consulting 1091,Financial Services,Mexico,Tijuana,2025-08-15,Active
+1092,Digital Networks 1092,Financial Services,Mexico,Puebla,2025-03-13,Active
+1093,Summit Services 1093,Retail,Mexico,Mexico City,2026-11-13,Active
+1094,Cloud Holdings 1094,Education,Mexico,Queretaro,2026-11-08,Cancelled
+1095,Bright Solutions 1095,Financial Services,Mexico,Tijuana,2025-05-23,Active
+1096,Prime Technologies 1096,Healthcare,Mexico,Tijuana,2025-02-14,Active
+1097,Prime Solutions 1097,Telecommunications,Mexico,Leon,2026-11-06,Active
+1098,Quantum Technologies 1098,Retail,Mexico,Guadalajara,2026-08-07,Active
+1099,Pioneer Services 1099,Education,Mexico,Mexico City,2026-06-29,Active
+1100,Elevate Technologies 1100,Manufacturing,Mexico,Puebla,2026-08-16,Suspended
+1101,Elevate Technologies 1101,Healthcare,Mexico,Mexico City,2026-08-06,Cancelled
+1102,Evergreen Enterprises 1102,Education,Mexico,Leon,2026-06-05,Active
+1103,Momentum Technologies 1103,Financial Services,Mexico,Guadalajara,2026-10-30,Cancelled
+1104,Redwood Systems 1104,Education,Mexico,Tijuana,2026-05-20,Active
+1105,Bright Systems 1105,Manufacturing,Mexico,Puebla,2025-03-12,Active
+1106,Pioneer Enterprises 1106,Education,Mexico,Puebla,2026-01-22,Active
+1107,Summit Solutions 1107,Financial Services,Mexico,Monterrey,2026-08-26,Active
+1108,Cloud Services 1108,Financial Services,Mexico,Puebla,2026-11-24,Cancelled
+1109,Core Corporation 1109,Healthcare,Mexico,Guadalajara,2026-09-09,Active
+1110,Evergreen Group 1110,Education,Mexico,Leon,2026-05-22,Cancelled
+1111,Redwood Enterprises 1111,Retail,Mexico,Tijuana,2026-10-17,Active
+1112,Quantum Networks 1112,Telecommunications,Mexico,Guadalajara,2025-03-03,Active
+1113,Northstar Solutions 1113,Healthcare,Mexico,Leon,2025-03-25,Active
+1114,Cobalt Partners 1114,Healthcare,Mexico,Guadalajara,2026-12-21,Active
+1115,Cloud Partners 1115,Financial Services,Mexico,Puebla,2026-08-03,Cancelled
+1116,Vertex Networks 1116,Healthcare,Mexico,Monterrey,2026-11-24,Active
+1117,Momentum Systems 1117,Education,Mexico,Leon,2025-11-03,Active
+1118,Pioneer Industries 1118,Telecommunications,Mexico,Leon,2025-12-17,Active
+1119,Quantum Enterprises 1119,Healthcare,Mexico,Guadalajara,2026-10-24,Active
+1120,Quantum Logistics 1120,Manufacturing,Mexico,Merida,2026-05-25,Active
+1121,Blue Holdings 1121,Healthcare,Mexico,Queretaro,2026-03-25,Active
+1122,Vantage Consulting 1122,Education,Mexico,Mexico City,2025-10-14,Active
+1123,Blue Enterprises 1123,Healthcare,Mexico,Guadalajara,2026-02-09,Cancelled
+1124,Core Partners 1124,Healthcare,Mexico,Tijuana,2026-06-09,Active
+1125,Prime Logistics 1125,Retail,Mexico,Monterrey,2025-11-02,Active
+1126,Elevate Enterprises 1126,Financial Services,Mexico,Queretaro,2025-01-15,Active
+1127,Cobalt Consulting 1127,Healthcare,Mexico,Puebla,2026-12-22,Active
+1128,Vertex Technologies 1128,Telecommunications,Mexico,Mexico City,2026-03-08,Active
+1129,Momentum Technologies 1129,Financial Services,Mexico,Queretaro,2026-09-05,Active
+1130,Prime Labs 1130,Financial Services,Mexico,Tijuana,2026-12-04,Active
+1131,Apex Group 1131,Retail,Mexico,Guadalajara,2026-05-10,Active
+1132,Vantage Holdings 1132,Education,Mexico,Queretaro,2025-03-05,Cancelled
+1133,Nova Group 1133,Healthcare,Mexico,Puebla,2026-06-29,Cancelled
+1134,Quantum Systems 1134,Education,Mexico,Queretaro,2025-06-28,Active
+1135,Blue Enterprises 1135,Education,Mexico,Guadalajara,2026-02-04,Active
+1136,Pioneer Systems 1136,Education,Mexico,Guadalajara,2026-04-09,Active
+1137,Bright Networks 1137,Telecommunications,Mexico,Tijuana,2025-02-20,Active
+1138,Nexa Services 1138,Telecommunications,Mexico,Mexico City,2026-10-29,Active
+1139,Silver Technologies 1139,Healthcare,Mexico,Queretaro,2026-07-01,Active
+1140,Blue Services 1140,Financial Services,Mexico,Monterrey,2026-06-10,Active
+1141,Core Industries 1141,Education,Mexico,Guadalajara,2026-07-04,Active
+1142,Blue Technologies 1142,Retail,Mexico,Tijuana,2026-09-10,Active
+1143,Digital Enterprises 1143,Manufacturing,Mexico,Queretaro,2026-06-09,Cancelled
+1144,Redwood Holdings 1144,Financial Services,Mexico,Tijuana,2026-05-29,Cancelled
+1145,Nexa Solutions 1145,Telecommunications,Mexico,Tijuana,2025-07-08,Active
+1146,Urban Networks 1146,Telecommunications,Mexico,Mexico City,2025-07-22,Cancelled
+1147,Silver Consulting 1147,Education,Mexico,Mexico City,2026-07-22,Active
+1148,Vertex Partners 1148,Healthcare,Mexico,Leon,2025-03-28,Active
+1149,Blue Holdings 1149,Manufacturing,Mexico,Tijuana,2026-07-26,Active
+1150,Northstar Industries 1150,Telecommunications,Mexico,Merida,2026-10-25,Active
+1151,Vantage Technologies 1151,Manufacturing,Mexico,Puebla,2026-12-08,Active
+1152,Blue Group 1152,Retail,Mexico,Tijuana,2026-08-21,Active
+1153,Cobalt Solutions 1153,Financial Services,Mexico,Guadalajara,2026-11-18,Active
+1154,Digital Solutions 1154,Healthcare,Mexico,Merida,2025-09-13,Active
+1155,Cobalt Industries 1155,Education,Mexico,Mexico City,2026-06-17,Cancelled
+1156,Momentum Networks 1156,Manufacturing,Mexico,Tijuana,2025-12-05,Active
+1157,Evergreen Services 1157,Education,Mexico,Puebla,2026-12-05,Active
+1158,Fusion Solutions 1158,Financial Services,Mexico,Merida,2026-10-04,Active
+1159,Silver Services 1159,Retail,Mexico,Merida,2025-03-02,Cancelled
+1160,Apex Systems 1160,Education,Mexico,Puebla,2026-01-19,Active
+1161,Evergreen Technologies 1161,Healthcare,Mexico,Puebla,2025-03-26,Active
+1162,Momentum Group 1162,Education,Mexico,Tijuana,2025-09-07,Active
+1163,Fusion Labs 1163,Manufacturing,Mexico,Tijuana,2025-12-17,Active
+1164,Prime Solutions 1164,Manufacturing,Mexico,Puebla,2026-03-22,Active
+1165,Vantage Corporation 1165,Retail,Mexico,Puebla,2026-07-13,Active
+1166,Northstar Solutions 1166,Healthcare,Mexico,Leon,2026-01-15,Active
+1167,Nova Logistics 1167,Telecommunications,Mexico,Leon,2026-10-26,Active
+1168,Quantum Partners 1168,Manufacturing,Mexico,Leon,2026-08-08,Cancelled
+1169,Summit Holdings 1169,Telecommunications,Mexico,Puebla,2026-05-06,Active
+1170,Vertex Enterprises 1170,Retail,Mexico,Mexico City,2026-12-19,Active
+1171,Fusion Partners 1171,Financial Services,Mexico,Tijuana,2026-01-11,Active
+1172,Northstar Networks 1172,Manufacturing,Mexico,Puebla,2025-08-05,Cancelled
+1173,Northstar Solutions 1173,Retail,Mexico,Merida,2026-08-29,Active
+1174,Northstar Group 1174,Manufacturing,Mexico,Mexico City,2026-06-15,Active
+1175,Atlas Services 1175,Education,Mexico,Leon,2025-04-16,Active
+1176,Quantum Technologies 1176,Healthcare,Mexico,Tijuana,2026-06-03,Active
+1177,Fusion Holdings 1177,Retail,Mexico,Puebla,2025-02-08,Active
+1178,Silver Logistics 1178,Healthcare,Mexico,Mexico City,2026-10-21,Active
+1179,Blue Labs 1179,Retail,Mexico,Puebla,2025-10-24,Active
+1180,Evergreen Technologies 1180,Healthcare,Mexico,Leon,2026-09-29,Active
+1181,Pioneer Networks 1181,Retail,Mexico,Merida,2025-11-30,Cancelled
+1182,Bright Technologies 1182,Manufacturing,Mexico,Puebla,2025-06-10,Active
+1183,Digital Logistics 1183,Education,Mexico,Monterrey,2025-08-21,Cancelled
+1184,Core Networks 1184,Healthcare,Mexico,Tijuana,2025-11-18,Active
+1185,Orion Corporation 1185,Education,Mexico,Merida,2026-08-28,Cancelled
+1186,Apex Networks 1186,Healthcare,Mexico,Leon,2025-11-17,Active
+1187,Cobalt Consulting 1187,Telecommunications,Mexico,Puebla,2026-05-04,Active
+1188,Atlas Enterprises 1188,Financial Services,Mexico,Queretaro,2025-07-30,Active
+1189,Pioneer Corporation 1189,Healthcare,Mexico,Puebla,2025-05-17,Active
+1190,Silver Holdings 1190,Financial Services,Mexico,Monterrey,2025-05-01,Active
+1191,Pioneer Services 1191,Manufacturing,Mexico,Merida,2026-05-06,Active
+1192,Bright Systems 1192,Retail,Mexico,Monterrey,2026-01-19,Active
+1193,Digital Networks 1193,Healthcare,Mexico,Guadalajara,2026-05-23,Cancelled
+1194,Nova Solutions 1194,Financial Services,Mexico,Leon,2025-09-06,Active
+1195,Redwood Partners 1195,Telecommunications,Mexico,Mexico City,2026-02-02,Active
+1196,Summit Group 1196,Education,Mexico,Mexico City,2026-03-13,Active
+1197,Momentum Networks 1197,Retail,Mexico,Tijuana,2026-10-25,Active
+1198,Vantage Group 1198,Retail,Mexico,Leon,2025-05-02,Active
+1199,Elevate Consulting 1199,Healthcare,Mexico,Merida,2025-07-19,Active
+1200,Nexa Holdings 1200,Retail,Mexico,Tijuana,2026-02-24,Active

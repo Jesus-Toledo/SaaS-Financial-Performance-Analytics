@@ -1,0 +1,481 @@
+﻿budget_id,budget_month,department,expense_category,budget_amount,currency
+1,2025-01-01,Administration,Payroll,261839.74,MXN
+2,2025-01-01,Administration,Professional Services,34416.66,MXN
+3,2025-01-01,Administration,Rent,64636.17,MXN
+4,2025-01-01,Administration,Utilities,15318.91,MXN
+5,2025-01-01,Customer Success,Operations,15361.07,MXN
+6,2025-01-01,Customer Success,Payroll,245116.02,MXN
+7,2025-01-01,Customer Success,Software,20859.69,MXN
+8,2025-01-01,Customer Success,Training,27314.19,MXN
+9,2025-01-01,Engineering,Infrastructure,154948.91,MXN
+10,2025-01-01,Engineering,Payroll,428196.32,MXN
+11,2025-01-01,Engineering,Software,61526.36,MXN
+12,2025-01-01,Engineering,Training,16672.87,MXN
+13,2025-01-01,Marketing,Advertising,113162.53,MXN
+14,2025-01-01,Marketing,Events,49045.64,MXN
+15,2025-01-01,Marketing,Payroll,228710.64,MXN
+16,2025-01-01,Marketing,Software,24863.63,MXN
+17,2025-01-01,Sales,Commissions,115705.94,MXN
+18,2025-01-01,Sales,Payroll,341791.18,MXN
+19,2025-01-01,Sales,Software,24713.25,MXN
+20,2025-01-01,Sales,Travel,33089.05,MXN
+21,2025-02-01,Administration,Payroll,226629.44,MXN
+22,2025-02-01,Administration,Professional Services,35428.1,MXN
+23,2025-02-01,Administration,Rent,62072.55,MXN
+24,2025-02-01,Administration,Utilities,17709.58,MXN
+25,2025-02-01,Customer Success,Operations,31061.88,MXN
+26,2025-02-01,Customer Success,Payroll,268159.76,MXN
+27,2025-02-01,Customer Success,Software,42078.74,MXN
+28,2025-02-01,Customer Success,Training,16725.27,MXN
+29,2025-02-01,Engineering,Infrastructure,106437.18,MXN
+30,2025-02-01,Engineering,Payroll,566852.23,MXN
+31,2025-02-01,Engineering,Software,70794.73,MXN
+32,2025-02-01,Engineering,Training,20946.12,MXN
+33,2025-02-01,Marketing,Advertising,129221.87,MXN
+34,2025-02-01,Marketing,Events,57492.04,MXN
+35,2025-02-01,Marketing,Payroll,226362.88,MXN
+36,2025-02-01,Marketing,Software,14974.25,MXN
+37,2025-02-01,Sales,Commissions,132590.57,MXN
+38,2025-02-01,Sales,Payroll,314573.53,MXN
+39,2025-02-01,Sales,Software,26732.85,MXN
+40,2025-02-01,Sales,Travel,24757.15,MXN
+41,2025-03-01,Administration,Payroll,243732.79,MXN
+42,2025-03-01,Administration,Professional Services,32498.49,MXN
+43,2025-03-01,Administration,Rent,82136.95,MXN
+44,2025-03-01,Administration,Utilities,21712.73,MXN
+45,2025-03-01,Customer Success,Operations,26086.75,MXN
+46,2025-03-01,Customer Success,Payroll,336678.55,MXN
+47,2025-03-01,Customer Success,Software,26419.15,MXN
+48,2025-03-01,Customer Success,Training,10365.24,MXN
+49,2025-03-01,Engineering,Infrastructure,109272.59,MXN
+50,2025-03-01,Engineering,Payroll,577601.42,MXN
+51,2025-03-01,Engineering,Software,65461.63,MXN
+52,2025-03-01,Engineering,Training,24079.45,MXN
+53,2025-03-01,Marketing,Advertising,171792.3,MXN
+54,2025-03-01,Marketing,Events,42370.04,MXN
+55,2025-03-01,Marketing,Payroll,214077.47,MXN
+56,2025-03-01,Marketing,Software,25948.34,MXN
+57,2025-03-01,Sales,Commissions,109982.6,MXN
+58,2025-03-01,Sales,Payroll,365112.14,MXN
+59,2025-03-01,Sales,Software,24055.6,MXN
+60,2025-03-01,Sales,Travel,35404.23,MXN
+61,2025-04-01,Administration,Payroll,202397.86,MXN
+62,2025-04-01,Administration,Professional Services,37771.32,MXN
+63,2025-04-01,Administration,Rent,80475.11,MXN
+64,2025-04-01,Administration,Utilities,16996.33,MXN
+65,2025-04-01,Customer Success,Operations,27835.52,MXN
+66,2025-04-01,Customer Success,Payroll,250461.7,MXN
+67,2025-04-01,Customer Success,Software,23432.66,MXN
+68,2025-04-01,Customer Success,Training,17453.1,MXN
+69,2025-04-01,Engineering,Infrastructure,115769.28,MXN
+70,2025-04-01,Engineering,Payroll,521712.5,MXN
+71,2025-04-01,Engineering,Software,52962.59,MXN
+72,2025-04-01,Engineering,Training,12532.97,MXN
+73,2025-04-01,Marketing,Advertising,107556.6,MXN
+74,2025-04-01,Marketing,Events,47653.05,MXN
+75,2025-04-01,Marketing,Payroll,242337.06,MXN
+76,2025-04-01,Marketing,Software,30290.21,MXN
+77,2025-04-01,Sales,Commissions,112822.93,MXN
+78,2025-04-01,Sales,Payroll,253116.0,MXN
+79,2025-04-01,Sales,Software,24833.83,MXN
+80,2025-04-01,Sales,Travel,29160.37,MXN
+81,2025-05-01,Administration,Payroll,253218.01,MXN
+82,2025-05-01,Administration,Professional Services,41333.49,MXN
+83,2025-05-01,Administration,Rent,91930.16,MXN
+84,2025-05-01,Administration,Utilities,26141.26,MXN
+85,2025-05-01,Customer Success,Operations,26467.43,MXN
+86,2025-05-01,Customer Success,Payroll,307641.31,MXN
+87,2025-05-01,Customer Success,Software,33716.69,MXN
+88,2025-05-01,Customer Success,Training,16422.4,MXN
+89,2025-05-01,Engineering,Infrastructure,124295.48,MXN
+90,2025-05-01,Engineering,Payroll,576620.63,MXN
+91,2025-05-01,Engineering,Software,67386.49,MXN
+92,2025-05-01,Engineering,Training,25932.39,MXN
+93,2025-05-01,Marketing,Advertising,159128.6,MXN
+94,2025-05-01,Marketing,Events,56345.36,MXN
+95,2025-05-01,Marketing,Payroll,214806.85,MXN
+96,2025-05-01,Marketing,Software,28251.49,MXN
+97,2025-05-01,Sales,Commissions,117626.67,MXN
+98,2025-05-01,Sales,Payroll,341668.25,MXN
+99,2025-05-01,Sales,Software,23289.83,MXN
+100,2025-05-01,Sales,Travel,36971.75,MXN
+101,2025-06-01,Administration,Payroll,205628.37,MXN
+102,2025-06-01,Administration,Professional Services,42428.13,MXN
+103,2025-06-01,Administration,Rent,77270.15,MXN
+104,2025-06-01,Administration,Utilities,24202.26,MXN
+105,2025-06-01,Customer Success,Operations,39671.84,MXN
+106,2025-06-01,Customer Success,Payroll,285730.41,MXN
+107,2025-06-01,Customer Success,Software,36519.87,MXN
+108,2025-06-01,Customer Success,Training,18449.81,MXN
+109,2025-06-01,Engineering,Infrastructure,132525.17,MXN
+110,2025-06-01,Engineering,Payroll,539851.72,MXN
+111,2025-06-01,Engineering,Software,68742.61,MXN
+112,2025-06-01,Engineering,Training,21786.46,MXN
+113,2025-06-01,Marketing,Advertising,152421.64,MXN
+114,2025-06-01,Marketing,Events,55695.03,MXN
+115,2025-06-01,Marketing,Payroll,233495.21,MXN
+116,2025-06-01,Marketing,Software,29354.7,MXN
+117,2025-06-01,Sales,Commissions,138890.14,MXN
+118,2025-06-01,Sales,Payroll,305481.06,MXN
+119,2025-06-01,Sales,Software,32872.59,MXN
+120,2025-06-01,Sales,Travel,34780.78,MXN
+121,2025-07-01,Administration,Payroll,241645.39,MXN
+122,2025-07-01,Administration,Professional Services,50029.62,MXN
+123,2025-07-01,Administration,Rent,84018.53,MXN
+124,2025-07-01,Administration,Utilities,17037.87,MXN
+125,2025-07-01,Customer Success,Operations,33173.19,MXN
+126,2025-07-01,Customer Success,Payroll,348565.46,MXN
+127,2025-07-01,Customer Success,Software,21666.32,MXN
+128,2025-07-01,Customer Success,Training,18714.35,MXN
+129,2025-07-01,Engineering,Infrastructure,179116.08,MXN
+130,2025-07-01,Engineering,Payroll,633870.59,MXN
+131,2025-07-01,Engineering,Software,71227.05,MXN
+132,2025-07-01,Engineering,Training,19498.49,MXN
+133,2025-07-01,Marketing,Advertising,102151.76,MXN
+134,2025-07-01,Marketing,Events,57576.63,MXN
+135,2025-07-01,Marketing,Payroll,275956.49,MXN
+136,2025-07-01,Marketing,Software,22830.95,MXN
+137,2025-07-01,Sales,Commissions,91012.85,MXN
+138,2025-07-01,Sales,Payroll,295580.86,MXN
+139,2025-07-01,Sales,Software,26997.15,MXN
+140,2025-07-01,Sales,Travel,25928.6,MXN
+141,2025-08-01,Administration,Payroll,265202.91,MXN
+142,2025-08-01,Administration,Professional Services,37746.15,MXN
+143,2025-08-01,Administration,Rent,78762.08,MXN
+144,2025-08-01,Administration,Utilities,17570.85,MXN
+145,2025-08-01,Customer Success,Operations,29181.35,MXN
+146,2025-08-01,Customer Success,Payroll,209425.18,MXN
+147,2025-08-01,Customer Success,Software,26475.5,MXN
+148,2025-08-01,Customer Success,Training,14220.21,MXN
+149,2025-08-01,Engineering,Infrastructure,118992.09,MXN
+150,2025-08-01,Engineering,Payroll,593643.24,MXN
+151,2025-08-01,Engineering,Software,70645.9,MXN
+152,2025-08-01,Engineering,Training,21600.52,MXN
+153,2025-08-01,Marketing,Advertising,151814.73,MXN
+154,2025-08-01,Marketing,Events,35925.24,MXN
+155,2025-08-01,Marketing,Payroll,202506.8,MXN
+156,2025-08-01,Marketing,Software,18773.95,MXN
+157,2025-08-01,Sales,Commissions,90385.3,MXN
+158,2025-08-01,Sales,Payroll,367344.95,MXN
+159,2025-08-01,Sales,Software,27012.6,MXN
+160,2025-08-01,Sales,Travel,23760.79,MXN
+161,2025-09-01,Administration,Payroll,209455.67,MXN
+162,2025-09-01,Administration,Professional Services,33210.98,MXN
+163,2025-09-01,Administration,Rent,61117.7,MXN
+164,2025-09-01,Administration,Utilities,22141.84,MXN
+165,2025-09-01,Customer Success,Operations,26706.46,MXN
+166,2025-09-01,Customer Success,Payroll,238776.02,MXN
+167,2025-09-01,Customer Success,Software,29101.03,MXN
+168,2025-09-01,Customer Success,Training,17614.2,MXN
+169,2025-09-01,Engineering,Infrastructure,161803.22,MXN
+170,2025-09-01,Engineering,Payroll,529475.11,MXN
+171,2025-09-01,Engineering,Software,63881.66,MXN
+172,2025-09-01,Engineering,Training,31961.01,MXN
+173,2025-09-01,Marketing,Advertising,159623.9,MXN
+174,2025-09-01,Marketing,Events,54114.34,MXN
+175,2025-09-01,Marketing,Payroll,290112.16,MXN
+176,2025-09-01,Marketing,Software,17142.07,MXN
+177,2025-09-01,Sales,Commissions,109817.08,MXN
+178,2025-09-01,Sales,Payroll,350134.0,MXN
+179,2025-09-01,Sales,Software,21709.34,MXN
+180,2025-09-01,Sales,Travel,36781.25,MXN
+181,2025-10-01,Administration,Payroll,263502.41,MXN
+182,2025-10-01,Administration,Professional Services,38981.8,MXN
+183,2025-10-01,Administration,Rent,60953.02,MXN
+184,2025-10-01,Administration,Utilities,13636.15,MXN
+185,2025-10-01,Customer Success,Operations,35480.56,MXN
+186,2025-10-01,Customer Success,Payroll,328179.14,MXN
+187,2025-10-01,Customer Success,Software,29430.49,MXN
+188,2025-10-01,Customer Success,Training,19974.87,MXN
+189,2025-10-01,Engineering,Infrastructure,143093.61,MXN
+190,2025-10-01,Engineering,Payroll,579883.24,MXN
+191,2025-10-01,Engineering,Software,79213.48,MXN
+192,2025-10-01,Engineering,Training,25584.98,MXN
+193,2025-10-01,Marketing,Advertising,153869.69,MXN
+194,2025-10-01,Marketing,Events,43279.94,MXN
+195,2025-10-01,Marketing,Payroll,224468.69,MXN
+196,2025-10-01,Marketing,Software,14526.26,MXN
+197,2025-10-01,Sales,Commissions,107373.08,MXN
+198,2025-10-01,Sales,Payroll,315651.51,MXN
+199,2025-10-01,Sales,Software,28551.39,MXN
+200,2025-10-01,Sales,Travel,18933.08,MXN
+201,2025-11-01,Administration,Payroll,256680.26,MXN
+202,2025-11-01,Administration,Professional Services,52495.94,MXN
+203,2025-11-01,Administration,Rent,50650.8,MXN
+204,2025-11-01,Administration,Utilities,17145.13,MXN
+205,2025-11-01,Customer Success,Operations,24517.14,MXN
+206,2025-11-01,Customer Success,Payroll,334105.16,MXN
+207,2025-11-01,Customer Success,Software,35825.01,MXN
+208,2025-11-01,Customer Success,Training,21984.57,MXN
+209,2025-11-01,Engineering,Infrastructure,164833.16,MXN
+210,2025-11-01,Engineering,Payroll,539774.26,MXN
+211,2025-11-01,Engineering,Software,49852.03,MXN
+212,2025-11-01,Engineering,Training,24948.53,MXN
+213,2025-11-01,Marketing,Advertising,97808.87,MXN
+214,2025-11-01,Marketing,Events,49358.23,MXN
+215,2025-11-01,Marketing,Payroll,263438.2,MXN
+216,2025-11-01,Marketing,Software,19318.07,MXN
+217,2025-11-01,Sales,Commissions,115462.16,MXN
+218,2025-11-01,Sales,Payroll,281062.19,MXN
+219,2025-11-01,Sales,Software,29308.51,MXN
+220,2025-11-01,Sales,Travel,40230.61,MXN
+221,2025-12-01,Administration,Payroll,256679.58,MXN
+222,2025-12-01,Administration,Professional Services,41394.93,MXN
+223,2025-12-01,Administration,Rent,71318.19,MXN
+224,2025-12-01,Administration,Utilities,27366.33,MXN
+225,2025-12-01,Customer Success,Operations,31392.91,MXN
+226,2025-12-01,Customer Success,Payroll,258832.78,MXN
+227,2025-12-01,Customer Success,Software,32123.37,MXN
+228,2025-12-01,Customer Success,Training,13396.66,MXN
+229,2025-12-01,Engineering,Infrastructure,127753.29,MXN
+230,2025-12-01,Engineering,Payroll,493672.45,MXN
+231,2025-12-01,Engineering,Software,60090.3,MXN
+232,2025-12-01,Engineering,Training,34029.02,MXN
+233,2025-12-01,Marketing,Advertising,149142.94,MXN
+234,2025-12-01,Marketing,Events,49194.52,MXN
+235,2025-12-01,Marketing,Payroll,278938.98,MXN
+236,2025-12-01,Marketing,Software,23497.67,MXN
+237,2025-12-01,Sales,Commissions,104551.92,MXN
+238,2025-12-01,Sales,Payroll,389874.24,MXN
+239,2025-12-01,Sales,Software,27979.81,MXN
+240,2025-12-01,Sales,Travel,27820.34,MXN
+241,2026-01-01,Administration,Payroll,224749.6,MXN
+242,2026-01-01,Administration,Professional Services,44154.76,MXN
+243,2026-01-01,Administration,Rent,61738.25,MXN
+244,2026-01-01,Administration,Utilities,21314.36,MXN
+245,2026-01-01,Customer Success,Operations,37440.74,MXN
+246,2026-01-01,Customer Success,Payroll,340774.69,MXN
+247,2026-01-01,Customer Success,Software,26535.19,MXN
+248,2026-01-01,Customer Success,Training,22629.62,MXN
+249,2026-01-01,Engineering,Infrastructure,120568.06,MXN
+250,2026-01-01,Engineering,Payroll,489718.35,MXN
+251,2026-01-01,Engineering,Software,53132.37,MXN
+252,2026-01-01,Engineering,Training,18496.35,MXN
+253,2026-01-01,Marketing,Advertising,134429.47,MXN
+254,2026-01-01,Marketing,Events,35255.14,MXN
+255,2026-01-01,Marketing,Payroll,253893.91,MXN
+256,2026-01-01,Marketing,Software,30265.75,MXN
+257,2026-01-01,Sales,Commissions,84165.4,MXN
+258,2026-01-01,Sales,Payroll,328805.52,MXN
+259,2026-01-01,Sales,Software,25430.04,MXN
+260,2026-01-01,Sales,Travel,51620.57,MXN
+261,2026-02-01,Administration,Payroll,254510.99,MXN
+262,2026-02-01,Administration,Professional Services,42409.3,MXN
+263,2026-02-01,Administration,Rent,70786.57,MXN
+264,2026-02-01,Administration,Utilities,19615.56,MXN
+265,2026-02-01,Customer Success,Operations,30301.72,MXN
+266,2026-02-01,Customer Success,Payroll,254926.19,MXN
+267,2026-02-01,Customer Success,Software,22342.6,MXN
+268,2026-02-01,Customer Success,Training,17396.72,MXN
+269,2026-02-01,Engineering,Infrastructure,136178.66,MXN
+270,2026-02-01,Engineering,Payroll,441293.72,MXN
+271,2026-02-01,Engineering,Software,48604.02,MXN
+272,2026-02-01,Engineering,Training,28363.03,MXN
+273,2026-02-01,Marketing,Advertising,147071.44,MXN
+274,2026-02-01,Marketing,Events,46414.14,MXN
+275,2026-02-01,Marketing,Payroll,259933.05,MXN
+276,2026-02-01,Marketing,Software,14821.94,MXN
+277,2026-02-01,Sales,Commissions,105848.69,MXN
+278,2026-02-01,Sales,Payroll,308644.91,MXN
+279,2026-02-01,Sales,Software,25590.49,MXN
+280,2026-02-01,Sales,Travel,32903.49,MXN
+281,2026-03-01,Administration,Payroll,225946.65,MXN
+282,2026-03-01,Administration,Professional Services,38177.03,MXN
+283,2026-03-01,Administration,Rent,68279.83,MXN
+284,2026-03-01,Administration,Utilities,29082.24,MXN
+285,2026-03-01,Customer Success,Operations,19761.93,MXN
+286,2026-03-01,Customer Success,Payroll,357928.39,MXN
+287,2026-03-01,Customer Success,Software,34983.74,MXN
+288,2026-03-01,Customer Success,Training,21322.51,MXN
+289,2026-03-01,Engineering,Infrastructure,148801.5,MXN
+290,2026-03-01,Engineering,Payroll,555076.93,MXN
+291,2026-03-01,Engineering,Software,52694.97,MXN
+292,2026-03-01,Engineering,Training,28941.19,MXN
+293,2026-03-01,Marketing,Advertising,107831.98,MXN
+294,2026-03-01,Marketing,Events,53136.74,MXN
+295,2026-03-01,Marketing,Payroll,300870.45,MXN
+296,2026-03-01,Marketing,Software,25838.01,MXN
+297,2026-03-01,Sales,Commissions,86571.15,MXN
+298,2026-03-01,Sales,Payroll,326798.47,MXN
+299,2026-03-01,Sales,Software,27159.54,MXN
+300,2026-03-01,Sales,Travel,36577.35,MXN
+301,2026-04-01,Administration,Payroll,208068.17,MXN
+302,2026-04-01,Administration,Professional Services,50001.12,MXN
+303,2026-04-01,Administration,Rent,71638.66,MXN
+304,2026-04-01,Administration,Utilities,25100.77,MXN
+305,2026-04-01,Customer Success,Operations,28413.88,MXN
+306,2026-04-01,Customer Success,Payroll,283812.07,MXN
+307,2026-04-01,Customer Success,Software,18326.88,MXN
+308,2026-04-01,Customer Success,Training,13086.58,MXN
+309,2026-04-01,Engineering,Infrastructure,182014.58,MXN
+310,2026-04-01,Engineering,Payroll,488732.5,MXN
+311,2026-04-01,Engineering,Software,52125.28,MXN
+312,2026-04-01,Engineering,Training,15048.35,MXN
+313,2026-04-01,Marketing,Advertising,91176.35,MXN
+314,2026-04-01,Marketing,Events,46281.35,MXN
+315,2026-04-01,Marketing,Payroll,213186.48,MXN
+316,2026-04-01,Marketing,Software,27751.92,MXN
+317,2026-04-01,Sales,Commissions,101783.89,MXN
+318,2026-04-01,Sales,Payroll,380894.09,MXN
+319,2026-04-01,Sales,Software,26158.6,MXN
+320,2026-04-01,Sales,Travel,23571.83,MXN
+321,2026-05-01,Administration,Payroll,233782.7,MXN
+322,2026-05-01,Administration,Professional Services,43579.75,MXN
+323,2026-05-01,Administration,Rent,73781.53,MXN
+324,2026-05-01,Administration,Utilities,25246.38,MXN
+325,2026-05-01,Customer Success,Operations,35718.27,MXN
+326,2026-05-01,Customer Success,Payroll,302785.42,MXN
+327,2026-05-01,Customer Success,Software,25945.72,MXN
+328,2026-05-01,Customer Success,Training,18026.01,MXN
+329,2026-05-01,Engineering,Infrastructure,136576.26,MXN
+330,2026-05-01,Engineering,Payroll,627893.0,MXN
+331,2026-05-01,Engineering,Software,60375.17,MXN
+332,2026-05-01,Engineering,Training,32338.26,MXN
+333,2026-05-01,Marketing,Advertising,111248.95,MXN
+334,2026-05-01,Marketing,Events,54186.59,MXN
+335,2026-05-01,Marketing,Payroll,297923.92,MXN
+336,2026-05-01,Marketing,Software,24794.33,MXN
+337,2026-05-01,Sales,Commissions,126417.24,MXN
+338,2026-05-01,Sales,Payroll,253577.14,MXN
+339,2026-05-01,Sales,Software,24128.28,MXN
+340,2026-05-01,Sales,Travel,47538.75,MXN
+341,2026-06-01,Administration,Payroll,237190.13,MXN
+342,2026-06-01,Administration,Professional Services,34304.61,MXN
+343,2026-06-01,Administration,Rent,68685.17,MXN
+344,2026-06-01,Administration,Utilities,23853.2,MXN
+345,2026-06-01,Customer Success,Operations,18700.51,MXN
+346,2026-06-01,Customer Success,Payroll,240721.17,MXN
+347,2026-06-01,Customer Success,Software,28327.97,MXN
+348,2026-06-01,Customer Success,Training,14213.81,MXN
+349,2026-06-01,Engineering,Infrastructure,170966.47,MXN
+350,2026-06-01,Engineering,Payroll,496672.47,MXN
+351,2026-06-01,Engineering,Software,50656.35,MXN
+352,2026-06-01,Engineering,Training,19444.33,MXN
+353,2026-06-01,Marketing,Advertising,113666.56,MXN
+354,2026-06-01,Marketing,Events,43114.19,MXN
+355,2026-06-01,Marketing,Payroll,214764.9,MXN
+356,2026-06-01,Marketing,Software,21591.26,MXN
+357,2026-06-01,Sales,Commissions,122094.88,MXN
+358,2026-06-01,Sales,Payroll,315711.63,MXN
+359,2026-06-01,Sales,Software,26833.84,MXN
+360,2026-06-01,Sales,Travel,27628.21,MXN
+361,2026-07-01,Administration,Payroll,214791.56,MXN
+362,2026-07-01,Administration,Professional Services,47178.85,MXN
+363,2026-07-01,Administration,Rent,78639.35,MXN
+364,2026-07-01,Administration,Utilities,21060.73,MXN
+365,2026-07-01,Customer Success,Operations,33322.88,MXN
+366,2026-07-01,Customer Success,Payroll,273000.33,MXN
+367,2026-07-01,Customer Success,Software,29018.52,MXN
+368,2026-07-01,Customer Success,Training,17822.36,MXN
+369,2026-07-01,Engineering,Infrastructure,148362.36,MXN
+370,2026-07-01,Engineering,Payroll,584730.94,MXN
+371,2026-07-01,Engineering,Software,60235.03,MXN
+372,2026-07-01,Engineering,Training,16728.15,MXN
+373,2026-07-01,Marketing,Advertising,189849.47,MXN
+374,2026-07-01,Marketing,Events,35082.9,MXN
+375,2026-07-01,Marketing,Payroll,270570.46,MXN
+376,2026-07-01,Marketing,Software,25018.92,MXN
+377,2026-07-01,Sales,Commissions,141250.55,MXN
+378,2026-07-01,Sales,Payroll,276199.8,MXN
+379,2026-07-01,Sales,Software,23976.71,MXN
+380,2026-07-01,Sales,Travel,22920.69,MXN
+381,2026-08-01,Administration,Payroll,237432.89,MXN
+382,2026-08-01,Administration,Professional Services,40433.64,MXN
+383,2026-08-01,Administration,Rent,75589.07,MXN
+384,2026-08-01,Administration,Utilities,21297.73,MXN
+385,2026-08-01,Customer Success,Operations,22400.02,MXN
+386,2026-08-01,Customer Success,Payroll,246416.78,MXN
+387,2026-08-01,Customer Success,Software,30004.78,MXN
+388,2026-08-01,Customer Success,Training,20789.92,MXN
+389,2026-08-01,Engineering,Infrastructure,146291.1,MXN
+390,2026-08-01,Engineering,Payroll,558687.98,MXN
+391,2026-08-01,Engineering,Software,50977.47,MXN
+392,2026-08-01,Engineering,Training,16323.04,MXN
+393,2026-08-01,Marketing,Advertising,153283.53,MXN
+394,2026-08-01,Marketing,Events,48945.58,MXN
+395,2026-08-01,Marketing,Payroll,222482.99,MXN
+396,2026-08-01,Marketing,Software,30472.45,MXN
+397,2026-08-01,Sales,Commissions,138305.21,MXN
+398,2026-08-01,Sales,Payroll,292403.63,MXN
+399,2026-08-01,Sales,Software,23425.05,MXN
+400,2026-08-01,Sales,Travel,41149.86,MXN
+401,2026-09-01,Administration,Payroll,222401.48,MXN
+402,2026-09-01,Administration,Professional Services,45379.98,MXN
+403,2026-09-01,Administration,Rent,64418.15,MXN
+404,2026-09-01,Administration,Utilities,15361.06,MXN
+405,2026-09-01,Customer Success,Operations,28964.58,MXN
+406,2026-09-01,Customer Success,Payroll,295447.67,MXN
+407,2026-09-01,Customer Success,Software,28913.96,MXN
+408,2026-09-01,Customer Success,Training,14473.33,MXN
+409,2026-09-01,Engineering,Infrastructure,151276.79,MXN
+410,2026-09-01,Engineering,Payroll,432877.2,MXN
+411,2026-09-01,Engineering,Software,59875.09,MXN
+412,2026-09-01,Engineering,Training,23901.04,MXN
+413,2026-09-01,Marketing,Advertising,100856.61,MXN
+414,2026-09-01,Marketing,Events,41783.74,MXN
+415,2026-09-01,Marketing,Payroll,277201.96,MXN
+416,2026-09-01,Marketing,Software,23459.76,MXN
+417,2026-09-01,Sales,Commissions,104593.18,MXN
+418,2026-09-01,Sales,Payroll,343185.82,MXN
+419,2026-09-01,Sales,Software,26034.87,MXN
+420,2026-09-01,Sales,Travel,36784.51,MXN
+421,2026-10-01,Administration,Payroll,258259.87,MXN
+422,2026-10-01,Administration,Professional Services,56837.67,MXN
+423,2026-10-01,Administration,Rent,85773.74,MXN
+424,2026-10-01,Administration,Utilities,21585.58,MXN
+425,2026-10-01,Customer Success,Operations,27254.38,MXN
+426,2026-10-01,Customer Success,Payroll,300990.08,MXN
+427,2026-10-01,Customer Success,Software,33383.37,MXN
+428,2026-10-01,Customer Success,Training,23878.09,MXN
+429,2026-10-01,Engineering,Infrastructure,186191.72,MXN
+430,2026-10-01,Engineering,Payroll,542976.97,MXN
+431,2026-10-01,Engineering,Software,67703.98,MXN
+432,2026-10-01,Engineering,Training,18410.48,MXN
+433,2026-10-01,Marketing,Advertising,119605.28,MXN
+434,2026-10-01,Marketing,Events,65397.45,MXN
+435,2026-10-01,Marketing,Payroll,218620.42,MXN
+436,2026-10-01,Marketing,Software,23006.28,MXN
+437,2026-10-01,Sales,Commissions,105517.42,MXN
+438,2026-10-01,Sales,Payroll,281584.29,MXN
+439,2026-10-01,Sales,Software,23536.19,MXN
+440,2026-10-01,Sales,Travel,38217.57,MXN
+441,2026-11-01,Administration,Payroll,232038.91,MXN
+442,2026-11-01,Administration,Professional Services,43380.92,MXN
+443,2026-11-01,Administration,Rent,63037.44,MXN
+444,2026-11-01,Administration,Utilities,20745.11,MXN
+445,2026-11-01,Customer Success,Operations,26496.48,MXN
+446,2026-11-01,Customer Success,Payroll,262667.37,MXN
+447,2026-11-01,Customer Success,Software,34083.32,MXN
+448,2026-11-01,Customer Success,Training,10380.33,MXN
+449,2026-11-01,Engineering,Infrastructure,148702.79,MXN
+450,2026-11-01,Engineering,Payroll,554233.11,MXN
+451,2026-11-01,Engineering,Software,60274.73,MXN
+452,2026-11-01,Engineering,Training,21867.58,MXN
+453,2026-11-01,Marketing,Advertising,114071.36,MXN
+454,2026-11-01,Marketing,Events,59532.43,MXN
+455,2026-11-01,Marketing,Payroll,246050.36,MXN
+456,2026-11-01,Marketing,Software,24582.25,MXN
+457,2026-11-01,Sales,Commissions,126870.25,MXN
+458,2026-11-01,Sales,Payroll,334816.36,MXN
+459,2026-11-01,Sales,Software,31597.43,MXN
+460,2026-11-01,Sales,Travel,25584.09,MXN
+461,2026-12-01,Administration,Payroll,245286.88,MXN
+462,2026-12-01,Administration,Professional Services,30415.53,MXN
+463,2026-12-01,Administration,Rent,84051.13,MXN
+464,2026-12-01,Administration,Utilities,22893.94,MXN
+465,2026-12-01,Customer Success,Operations,16843.14,MXN
+466,2026-12-01,Customer Success,Payroll,275984.51,MXN
+467,2026-12-01,Customer Success,Software,20116.79,MXN
+468,2026-12-01,Customer Success,Training,25085.89,MXN
+469,2026-12-01,Engineering,Infrastructure,147015.63,MXN
+470,2026-12-01,Engineering,Payroll,451843.19,MXN
+471,2026-12-01,Engineering,Software,57482.75,MXN
+472,2026-12-01,Engineering,Training,23879.98,MXN
+473,2026-12-01,Marketing,Advertising,133479.8,MXN
+474,2026-12-01,Marketing,Events,44778.52,MXN
+475,2026-12-01,Marketing,Payroll,241411.27,MXN
+476,2026-12-01,Marketing,Software,20326.7,MXN
+477,2026-12-01,Sales,Commissions,125215.59,MXN
+478,2026-12-01,Sales,Payroll,307222.72,MXN
+479,2026-12-01,Sales,Software,29159.93,MXN
+480,2026-12-01,Sales,Travel,24218.33,MXN

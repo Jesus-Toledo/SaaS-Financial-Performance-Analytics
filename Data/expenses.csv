@@ -1,0 +1,961 @@
+﻿expense_id,expense_date,department,expense_category,vendor,description,amount,currency,expense_type
+1,2025-01-10,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,233464.62,MXN,Recurring
+2,2025-01-16,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,250422.29,MXN,Recurring
+3,2025-01-18,Engineering,Software,DataTools,Software licenses and subscriptions,30809.89,MXN,Variable
+4,2025-01-14,Engineering,Software,DataTools,Software licenses and subscriptions,26407.81,MXN,Variable
+5,2025-01-18,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,65220.95,MXN,Variable
+6,2025-01-11,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,82320.26,MXN,Variable
+7,2025-01-01,Engineering,Training,Business Learning,Employee training and development,8240.33,MXN,Variable
+8,2025-01-07,Engineering,Training,TechSkills Academy,Employee training and development,8645.31,MXN,Variable
+9,2025-01-25,Sales,Payroll,Nexora Payroll,Monthly employee payroll,175788.03,MXN,Recurring
+10,2025-01-24,Sales,Payroll,Nexora Payroll,Monthly employee payroll,189477.14,MXN,Recurring
+11,2025-01-10,Sales,Commissions,Sales Incentive Program,Sales performance commissions,47923.02,MXN,Variable
+12,2025-01-12,Sales,Commissions,Sales Incentive Program,Sales performance commissions,80921.11,MXN,Variable
+13,2025-01-13,Sales,Travel,Corporate Travel MX,Business travel expenses,17408.07,MXN,Variable
+14,2025-01-12,Sales,Travel,Corporate Travel MX,Business travel expenses,14842.67,MXN,Variable
+15,2025-01-06,Sales,Software,DataTools,Software licenses and subscriptions,8078.52,MXN,Variable
+16,2025-01-14,Sales,Software,DataTools,Software licenses and subscriptions,14775.79,MXN,Variable
+17,2025-01-25,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,100515.23,MXN,Recurring
+18,2025-01-21,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,130989.14,MXN,Recurring
+19,2025-01-18,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,56408.7,MXN,Variable
+20,2025-01-03,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,68596.0,MXN,Variable
+21,2025-01-16,Marketing,Software,CloudSuite,Software licenses and subscriptions,10052.27,MXN,Variable
+22,2025-01-05,Marketing,Software,DataTools,Software licenses and subscriptions,11994.35,MXN,Variable
+23,2025-01-25,Marketing,Events,Business Events MX,Marketing events and conferences,22465.0,MXN,Variable
+24,2025-01-17,Marketing,Events,Tech Conference Group,Marketing events and conferences,27514.86,MXN,Variable
+25,2025-01-06,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,115256.42,MXN,Recurring
+26,2025-01-01,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,129025.74,MXN,Recurring
+27,2025-01-16,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9129.8,MXN,Variable
+28,2025-01-07,Customer Success,Software,CloudSuite,Software licenses and subscriptions,13481.51,MXN,Variable
+29,2025-01-13,Customer Success,Training,TechSkills Academy,Employee training and development,13608.43,MXN,Variable
+30,2025-01-02,Customer Success,Training,Business Learning,Employee training and development,10939.7,MXN,Variable
+31,2025-01-16,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,8787.07,MXN,Variable
+32,2025-01-25,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,8006.88,MXN,Variable
+33,2025-01-03,Administration,Payroll,Nexora Payroll,Monthly employee payroll,114448.95,MXN,Recurring
+34,2025-01-01,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130000.25,MXN,Recurring
+35,2025-01-21,Administration,Rent,Corporate Offices MX,Office rent,35085.14,MXN,Recurring
+36,2025-01-18,Administration,Rent,Corporate Offices MX,Office rent,26284.32,MXN,Recurring
+37,2025-01-04,Administration,Utilities,Utility Services MX,Office utilities and services,7518.42,MXN,Variable
+38,2025-01-13,Administration,Utilities,Utility Services MX,Office utilities and services,7049.2,MXN,Variable
+39,2025-01-20,Administration,Professional Services,Legal & Finance Partners,External professional services,14649.0,MXN,Variable
+40,2025-01-06,Administration,Professional Services,Consulting Group,External professional services,23819.8,MXN,Variable
+41,2025-02-01,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,262016.09,MXN,Recurring
+42,2025-02-01,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,294339.74,MXN,Recurring
+43,2025-02-17,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,36818.11,MXN,Variable
+44,2025-02-10,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,25466.99,MXN,Variable
+45,2025-02-03,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,65167.37,MXN,Variable
+46,2025-02-11,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,53188.5,MXN,Variable
+47,2025-02-25,Engineering,Training,Business Learning,Employee training and development,14595.33,MXN,Variable
+48,2025-02-14,Engineering,Training,TechSkills Academy,Employee training and development,6897.96,MXN,Variable
+49,2025-02-01,Sales,Payroll,Nexora Payroll,Monthly employee payroll,148309.41,MXN,Recurring
+50,2025-02-08,Sales,Payroll,Nexora Payroll,Monthly employee payroll,131852.98,MXN,Recurring
+51,2025-02-07,Sales,Commissions,Sales Incentive Program,Sales performance commissions,70541.75,MXN,Variable
+52,2025-02-07,Sales,Commissions,Sales Incentive Program,Sales performance commissions,52030.35,MXN,Variable
+53,2025-02-18,Sales,Travel,Corporate Travel MX,Business travel expenses,12007.26,MXN,Variable
+54,2025-02-19,Sales,Travel,Corporate Travel MX,Business travel expenses,9904.08,MXN,Variable
+55,2025-02-17,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,17156.74,MXN,Variable
+56,2025-02-20,Sales,Software,CloudSuite,Software licenses and subscriptions,10561.48,MXN,Variable
+57,2025-02-03,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,143164.64,MXN,Recurring
+58,2025-02-13,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,108567.6,MXN,Recurring
+59,2025-02-05,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,66834.28,MXN,Variable
+60,2025-02-11,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,76674.25,MXN,Variable
+61,2025-02-15,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,7556.85,MXN,Variable
+62,2025-02-10,Marketing,Software,CloudSuite,Software licenses and subscriptions,9214.53,MXN,Variable
+63,2025-02-15,Marketing,Events,Tech Conference Group,Marketing events and conferences,30397.21,MXN,Variable
+64,2025-02-08,Marketing,Events,Tech Conference Group,Marketing events and conferences,28665.31,MXN,Variable
+65,2025-02-09,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,132712.21,MXN,Recurring
+66,2025-02-22,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,160815.72,MXN,Recurring
+67,2025-02-23,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,17904.76,MXN,Variable
+68,2025-02-07,Customer Success,Software,CloudSuite,Software licenses and subscriptions,19973.46,MXN,Variable
+69,2025-02-16,Customer Success,Training,TechSkills Academy,Employee training and development,4851.92,MXN,Variable
+70,2025-02-19,Customer Success,Training,TechSkills Academy,Employee training and development,11390.65,MXN,Variable
+71,2025-02-21,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,17580.88,MXN,Variable
+72,2025-02-24,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,11301.72,MXN,Variable
+73,2025-02-07,Administration,Payroll,Nexora Payroll,Monthly employee payroll,129832.43,MXN,Recurring
+74,2025-02-08,Administration,Payroll,Nexora Payroll,Monthly employee payroll,117209.02,MXN,Recurring
+75,2025-02-19,Administration,Rent,Corporate Offices MX,Office rent,32573.31,MXN,Recurring
+76,2025-02-20,Administration,Rent,Corporate Offices MX,Office rent,27158.56,MXN,Recurring
+77,2025-02-18,Administration,Utilities,Utility Services MX,Office utilities and services,8061.6,MXN,Variable
+78,2025-02-07,Administration,Utilities,Utility Services MX,Office utilities and services,10305.54,MXN,Variable
+79,2025-02-13,Administration,Professional Services,Legal & Finance Partners,External professional services,18734.74,MXN,Variable
+80,2025-02-15,Administration,Professional Services,Consulting Group,External professional services,16989.26,MXN,Variable
+81,2025-03-01,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,268901.93,MXN,Recurring
+82,2025-03-06,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,309667.65,MXN,Recurring
+83,2025-03-22,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,26934.96,MXN,Variable
+84,2025-03-07,Engineering,Software,CloudSuite,Software licenses and subscriptions,34258.0,MXN,Variable
+85,2025-03-12,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,51003.58,MXN,Variable
+86,2025-03-15,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,48079.42,MXN,Variable
+87,2025-03-10,Engineering,Training,TechSkills Academy,Employee training and development,11064.32,MXN,Variable
+88,2025-03-25,Engineering,Training,Business Learning,Employee training and development,12209.11,MXN,Variable
+89,2025-03-03,Sales,Payroll,Nexora Payroll,Monthly employee payroll,174655.75,MXN,Recurring
+90,2025-03-12,Sales,Payroll,Nexora Payroll,Monthly employee payroll,156318.86,MXN,Recurring
+91,2025-03-17,Sales,Commissions,Sales Incentive Program,Sales performance commissions,68532.31,MXN,Variable
+92,2025-03-04,Sales,Commissions,Sales Incentive Program,Sales performance commissions,39197.12,MXN,Variable
+93,2025-03-13,Sales,Travel,Corporate Travel MX,Business travel expenses,16662.09,MXN,Variable
+94,2025-03-17,Sales,Travel,Corporate Travel MX,Business travel expenses,16147.38,MXN,Variable
+95,2025-03-10,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,12031.09,MXN,Variable
+96,2025-03-17,Sales,Software,DataTools,Software licenses and subscriptions,14226.98,MXN,Variable
+97,2025-03-15,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,128750.03,MXN,Recurring
+98,2025-03-12,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,109716.31,MXN,Recurring
+99,2025-03-07,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,91583.1,MXN,Variable
+100,2025-03-19,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,77605.55,MXN,Variable
+101,2025-03-17,Marketing,Software,DataTools,Software licenses and subscriptions,13691.38,MXN,Variable
+102,2025-03-12,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,12498.83,MXN,Variable
+103,2025-03-05,Marketing,Events,Business Events MX,Marketing events and conferences,31965.52,MXN,Variable
+104,2025-03-09,Marketing,Events,Tech Conference Group,Marketing events and conferences,11832.47,MXN,Variable
+105,2025-03-25,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,164533.69,MXN,Recurring
+106,2025-03-25,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,160047.99,MXN,Recurring
+107,2025-03-16,Customer Success,Software,CloudSuite,Software licenses and subscriptions,15900.42,MXN,Variable
+108,2025-03-19,Customer Success,Software,DataTools,Software licenses and subscriptions,10243.47,MXN,Variable
+109,2025-03-23,Customer Success,Training,Business Learning,Employee training and development,5795.52,MXN,Variable
+110,2025-03-10,Customer Success,Training,TechSkills Academy,Employee training and development,5910.52,MXN,Variable
+111,2025-03-18,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,12568.35,MXN,Variable
+112,2025-03-02,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,12444.58,MXN,Variable
+113,2025-03-24,Administration,Payroll,Nexora Payroll,Monthly employee payroll,110512.78,MXN,Recurring
+114,2025-03-17,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130911.83,MXN,Recurring
+115,2025-03-24,Administration,Rent,Corporate Offices MX,Office rent,34579.54,MXN,Recurring
+116,2025-03-03,Administration,Rent,Corporate Offices MX,Office rent,43718.99,MXN,Recurring
+117,2025-03-17,Administration,Utilities,Utility Services MX,Office utilities and services,7881.92,MXN,Variable
+118,2025-03-10,Administration,Utilities,Utility Services MX,Office utilities and services,11321.1,MXN,Variable
+119,2025-03-18,Administration,Professional Services,Legal & Finance Partners,External professional services,18029.38,MXN,Variable
+120,2025-03-11,Administration,Professional Services,Consulting Group,External professional services,15737.47,MXN,Variable
+121,2025-04-10,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,255282.26,MXN,Recurring
+122,2025-04-03,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,272453.95,MXN,Recurring
+123,2025-04-18,Engineering,Software,CloudSuite,Software licenses and subscriptions,35586.99,MXN,Variable
+124,2025-04-05,Engineering,Software,CloudSuite,Software licenses and subscriptions,23088.49,MXN,Variable
+125,2025-04-12,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,46161.13,MXN,Variable
+126,2025-04-17,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,72255.53,MXN,Variable
+127,2025-04-15,Engineering,Training,Business Learning,Employee training and development,6700.46,MXN,Variable
+128,2025-04-05,Engineering,Training,TechSkills Academy,Employee training and development,5386.1,MXN,Variable
+129,2025-04-15,Sales,Payroll,Nexora Payroll,Monthly employee payroll,139117.24,MXN,Recurring
+130,2025-04-15,Sales,Payroll,Nexora Payroll,Monthly employee payroll,142462.5,MXN,Recurring
+131,2025-04-14,Sales,Commissions,Sales Incentive Program,Sales performance commissions,56367.62,MXN,Variable
+132,2025-04-14,Sales,Commissions,Sales Incentive Program,Sales performance commissions,59605.68,MXN,Variable
+133,2025-04-21,Sales,Travel,Corporate Travel MX,Business travel expenses,11049.67,MXN,Variable
+134,2025-04-23,Sales,Travel,Corporate Travel MX,Business travel expenses,16758.89,MXN,Variable
+135,2025-04-03,Sales,Software,DataTools,Software licenses and subscriptions,17202.49,MXN,Variable
+136,2025-04-01,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,8324.73,MXN,Variable
+137,2025-04-02,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,113230.55,MXN,Recurring
+138,2025-04-23,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,131790.41,MXN,Recurring
+139,2025-04-13,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,35991.19,MXN,Variable
+140,2025-04-23,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,62931.45,MXN,Variable
+141,2025-04-25,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,15302.68,MXN,Variable
+142,2025-04-11,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,11816.26,MXN,Variable
+143,2025-04-10,Marketing,Events,Business Events MX,Marketing events and conferences,18767.09,MXN,Variable
+144,2025-04-15,Marketing,Events,Tech Conference Group,Marketing events and conferences,29510.5,MXN,Variable
+145,2025-04-17,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,115842.28,MXN,Recurring
+146,2025-04-07,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,119714.21,MXN,Recurring
+147,2025-04-22,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9257.85,MXN,Variable
+148,2025-04-08,Customer Success,Software,DataTools,Software licenses and subscriptions,14134.17,MXN,Variable
+149,2025-04-22,Customer Success,Training,Business Learning,Employee training and development,6911.67,MXN,Variable
+150,2025-04-13,Customer Success,Training,TechSkills Academy,Employee training and development,10105.05,MXN,Variable
+151,2025-04-01,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,14953.4,MXN,Variable
+152,2025-04-07,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9474.93,MXN,Variable
+153,2025-04-20,Administration,Payroll,Nexora Payroll,Monthly employee payroll,103903.87,MXN,Recurring
+154,2025-04-06,Administration,Payroll,Nexora Payroll,Monthly employee payroll,111302.08,MXN,Recurring
+155,2025-04-04,Administration,Rent,Corporate Offices MX,Office rent,41227.42,MXN,Recurring
+156,2025-04-16,Administration,Rent,Corporate Offices MX,Office rent,32715.98,MXN,Recurring
+157,2025-04-16,Administration,Utilities,Utility Services MX,Office utilities and services,6419.5,MXN,Variable
+158,2025-04-06,Administration,Utilities,Utility Services MX,Office utilities and services,12871.4,MXN,Variable
+159,2025-04-23,Administration,Professional Services,Legal & Finance Partners,External professional services,21180.03,MXN,Variable
+160,2025-04-14,Administration,Professional Services,Consulting Group,External professional services,13747.31,MXN,Variable
+161,2025-05-25,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,239035.3,MXN,Recurring
+162,2025-05-22,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,284305.38,MXN,Recurring
+163,2025-05-07,Engineering,Software,DataTools,Software licenses and subscriptions,28206.54,MXN,Variable
+164,2025-05-19,Engineering,Software,DataTools,Software licenses and subscriptions,32307.5,MXN,Variable
+165,2025-05-08,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,59923.99,MXN,Variable
+166,2025-05-04,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,80151.05,MXN,Variable
+167,2025-05-07,Engineering,Training,TechSkills Academy,Employee training and development,17996.98,MXN,Variable
+168,2025-05-01,Engineering,Training,Business Learning,Employee training and development,10924.17,MXN,Variable
+169,2025-05-25,Sales,Payroll,Nexora Payroll,Monthly employee payroll,186292.42,MXN,Recurring
+170,2025-05-09,Sales,Payroll,Nexora Payroll,Monthly employee payroll,138522.99,MXN,Recurring
+171,2025-05-12,Sales,Commissions,Sales Incentive Program,Sales performance commissions,71997.32,MXN,Variable
+172,2025-05-18,Sales,Commissions,Sales Incentive Program,Sales performance commissions,54420.46,MXN,Variable
+173,2025-05-07,Sales,Travel,Corporate Travel MX,Business travel expenses,15338.95,MXN,Variable
+174,2025-05-11,Sales,Travel,Corporate Travel MX,Business travel expenses,21239.9,MXN,Variable
+175,2025-05-02,Sales,Software,CloudSuite,Software licenses and subscriptions,16811.31,MXN,Variable
+176,2025-05-20,Sales,Software,DataTools,Software licenses and subscriptions,9122.61,MXN,Variable
+177,2025-05-11,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,101516.15,MXN,Recurring
+178,2025-05-06,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,138723.45,MXN,Recurring
+179,2025-05-10,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,88112.93,MXN,Variable
+180,2025-05-08,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,82748.25,MXN,Variable
+181,2025-05-10,Marketing,Software,CloudSuite,Software licenses and subscriptions,13329.81,MXN,Variable
+182,2025-05-21,Marketing,Software,CloudSuite,Software licenses and subscriptions,13763.56,MXN,Variable
+183,2025-05-21,Marketing,Events,Business Events MX,Marketing events and conferences,33826.48,MXN,Variable
+184,2025-05-11,Marketing,Events,Business Events MX,Marketing events and conferences,22043.97,MXN,Variable
+185,2025-05-25,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,147220.97,MXN,Recurring
+186,2025-05-17,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,139356.04,MXN,Recurring
+187,2025-05-02,Customer Success,Software,CloudSuite,Software licenses and subscriptions,18051.75,MXN,Variable
+188,2025-05-19,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,12143.67,MXN,Variable
+189,2025-05-12,Customer Success,Training,TechSkills Academy,Employee training and development,5440.54,MXN,Variable
+190,2025-05-18,Customer Success,Training,TechSkills Academy,Employee training and development,13162.85,MXN,Variable
+191,2025-05-09,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,16819.06,MXN,Variable
+192,2025-05-12,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,8325.86,MXN,Variable
+193,2025-05-08,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130093.24,MXN,Recurring
+194,2025-05-01,Administration,Payroll,Nexora Payroll,Monthly employee payroll,127922.02,MXN,Recurring
+195,2025-05-08,Administration,Rent,Corporate Offices MX,Office rent,42291.75,MXN,Recurring
+196,2025-05-07,Administration,Rent,Corporate Offices MX,Office rent,41630.53,MXN,Recurring
+197,2025-05-05,Administration,Utilities,Utility Services MX,Office utilities and services,11420.2,MXN,Variable
+198,2025-05-12,Administration,Utilities,Utility Services MX,Office utilities and services,13429.99,MXN,Variable
+199,2025-05-05,Administration,Professional Services,Legal & Finance Partners,External professional services,23033.91,MXN,Variable
+200,2025-05-22,Administration,Professional Services,Consulting Group,External professional services,15994.81,MXN,Variable
+201,2025-06-06,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,282819.5,MXN,Recurring
+202,2025-06-19,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,220170.85,MXN,Recurring
+203,2025-06-23,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,34537.47,MXN,Variable
+204,2025-06-09,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,28993.38,MXN,Variable
+205,2025-06-15,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,80308.78,MXN,Variable
+206,2025-06-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,49761.8,MXN,Variable
+207,2025-06-12,Engineering,Training,Business Learning,Employee training and development,5280.15,MXN,Variable
+208,2025-06-01,Engineering,Training,Business Learning,Employee training and development,14977.22,MXN,Variable
+209,2025-06-03,Sales,Payroll,Nexora Payroll,Monthly employee payroll,163666.27,MXN,Recurring
+210,2025-06-17,Sales,Payroll,Nexora Payroll,Monthly employee payroll,168303.88,MXN,Recurring
+211,2025-06-20,Sales,Commissions,Sales Incentive Program,Sales performance commissions,64491.62,MXN,Variable
+212,2025-06-01,Sales,Commissions,Sales Incentive Program,Sales performance commissions,83003.91,MXN,Variable
+213,2025-06-10,Sales,Travel,Corporate Travel MX,Business travel expenses,16288.84,MXN,Variable
+214,2025-06-01,Sales,Travel,Corporate Travel MX,Business travel expenses,16251.26,MXN,Variable
+215,2025-06-16,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,12661.62,MXN,Variable
+216,2025-06-03,Sales,Software,DataTools,Software licenses and subscriptions,17028.97,MXN,Variable
+217,2025-06-15,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,107481.2,MXN,Recurring
+218,2025-06-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,119838.22,MXN,Recurring
+219,2025-06-20,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,95127.24,MXN,Variable
+220,2025-06-08,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,46299.92,MXN,Variable
+221,2025-06-21,Marketing,Software,DataTools,Software licenses and subscriptions,15439.62,MXN,Variable
+222,2025-06-05,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,14514.64,MXN,Variable
+223,2025-06-16,Marketing,Events,Business Events MX,Marketing events and conferences,30565.14,MXN,Variable
+224,2025-06-13,Marketing,Events,Business Events MX,Marketing events and conferences,22606.84,MXN,Variable
+225,2025-06-11,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,157939.88,MXN,Recurring
+226,2025-06-06,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,141299.39,MXN,Recurring
+227,2025-06-11,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,18362.47,MXN,Variable
+228,2025-06-24,Customer Success,Software,DataTools,Software licenses and subscriptions,15960.0,MXN,Variable
+229,2025-06-10,Customer Success,Training,TechSkills Academy,Employee training and development,6599.79,MXN,Variable
+230,2025-06-21,Customer Success,Training,TechSkills Academy,Employee training and development,11092.55,MXN,Variable
+231,2025-06-08,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,16684.24,MXN,Variable
+232,2025-06-11,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,19781.39,MXN,Variable
+233,2025-06-09,Administration,Payroll,Nexora Payroll,Monthly employee payroll,105833.52,MXN,Recurring
+234,2025-06-02,Administration,Payroll,Nexora Payroll,Monthly employee payroll,101294.84,MXN,Recurring
+235,2025-06-25,Administration,Rent,Corporate Offices MX,Office rent,37101.49,MXN,Recurring
+236,2025-06-25,Administration,Rent,Corporate Offices MX,Office rent,38578.9,MXN,Recurring
+237,2025-06-07,Administration,Utilities,Utility Services MX,Office utilities and services,11845.44,MXN,Variable
+238,2025-06-01,Administration,Utilities,Utility Services MX,Office utilities and services,12201.34,MXN,Variable
+239,2025-06-23,Administration,Professional Services,Consulting Group,External professional services,23426.67,MXN,Variable
+240,2025-06-13,Administration,Professional Services,Consulting Group,External professional services,23392.16,MXN,Variable
+241,2025-07-13,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,263882.75,MXN,Recurring
+242,2025-07-21,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,308309.0,MXN,Recurring
+243,2025-07-04,Engineering,Software,CloudSuite,Software licenses and subscriptions,29864.36,MXN,Variable
+244,2025-07-16,Engineering,Software,DataTools,Software licenses and subscriptions,39032.86,MXN,Variable
+245,2025-07-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,85130.89,MXN,Variable
+246,2025-07-05,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,74192.85,MXN,Variable
+247,2025-07-12,Engineering,Training,TechSkills Academy,Employee training and development,8369.68,MXN,Variable
+248,2025-07-03,Engineering,Training,TechSkills Academy,Employee training and development,9091.42,MXN,Variable
+249,2025-07-06,Sales,Payroll,Nexora Payroll,Monthly employee payroll,159554.86,MXN,Recurring
+250,2025-07-03,Sales,Payroll,Nexora Payroll,Monthly employee payroll,131331.22,MXN,Recurring
+251,2025-07-11,Sales,Commissions,Sales Incentive Program,Sales performance commissions,59403.72,MXN,Variable
+252,2025-07-08,Sales,Commissions,Sales Incentive Program,Sales performance commissions,29257.99,MXN,Variable
+253,2025-07-23,Sales,Travel,Corporate Travel MX,Business travel expenses,11576.39,MXN,Variable
+254,2025-07-12,Sales,Travel,Corporate Travel MX,Business travel expenses,12715.91,MXN,Variable
+255,2025-07-05,Sales,Software,DataTools,Software licenses and subscriptions,10794.36,MXN,Variable
+256,2025-07-13,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,15069.28,MXN,Variable
+257,2025-07-12,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,143537.5,MXN,Recurring
+258,2025-07-03,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,138936.24,MXN,Recurring
+259,2025-07-09,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,64561.09,MXN,Variable
+260,2025-07-04,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,38910.04,MXN,Variable
+261,2025-07-05,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,7982.19,MXN,Variable
+262,2025-07-06,Marketing,Software,DataTools,Software licenses and subscriptions,15519.08,MXN,Variable
+263,2025-07-21,Marketing,Events,Business Events MX,Marketing events and conferences,25745.01,MXN,Variable
+264,2025-07-21,Marketing,Events,Business Events MX,Marketing events and conferences,26859.31,MXN,Variable
+265,2025-07-14,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,151022.85,MXN,Recurring
+266,2025-07-04,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,155958.66,MXN,Recurring
+267,2025-07-05,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9351.74,MXN,Variable
+268,2025-07-22,Customer Success,Software,DataTools,Software licenses and subscriptions,12101.99,MXN,Variable
+269,2025-07-17,Customer Success,Training,Business Learning,Employee training and development,11577.22,MXN,Variable
+270,2025-07-01,Customer Success,Training,TechSkills Academy,Employee training and development,5743.34,MXN,Variable
+271,2025-07-08,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,17845.09,MXN,Variable
+272,2025-07-21,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,15923.96,MXN,Variable
+273,2025-07-03,Administration,Payroll,Nexora Payroll,Monthly employee payroll,101008.22,MXN,Recurring
+274,2025-07-16,Administration,Payroll,Nexora Payroll,Monthly employee payroll,133847.31,MXN,Recurring
+275,2025-07-01,Administration,Rent,Corporate Offices MX,Office rent,44821.76,MXN,Recurring
+276,2025-07-17,Administration,Rent,Corporate Offices MX,Office rent,42891.58,MXN,Recurring
+277,2025-07-11,Administration,Utilities,Utility Services MX,Office utilities and services,10552.97,MXN,Variable
+278,2025-07-03,Administration,Utilities,Utility Services MX,Office utilities and services,8542.96,MXN,Variable
+279,2025-07-20,Administration,Professional Services,Consulting Group,External professional services,25408.87,MXN,Variable
+280,2025-07-22,Administration,Professional Services,Consulting Group,External professional services,19654.83,MXN,Variable
+281,2025-08-20,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,303789.41,MXN,Recurring
+282,2025-08-09,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,290333.34,MXN,Recurring
+283,2025-08-25,Engineering,Software,DataTools,Software licenses and subscriptions,39540.78,MXN,Variable
+284,2025-08-24,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,25574.23,MXN,Variable
+285,2025-08-12,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,76560.65,MXN,Variable
+286,2025-08-18,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,56123.8,MXN,Variable
+287,2025-08-13,Engineering,Training,Business Learning,Employee training and development,11155.92,MXN,Variable
+288,2025-08-14,Engineering,Training,Business Learning,Employee training and development,10772.01,MXN,Variable
+289,2025-08-25,Sales,Payroll,Nexora Payroll,Monthly employee payroll,151959.37,MXN,Recurring
+290,2025-08-06,Sales,Payroll,Nexora Payroll,Monthly employee payroll,170735.06,MXN,Recurring
+291,2025-08-07,Sales,Commissions,Sales Incentive Program,Sales performance commissions,37354.47,MXN,Variable
+292,2025-08-05,Sales,Commissions,Sales Incentive Program,Sales performance commissions,49955.55,MXN,Variable
+293,2025-08-10,Sales,Travel,Corporate Travel MX,Business travel expenses,17044.39,MXN,Variable
+294,2025-08-15,Sales,Travel,Corporate Travel MX,Business travel expenses,8529.94,MXN,Variable
+295,2025-08-09,Sales,Software,DataTools,Software licenses and subscriptions,8804.41,MXN,Variable
+296,2025-08-25,Sales,Software,CloudSuite,Software licenses and subscriptions,15433.52,MXN,Variable
+297,2025-08-17,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,111428.15,MXN,Recurring
+298,2025-08-18,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,116098.55,MXN,Recurring
+299,2025-08-21,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,85579.61,MXN,Variable
+300,2025-08-22,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,50092.11,MXN,Variable
+301,2025-08-02,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,9664.55,MXN,Variable
+302,2025-08-09,Marketing,Software,DataTools,Software licenses and subscriptions,11108.77,MXN,Variable
+303,2025-08-02,Marketing,Events,Tech Conference Group,Marketing events and conferences,18267.65,MXN,Variable
+304,2025-08-11,Marketing,Events,Business Events MX,Marketing events and conferences,21033.72,MXN,Variable
+305,2025-08-02,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,117746.88,MXN,Recurring
+306,2025-08-03,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,115107.22,MXN,Recurring
+307,2025-08-14,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,9759.47,MXN,Variable
+308,2025-08-18,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,16757.4,MXN,Variable
+309,2025-08-15,Customer Success,Training,TechSkills Academy,Employee training and development,7861.13,MXN,Variable
+310,2025-08-17,Customer Success,Training,TechSkills Academy,Employee training and development,7230.17,MXN,Variable
+311,2025-08-11,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,17737.93,MXN,Variable
+312,2025-08-11,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,11308.81,MXN,Variable
+313,2025-08-19,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130583.75,MXN,Recurring
+314,2025-08-17,Administration,Payroll,Nexora Payroll,Monthly employee payroll,110392.89,MXN,Recurring
+315,2025-08-23,Administration,Rent,Corporate Offices MX,Office rent,29682.41,MXN,Recurring
+316,2025-08-07,Administration,Rent,Corporate Offices MX,Office rent,43430.85,MXN,Recurring
+317,2025-08-12,Administration,Utilities,Utility Services MX,Office utilities and services,6623.98,MXN,Variable
+318,2025-08-19,Administration,Utilities,Utility Services MX,Office utilities and services,13011.57,MXN,Variable
+319,2025-08-04,Administration,Professional Services,Legal & Finance Partners,External professional services,12251.55,MXN,Variable
+320,2025-08-07,Administration,Professional Services,Legal & Finance Partners,External professional services,23610.75,MXN,Variable
+321,2025-09-14,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,264157.12,MXN,Recurring
+322,2025-09-05,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,222155.33,MXN,Recurring
+323,2025-09-10,Engineering,Software,CloudSuite,Software licenses and subscriptions,23080.38,MXN,Variable
+324,2025-09-17,Engineering,Software,CloudSuite,Software licenses and subscriptions,39732.38,MXN,Variable
+325,2025-09-11,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,84963.25,MXN,Variable
+326,2025-09-19,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,60942.71,MXN,Variable
+327,2025-09-14,Engineering,Training,Business Learning,Employee training and development,12349.83,MXN,Variable
+328,2025-09-23,Engineering,Training,Business Learning,Employee training and development,15779.04,MXN,Variable
+329,2025-09-23,Sales,Payroll,Nexora Payroll,Monthly employee payroll,159880.46,MXN,Recurring
+330,2025-09-21,Sales,Payroll,Nexora Payroll,Monthly employee payroll,188486.51,MXN,Recurring
+331,2025-09-07,Sales,Commissions,Sales Incentive Program,Sales performance commissions,60790.82,MXN,Variable
+332,2025-09-09,Sales,Commissions,Sales Incentive Program,Sales performance commissions,53272.56,MXN,Variable
+333,2025-09-03,Sales,Travel,Corporate Travel MX,Business travel expenses,11907.86,MXN,Variable
+334,2025-09-20,Sales,Travel,Corporate Travel MX,Business travel expenses,20880.55,MXN,Variable
+335,2025-09-03,Sales,Software,DataTools,Software licenses and subscriptions,11194.3,MXN,Variable
+336,2025-09-23,Sales,Software,DataTools,Software licenses and subscriptions,10259.78,MXN,Variable
+337,2025-09-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,149794.09,MXN,Recurring
+338,2025-09-01,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,115202.78,MXN,Recurring
+339,2025-09-22,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,78151.15,MXN,Variable
+340,2025-09-17,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,86445.97,MXN,Variable
+341,2025-09-05,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,9101.1,MXN,Variable
+342,2025-09-13,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,7996.14,MXN,Variable
+343,2025-09-11,Marketing,Events,Tech Conference Group,Marketing events and conferences,15748.48,MXN,Variable
+344,2025-09-03,Marketing,Events,Business Events MX,Marketing events and conferences,32408.98,MXN,Variable
+345,2025-09-01,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,148523.21,MXN,Recurring
+346,2025-09-13,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,119782.07,MXN,Recurring
+347,2025-09-04,Customer Success,Software,CloudSuite,Software licenses and subscriptions,15247.28,MXN,Variable
+348,2025-09-23,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,14682.36,MXN,Variable
+349,2025-09-13,Customer Success,Training,Business Learning,Employee training and development,9312.97,MXN,Variable
+350,2025-09-04,Customer Success,Training,TechSkills Academy,Employee training and development,7847.86,MXN,Variable
+351,2025-09-12,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10483.65,MXN,Variable
+352,2025-09-02,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,16333.2,MXN,Variable
+353,2025-09-01,Administration,Payroll,Nexora Payroll,Monthly employee payroll,98206.18,MXN,Recurring
+354,2025-09-23,Administration,Payroll,Nexora Payroll,Monthly employee payroll,101529.68,MXN,Recurring
+355,2025-09-10,Administration,Rent,Corporate Offices MX,Office rent,25776.7,MXN,Recurring
+356,2025-09-05,Administration,Rent,Corporate Offices MX,Office rent,41800.03,MXN,Recurring
+357,2025-09-13,Administration,Utilities,Utility Services MX,Office utilities and services,12994.73,MXN,Variable
+358,2025-09-18,Administration,Utilities,Utility Services MX,Office utilities and services,7126.85,MXN,Variable
+359,2025-09-04,Administration,Professional Services,Consulting Group,External professional services,19308.12,MXN,Variable
+360,2025-09-20,Administration,Professional Services,Consulting Group,External professional services,16273.61,MXN,Variable
+361,2025-10-17,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,283191.05,MXN,Recurring
+362,2025-10-09,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,294619.23,MXN,Recurring
+363,2025-10-01,Engineering,Software,DataTools,Software licenses and subscriptions,39901.41,MXN,Variable
+364,2025-10-22,Engineering,Software,DataTools,Software licenses and subscriptions,38389.59,MXN,Variable
+365,2025-10-05,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,92055.04,MXN,Variable
+366,2025-10-03,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,49115.2,MXN,Variable
+367,2025-10-21,Engineering,Training,TechSkills Academy,Employee training and development,16847.86,MXN,Variable
+368,2025-10-23,Engineering,Training,Business Learning,Employee training and development,8505.28,MXN,Variable
+369,2025-10-18,Sales,Payroll,Nexora Payroll,Monthly employee payroll,167062.6,MXN,Recurring
+370,2025-10-02,Sales,Payroll,Nexora Payroll,Monthly employee payroll,182953.0,MXN,Recurring
+371,2025-10-18,Sales,Commissions,Sales Incentive Program,Sales performance commissions,26700.14,MXN,Variable
+372,2025-10-06,Sales,Commissions,Sales Incentive Program,Sales performance commissions,82760.03,MXN,Variable
+373,2025-10-15,Sales,Travel,Corporate Travel MX,Business travel expenses,10230.32,MXN,Variable
+374,2025-10-01,Sales,Travel,Corporate Travel MX,Business travel expenses,11201.66,MXN,Variable
+375,2025-10-10,Sales,Software,DataTools,Software licenses and subscriptions,15769.45,MXN,Variable
+376,2025-10-12,Sales,Software,CloudSuite,Software licenses and subscriptions,12223.05,MXN,Variable
+377,2025-10-21,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,105020.84,MXN,Recurring
+378,2025-10-16,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,135850.89,MXN,Recurring
+379,2025-10-24,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,93259.57,MXN,Variable
+380,2025-10-21,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,44739.16,MXN,Variable
+381,2025-10-24,Marketing,Software,DataTools,Software licenses and subscriptions,8033.25,MXN,Variable
+382,2025-10-09,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,7159.69,MXN,Variable
+383,2025-10-21,Marketing,Events,Business Events MX,Marketing events and conferences,34824.44,MXN,Variable
+384,2025-10-25,Marketing,Events,Business Events MX,Marketing events and conferences,11002.13,MXN,Variable
+385,2025-10-12,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,158874.86,MXN,Recurring
+386,2025-10-06,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,135234.65,MXN,Recurring
+387,2025-10-13,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,19219.47,MXN,Variable
+388,2025-10-08,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,12509.22,MXN,Variable
+389,2025-10-19,Customer Success,Training,TechSkills Academy,Employee training and development,10827.57,MXN,Variable
+390,2025-10-15,Customer Success,Training,Business Learning,Employee training and development,6775.52,MXN,Variable
+391,2025-10-12,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,11453.16,MXN,Variable
+392,2025-10-06,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,20566.8,MXN,Variable
+393,2025-10-19,Administration,Payroll,Nexora Payroll,Monthly employee payroll,127126.17,MXN,Recurring
+394,2025-10-23,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130056.47,MXN,Recurring
+395,2025-10-22,Administration,Rent,Corporate Offices MX,Office rent,26382.19,MXN,Recurring
+396,2025-10-23,Administration,Rent,Corporate Offices MX,Office rent,29565.2,MXN,Recurring
+397,2025-10-20,Administration,Utilities,Utility Services MX,Office utilities and services,6886.97,MXN,Variable
+398,2025-10-12,Administration,Utilities,Utility Services MX,Office utilities and services,6443.43,MXN,Variable
+399,2025-10-21,Administration,Professional Services,Legal & Finance Partners,External professional services,14419.96,MXN,Variable
+400,2025-10-11,Administration,Professional Services,Consulting Group,External professional services,21348.57,MXN,Variable
+401,2025-11-12,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,288584.7,MXN,Recurring
+402,2025-11-25,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,301037.09,MXN,Recurring
+403,2025-11-22,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,29681.59,MXN,Variable
+404,2025-11-06,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,26752.68,MXN,Variable
+405,2025-11-13,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,76755.61,MXN,Variable
+406,2025-11-21,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,78751.62,MXN,Variable
+407,2025-11-21,Engineering,Training,TechSkills Academy,Employee training and development,9859.39,MXN,Variable
+408,2025-11-20,Engineering,Training,TechSkills Academy,Employee training and development,16030.37,MXN,Variable
+409,2025-11-19,Sales,Payroll,Nexora Payroll,Monthly employee payroll,142063.28,MXN,Recurring
+410,2025-11-08,Sales,Payroll,Nexora Payroll,Monthly employee payroll,146437.23,MXN,Recurring
+411,2025-11-20,Sales,Commissions,Sales Incentive Program,Sales performance commissions,49767.49,MXN,Variable
+412,2025-11-10,Sales,Commissions,Sales Incentive Program,Sales performance commissions,62107.83,MXN,Variable
+413,2025-11-14,Sales,Travel,Corporate Travel MX,Business travel expenses,20653.8,MXN,Variable
+414,2025-11-01,Sales,Travel,Corporate Travel MX,Business travel expenses,15625.3,MXN,Variable
+415,2025-11-13,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,13228.12,MXN,Variable
+416,2025-11-12,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,13353.59,MXN,Variable
+417,2025-11-03,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,146950.36,MXN,Recurring
+418,2025-11-06,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,104560.95,MXN,Recurring
+419,2025-11-02,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,56981.87,MXN,Variable
+420,2025-11-08,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,49115.03,MXN,Variable
+421,2025-11-10,Marketing,Software,DataTools,Software licenses and subscriptions,11202.61,MXN,Variable
+422,2025-11-16,Marketing,Software,DataTools,Software licenses and subscriptions,8361.42,MXN,Variable
+423,2025-11-02,Marketing,Events,Tech Conference Group,Marketing events and conferences,24341.52,MXN,Variable
+424,2025-11-20,Marketing,Events,Business Events MX,Marketing events and conferences,26681.45,MXN,Variable
+425,2025-11-14,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,135610.68,MXN,Recurring
+426,2025-11-18,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,162869.22,MXN,Recurring
+427,2025-11-23,Customer Success,Software,CloudSuite,Software licenses and subscriptions,19408.33,MXN,Variable
+428,2025-11-08,Customer Success,Software,DataTools,Software licenses and subscriptions,14941.38,MXN,Variable
+429,2025-11-24,Customer Success,Training,Business Learning,Employee training and development,12466.42,MXN,Variable
+430,2025-11-02,Customer Success,Training,Business Learning,Employee training and development,7583.34,MXN,Variable
+431,2025-11-12,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9713.25,MXN,Variable
+432,2025-11-16,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,14380.36,MXN,Variable
+433,2025-11-01,Administration,Payroll,Nexora Payroll,Monthly employee payroll,132601.33,MXN,Recurring
+434,2025-11-22,Administration,Payroll,Nexora Payroll,Monthly employee payroll,129924.42,MXN,Recurring
+435,2025-11-24,Administration,Rent,Corporate Offices MX,Office rent,27273.95,MXN,Recurring
+436,2025-11-06,Administration,Rent,Corporate Offices MX,Office rent,27886.65,MXN,Recurring
+437,2025-11-21,Administration,Utilities,Utility Services MX,Office utilities and services,6623.93,MXN,Variable
+438,2025-11-15,Administration,Utilities,Utility Services MX,Office utilities and services,8578.8,MXN,Variable
+439,2025-11-03,Administration,Professional Services,Legal & Finance Partners,External professional services,27040.66,MXN,Variable
+440,2025-11-14,Administration,Professional Services,Legal & Finance Partners,External professional services,24134.03,MXN,Variable
+441,2025-12-07,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,258067.17,MXN,Recurring
+442,2025-12-16,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,257949.99,MXN,Recurring
+443,2025-12-09,Engineering,Software,DataTools,Software licenses and subscriptions,30219.24,MXN,Variable
+444,2025-12-21,Engineering,Software,CloudSuite,Software licenses and subscriptions,37693.37,MXN,Variable
+445,2025-12-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,88332.32,MXN,Variable
+446,2025-12-04,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,54037.35,MXN,Variable
+447,2025-12-10,Engineering,Training,TechSkills Academy,Employee training and development,13783.03,MXN,Variable
+448,2025-12-23,Engineering,Training,TechSkills Academy,Employee training and development,17404.41,MXN,Variable
+449,2025-12-25,Sales,Payroll,Nexora Payroll,Monthly employee payroll,186691.03,MXN,Recurring
+450,2025-12-19,Sales,Payroll,Nexora Payroll,Monthly employee payroll,178814.22,MXN,Recurring
+451,2025-12-10,Sales,Commissions,Sales Incentive Program,Sales performance commissions,52277.67,MXN,Variable
+452,2025-12-13,Sales,Commissions,Sales Incentive Program,Sales performance commissions,61962.42,MXN,Variable
+453,2025-12-08,Sales,Travel,Corporate Travel MX,Business travel expenses,14356.82,MXN,Variable
+454,2025-12-19,Sales,Travel,Corporate Travel MX,Business travel expenses,13400.51,MXN,Variable
+455,2025-12-03,Sales,Software,CloudSuite,Software licenses and subscriptions,17397.7,MXN,Variable
+456,2025-12-12,Sales,Software,DataTools,Software licenses and subscriptions,10826.61,MXN,Variable
+457,2025-12-17,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,123914.74,MXN,Recurring
+458,2025-12-10,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,146197.88,MXN,Recurring
+459,2025-12-22,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,79512.4,MXN,Variable
+460,2025-12-12,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,68755.54,MXN,Variable
+461,2025-12-21,Marketing,Software,DataTools,Software licenses and subscriptions,11278.61,MXN,Variable
+462,2025-12-02,Marketing,Software,DataTools,Software licenses and subscriptions,9588.15,MXN,Variable
+463,2025-12-13,Marketing,Events,Business Events MX,Marketing events and conferences,14709.83,MXN,Variable
+464,2025-12-23,Marketing,Events,Business Events MX,Marketing events and conferences,32186.3,MXN,Variable
+465,2025-12-07,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,128563.19,MXN,Recurring
+466,2025-12-06,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,136056.43,MXN,Recurring
+467,2025-12-02,Customer Success,Software,DataTools,Software licenses and subscriptions,18675.85,MXN,Variable
+468,2025-12-16,Customer Success,Software,DataTools,Software licenses and subscriptions,15282.99,MXN,Variable
+469,2025-12-18,Customer Success,Training,TechSkills Academy,Employee training and development,7458.19,MXN,Variable
+470,2025-12-05,Customer Success,Training,Business Learning,Employee training and development,5198.01,MXN,Variable
+471,2025-12-25,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,20463.36,MXN,Variable
+472,2025-12-18,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,12928.92,MXN,Variable
+473,2025-12-06,Administration,Payroll,Nexora Payroll,Monthly employee payroll,134338.75,MXN,Recurring
+474,2025-12-20,Administration,Payroll,Nexora Payroll,Monthly employee payroll,100308.05,MXN,Recurring
+475,2025-12-08,Administration,Rent,Corporate Offices MX,Office rent,35228.51,MXN,Recurring
+476,2025-12-06,Administration,Rent,Corporate Offices MX,Office rent,38672.92,MXN,Recurring
+477,2025-12-24,Administration,Utilities,Utility Services MX,Office utilities and services,10757.35,MXN,Variable
+478,2025-12-12,Administration,Utilities,Utility Services MX,Office utilities and services,13466.63,MXN,Variable
+479,2025-12-21,Administration,Professional Services,Consulting Group,External professional services,16713.93,MXN,Variable
+480,2025-12-04,Administration,Professional Services,Legal & Finance Partners,External professional services,22634.98,MXN,Variable
+481,2026-01-10,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,228458.06,MXN,Recurring
+482,2026-01-19,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,236916.4,MXN,Recurring
+483,2026-01-07,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,30226.14,MXN,Variable
+484,2026-01-19,Engineering,Software,DataTools,Software licenses and subscriptions,27299.53,MXN,Variable
+485,2026-01-24,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,53858.8,MXN,Variable
+486,2026-01-21,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,82592.35,MXN,Variable
+487,2026-01-18,Engineering,Training,Business Learning,Employee training and development,11681.05,MXN,Variable
+488,2026-01-25,Engineering,Training,Business Learning,Employee training and development,5906.61,MXN,Variable
+489,2026-01-20,Sales,Payroll,Nexora Payroll,Monthly employee payroll,135399.07,MXN,Recurring
+490,2026-01-13,Sales,Payroll,Nexora Payroll,Monthly employee payroll,167203.96,MXN,Recurring
+491,2026-01-24,Sales,Commissions,Sales Incentive Program,Sales performance commissions,40897.18,MXN,Variable
+492,2026-01-02,Sales,Commissions,Sales Incentive Program,Sales performance commissions,33010.8,MXN,Variable
+493,2026-01-20,Sales,Travel,Corporate Travel MX,Business travel expenses,22913.1,MXN,Variable
+494,2026-01-01,Sales,Travel,Corporate Travel MX,Business travel expenses,22694.6,MXN,Variable
+495,2026-01-10,Sales,Software,DataTools,Software licenses and subscriptions,9249.0,MXN,Variable
+496,2026-01-15,Sales,Software,DataTools,Software licenses and subscriptions,17401.62,MXN,Variable
+497,2026-01-14,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,110479.39,MXN,Recurring
+498,2026-01-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,131535.61,MXN,Recurring
+499,2026-01-16,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,51661.63,MXN,Variable
+500,2026-01-06,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,99059.26,MXN,Variable
+501,2026-01-25,Marketing,Software,DataTools,Software licenses and subscriptions,14158.1,MXN,Variable
+502,2026-01-12,Marketing,Software,CloudSuite,Software licenses and subscriptions,15091.97,MXN,Variable
+503,2026-01-22,Marketing,Events,Business Events MX,Marketing events and conferences,25157.48,MXN,Variable
+504,2026-01-23,Marketing,Events,Business Events MX,Marketing events and conferences,12621.73,MXN,Variable
+505,2026-01-19,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,155558.52,MXN,Recurring
+506,2026-01-14,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,159773.62,MXN,Recurring
+507,2026-01-19,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9163.36,MXN,Variable
+508,2026-01-17,Customer Success,Software,DataTools,Software licenses and subscriptions,18514.93,MXN,Variable
+509,2026-01-15,Customer Success,Training,TechSkills Academy,Employee training and development,12005.23,MXN,Variable
+510,2026-01-07,Customer Success,Training,TechSkills Academy,Employee training and development,11126.8,MXN,Variable
+511,2026-01-01,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,13094.89,MXN,Variable
+512,2026-01-05,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,20306.77,MXN,Variable
+513,2026-01-25,Administration,Payroll,Nexora Payroll,Monthly employee payroll,129824.05,MXN,Recurring
+514,2026-01-09,Administration,Payroll,Nexora Payroll,Monthly employee payroll,114156.64,MXN,Recurring
+515,2026-01-02,Administration,Rent,Corporate Offices MX,Office rent,38644.66,MXN,Recurring
+516,2026-01-25,Administration,Rent,Corporate Offices MX,Office rent,30131.29,MXN,Recurring
+517,2026-01-10,Administration,Utilities,Utility Services MX,Office utilities and services,10491.37,MXN,Variable
+518,2026-01-03,Administration,Utilities,Utility Services MX,Office utilities and services,12684.11,MXN,Variable
+519,2026-01-24,Administration,Professional Services,Consulting Group,External professional services,18335.82,MXN,Variable
+520,2026-01-07,Administration,Professional Services,Consulting Group,External professional services,27615.1,MXN,Variable
+521,2026-02-25,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,223094.18,MXN,Recurring
+522,2026-02-18,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,256558.31,MXN,Recurring
+523,2026-02-15,Engineering,Software,DataTools,Software licenses and subscriptions,34875.5,MXN,Variable
+524,2026-02-25,Engineering,Software,DataTools,Software licenses and subscriptions,19879.05,MXN,Variable
+525,2026-02-15,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,85449.4,MXN,Variable
+526,2026-02-07,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,51383.84,MXN,Variable
+527,2026-02-05,Engineering,Training,TechSkills Academy,Employee training and development,13741.26,MXN,Variable
+528,2026-02-05,Engineering,Training,Business Learning,Employee training and development,15221.27,MXN,Variable
+529,2026-02-08,Sales,Payroll,Nexora Payroll,Monthly employee payroll,174266.25,MXN,Recurring
+530,2026-02-16,Sales,Payroll,Nexora Payroll,Monthly employee payroll,157044.29,MXN,Recurring
+531,2026-02-03,Sales,Commissions,Sales Incentive Program,Sales performance commissions,49547.72,MXN,Variable
+532,2026-02-18,Sales,Commissions,Sales Incentive Program,Sales performance commissions,58683.58,MXN,Variable
+533,2026-02-19,Sales,Travel,Corporate Travel MX,Business travel expenses,11839.52,MXN,Variable
+534,2026-02-19,Sales,Travel,Corporate Travel MX,Business travel expenses,21952.27,MXN,Variable
+535,2026-02-24,Sales,Software,DataTools,Software licenses and subscriptions,17943.38,MXN,Variable
+536,2026-02-04,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,8815.05,MXN,Variable
+537,2026-02-18,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,113364.6,MXN,Recurring
+538,2026-02-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,123827.9,MXN,Recurring
+539,2026-02-24,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,43060.4,MXN,Variable
+540,2026-02-07,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,94179.58,MXN,Variable
+541,2026-02-07,Marketing,Software,CloudSuite,Software licenses and subscriptions,7753.01,MXN,Variable
+542,2026-02-22,Marketing,Software,CloudSuite,Software licenses and subscriptions,7041.37,MXN,Variable
+543,2026-02-02,Marketing,Events,Business Events MX,Marketing events and conferences,23511.9,MXN,Variable
+544,2026-02-13,Marketing,Events,Tech Conference Group,Marketing events and conferences,24610.04,MXN,Variable
+545,2026-02-16,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,146386.35,MXN,Recurring
+546,2026-02-21,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,117365.29,MXN,Recurring
+547,2026-02-06,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9073.39,MXN,Variable
+548,2026-02-02,Customer Success,Software,CloudSuite,Software licenses and subscriptions,13274.07,MXN,Variable
+549,2026-02-12,Customer Success,Training,TechSkills Academy,Employee training and development,7341.52,MXN,Variable
+550,2026-02-21,Customer Success,Training,TechSkills Academy,Employee training and development,8449.16,MXN,Variable
+551,2026-02-06,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,19478.82,MXN,Variable
+552,2026-02-21,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10448.46,MXN,Variable
+553,2026-02-14,Administration,Payroll,Nexora Payroll,Monthly employee payroll,128948.41,MXN,Recurring
+554,2026-02-19,Administration,Payroll,Nexora Payroll,Monthly employee payroll,96598.11,MXN,Recurring
+555,2026-02-18,Administration,Rent,Corporate Offices MX,Office rent,36990.97,MXN,Recurring
+556,2026-02-16,Administration,Rent,Corporate Offices MX,Office rent,41867.17,MXN,Recurring
+557,2026-02-03,Administration,Utilities,Utility Services MX,Office utilities and services,13664.43,MXN,Variable
+558,2026-02-12,Administration,Utilities,Utility Services MX,Office utilities and services,8239.13,MXN,Variable
+559,2026-02-17,Administration,Professional Services,Legal & Finance Partners,External professional services,19803.84,MXN,Variable
+560,2026-02-14,Administration,Professional Services,Consulting Group,External professional services,27637.53,MXN,Variable
+561,2026-03-20,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,220239.52,MXN,Recurring
+562,2026-03-15,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,267658.99,MXN,Recurring
+563,2026-03-02,Engineering,Software,CloudSuite,Software licenses and subscriptions,29300.99,MXN,Variable
+564,2026-03-14,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,21110.2,MXN,Variable
+565,2026-03-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,86112.49,MXN,Variable
+566,2026-03-09,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,51236.59,MXN,Variable
+567,2026-03-03,Engineering,Training,Business Learning,Employee training and development,16461.57,MXN,Variable
+568,2026-03-19,Engineering,Training,Business Learning,Employee training and development,11752.78,MXN,Variable
+569,2026-03-13,Sales,Payroll,Nexora Payroll,Monthly employee payroll,139156.6,MXN,Recurring
+570,2026-03-11,Sales,Payroll,Nexora Payroll,Monthly employee payroll,150988.15,MXN,Recurring
+571,2026-03-15,Sales,Commissions,Sales Incentive Program,Sales performance commissions,40430.92,MXN,Variable
+572,2026-03-12,Sales,Commissions,Sales Incentive Program,Sales performance commissions,41978.89,MXN,Variable
+573,2026-03-04,Sales,Travel,Corporate Travel MX,Business travel expenses,18554.92,MXN,Variable
+574,2026-03-02,Sales,Travel,Corporate Travel MX,Business travel expenses,15228.64,MXN,Variable
+575,2026-03-23,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,15438.45,MXN,Variable
+576,2026-03-01,Sales,Software,DataTools,Software licenses and subscriptions,11476.4,MXN,Variable
+577,2026-03-12,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,149176.63,MXN,Recurring
+578,2026-03-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,132817.49,MXN,Recurring
+579,2026-03-16,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,52128.0,MXN,Variable
+580,2026-03-02,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,69780.83,MXN,Variable
+581,2026-03-22,Marketing,Software,DataTools,Software licenses and subscriptions,15442.96,MXN,Variable
+582,2026-03-06,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,8886.45,MXN,Variable
+583,2026-03-24,Marketing,Events,Business Events MX,Marketing events and conferences,25917.44,MXN,Variable
+584,2026-03-06,Marketing,Events,Business Events MX,Marketing events and conferences,32445.11,MXN,Variable
+585,2026-03-11,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,163952.05,MXN,Recurring
+586,2026-03-03,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,160298.94,MXN,Recurring
+587,2026-03-14,Customer Success,Software,DataTools,Software licenses and subscriptions,13939.62,MXN,Variable
+588,2026-03-11,Customer Success,Software,CloudSuite,Software licenses and subscriptions,19659.1,MXN,Variable
+589,2026-03-08,Customer Success,Training,Business Learning,Employee training and development,10487.45,MXN,Variable
+590,2026-03-21,Customer Success,Training,Business Learning,Employee training and development,8315.26,MXN,Variable
+591,2026-03-16,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10974.59,MXN,Variable
+592,2026-03-21,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,8828.25,MXN,Variable
+593,2026-03-19,Administration,Payroll,Nexora Payroll,Monthly employee payroll,115821.99,MXN,Recurring
+594,2026-03-21,Administration,Payroll,Nexora Payroll,Monthly employee payroll,95698.52,MXN,Recurring
+595,2026-03-19,Administration,Rent,Corporate Offices MX,Office rent,34197.12,MXN,Recurring
+596,2026-03-02,Administration,Rent,Corporate Offices MX,Office rent,43117.93,MXN,Recurring
+597,2026-03-07,Administration,Utilities,Utility Services MX,Office utilities and services,13386.73,MXN,Variable
+598,2026-03-22,Administration,Utilities,Utility Services MX,Office utilities and services,13333.35,MXN,Variable
+599,2026-03-17,Administration,Professional Services,Legal & Finance Partners,External professional services,29445.52,MXN,Variable
+600,2026-03-04,Administration,Professional Services,Consulting Group,External professional services,13267.1,MXN,Variable
+601,2026-04-20,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,265782.26,MXN,Recurring
+602,2026-04-20,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,236890.4,MXN,Recurring
+603,2026-04-04,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,19813.96,MXN,Variable
+604,2026-04-13,Engineering,Software,CloudSuite,Software licenses and subscriptions,32791.84,MXN,Variable
+605,2026-04-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,81685.18,MXN,Variable
+606,2026-04-01,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,89674.9,MXN,Variable
+607,2026-04-23,Engineering,Training,Business Learning,Employee training and development,6566.39,MXN,Variable
+608,2026-04-16,Engineering,Training,TechSkills Academy,Employee training and development,7213.35,MXN,Variable
+609,2026-04-15,Sales,Payroll,Nexora Payroll,Monthly employee payroll,156602.62,MXN,Recurring
+610,2026-04-12,Sales,Payroll,Nexora Payroll,Monthly employee payroll,185777.58,MXN,Recurring
+611,2026-04-20,Sales,Commissions,Sales Incentive Program,Sales performance commissions,38419.18,MXN,Variable
+612,2026-04-06,Sales,Commissions,Sales Incentive Program,Sales performance commissions,54288.9,MXN,Variable
+613,2026-04-06,Sales,Travel,Corporate Travel MX,Business travel expenses,13421.06,MXN,Variable
+614,2026-04-13,Sales,Travel,Corporate Travel MX,Business travel expenses,11451.91,MXN,Variable
+615,2026-04-16,Sales,Software,DataTools,Software licenses and subscriptions,14532.66,MXN,Variable
+616,2026-04-17,Sales,Software,CloudSuite,Software licenses and subscriptions,8793.82,MXN,Variable
+617,2026-04-19,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,137942.91,MXN,Recurring
+618,2026-04-25,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,103279.23,MXN,Recurring
+619,2026-04-04,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,43079.8,MXN,Variable
+620,2026-04-17,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,48084.53,MXN,Variable
+621,2026-04-20,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,13383.8,MXN,Variable
+622,2026-04-17,Marketing,Software,CloudSuite,Software licenses and subscriptions,15930.82,MXN,Variable
+623,2026-04-14,Marketing,Events,Tech Conference Group,Marketing events and conferences,23304.22,MXN,Variable
+624,2026-04-21,Marketing,Events,Business Events MX,Marketing events and conferences,25933.61,MXN,Variable
+625,2026-04-01,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,122513.46,MXN,Recurring
+626,2026-04-11,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,153460.43,MXN,Recurring
+627,2026-04-13,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,9014.78,MXN,Variable
+628,2026-04-06,Customer Success,Software,CloudSuite,Software licenses and subscriptions,9064.83,MXN,Variable
+629,2026-04-18,Customer Success,Training,TechSkills Academy,Employee training and development,9010.23,MXN,Variable
+630,2026-04-09,Customer Success,Training,Business Learning,Employee training and development,4429.66,MXN,Variable
+631,2026-04-22,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,18477.56,MXN,Variable
+632,2026-04-08,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9293.71,MXN,Variable
+633,2026-04-04,Administration,Payroll,Nexora Payroll,Monthly employee payroll,90435.77,MXN,Recurring
+634,2026-04-20,Administration,Payroll,Nexora Payroll,Monthly employee payroll,102571.92,MXN,Recurring
+635,2026-04-02,Administration,Rent,Corporate Offices MX,Office rent,31749.55,MXN,Recurring
+636,2026-04-04,Administration,Rent,Corporate Offices MX,Office rent,43811.42,MXN,Recurring
+637,2026-04-23,Administration,Utilities,Utility Services MX,Office utilities and services,12473.69,MXN,Variable
+638,2026-04-05,Administration,Utilities,Utility Services MX,Office utilities and services,13092.8,MXN,Variable
+639,2026-04-13,Administration,Professional Services,Legal & Finance Partners,External professional services,25733.97,MXN,Variable
+640,2026-04-08,Administration,Professional Services,Legal & Finance Partners,External professional services,26364.7,MXN,Variable
+641,2026-05-01,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,297442.73,MXN,Recurring
+642,2026-05-06,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,290957.73,MXN,Recurring
+643,2026-05-09,Engineering,Software,DataTools,Software licenses and subscriptions,25701.84,MXN,Variable
+644,2026-05-08,Engineering,Software,CloudSuite,Software licenses and subscriptions,38865.26,MXN,Variable
+645,2026-05-08,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,73122.5,MXN,Variable
+646,2026-05-23,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,74733.17,MXN,Variable
+647,2026-05-25,Engineering,Training,TechSkills Academy,Employee training and development,13524.82,MXN,Variable
+648,2026-05-03,Engineering,Training,Business Learning,Employee training and development,17669.82,MXN,Variable
+649,2026-05-02,Sales,Payroll,Nexora Payroll,Monthly employee payroll,130320.95,MXN,Recurring
+650,2026-05-19,Sales,Payroll,Nexora Payroll,Monthly employee payroll,134032.98,MXN,Recurring
+651,2026-05-11,Sales,Commissions,Sales Incentive Program,Sales performance commissions,46569.01,MXN,Variable
+652,2026-05-17,Sales,Commissions,Sales Incentive Program,Sales performance commissions,79188.13,MXN,Variable
+653,2026-05-14,Sales,Travel,Corporate Travel MX,Business travel expenses,22665.89,MXN,Variable
+654,2026-05-11,Sales,Travel,Corporate Travel MX,Business travel expenses,21640.95,MXN,Variable
+655,2026-05-10,Sales,Software,CloudSuite,Software licenses and subscriptions,16092.57,MXN,Variable
+656,2026-05-10,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,10511.13,MXN,Variable
+657,2026-05-20,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,123132.7,MXN,Recurring
+658,2026-05-12,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,148546.72,MXN,Recurring
+659,2026-05-21,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,61534.17,MXN,Variable
+660,2026-05-02,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,58252.44,MXN,Variable
+661,2026-05-03,Marketing,Software,DataTools,Software licenses and subscriptions,13193.6,MXN,Variable
+662,2026-05-10,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,11502.25,MXN,Variable
+663,2026-05-15,Marketing,Events,Business Events MX,Marketing events and conferences,22151.28,MXN,Variable
+664,2026-05-23,Marketing,Events,Tech Conference Group,Marketing events and conferences,29404.49,MXN,Variable
+665,2026-05-02,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,145352.08,MXN,Recurring
+666,2026-05-19,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,160296.43,MXN,Recurring
+667,2026-05-12,Customer Success,Software,DataTools,Software licenses and subscriptions,12935.68,MXN,Variable
+668,2026-05-16,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,10333.63,MXN,Variable
+669,2026-05-03,Customer Success,Training,TechSkills Academy,Employee training and development,6567.35,MXN,Variable
+670,2026-05-08,Customer Success,Training,TechSkills Academy,Employee training and development,10932.22,MXN,Variable
+671,2026-05-19,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,20325.1,MXN,Variable
+672,2026-05-08,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,16804.36,MXN,Variable
+673,2026-05-15,Administration,Payroll,Nexora Payroll,Monthly employee payroll,96211.55,MXN,Recurring
+674,2026-05-08,Administration,Payroll,Nexora Payroll,Monthly employee payroll,133607.24,MXN,Recurring
+675,2026-05-23,Administration,Rent,Corporate Offices MX,Office rent,33828.82,MXN,Recurring
+676,2026-05-19,Administration,Rent,Corporate Offices MX,Office rent,42673.76,MXN,Recurring
+677,2026-05-13,Administration,Utilities,Utility Services MX,Office utilities and services,13829.27,MXN,Variable
+678,2026-05-19,Administration,Utilities,Utility Services MX,Office utilities and services,10713.13,MXN,Variable
+679,2026-05-13,Administration,Professional Services,Legal & Finance Partners,External professional services,20193.63,MXN,Variable
+680,2026-05-07,Administration,Professional Services,Consulting Group,External professional services,19538.14,MXN,Variable
+681,2026-06-24,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,252986.94,MXN,Recurring
+682,2026-06-16,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,225440.43,MXN,Recurring
+683,2026-06-15,Engineering,Software,DataTools,Software licenses and subscriptions,24605.35,MXN,Variable
+684,2026-06-15,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,21819.49,MXN,Variable
+685,2026-06-16,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,75000.53,MXN,Variable
+686,2026-06-24,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,86089.21,MXN,Variable
+687,2026-06-08,Engineering,Training,Business Learning,Employee training and development,7370.87,MXN,Variable
+688,2026-06-13,Engineering,Training,TechSkills Academy,Employee training and development,14424.01,MXN,Variable
+689,2026-06-01,Sales,Payroll,Nexora Payroll,Monthly employee payroll,187054.85,MXN,Recurring
+690,2026-06-18,Sales,Payroll,Nexora Payroll,Monthly employee payroll,139452.76,MXN,Recurring
+691,2026-06-25,Sales,Commissions,Sales Incentive Program,Sales performance commissions,59903.92,MXN,Variable
+692,2026-06-05,Sales,Commissions,Sales Incentive Program,Sales performance commissions,75364.0,MXN,Variable
+693,2026-06-04,Sales,Travel,Corporate Travel MX,Business travel expenses,15597.38,MXN,Variable
+694,2026-06-21,Sales,Travel,Corporate Travel MX,Business travel expenses,10199.14,MXN,Variable
+695,2026-06-12,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,12475.49,MXN,Variable
+696,2026-06-15,Sales,Software,CloudSuite,Software licenses and subscriptions,16588.26,MXN,Variable
+697,2026-06-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,110673.29,MXN,Recurring
+698,2026-06-23,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,119841.19,MXN,Recurring
+699,2026-06-14,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,41132.23,MXN,Variable
+700,2026-06-25,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,65598.76,MXN,Variable
+701,2026-06-24,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,11532.85,MXN,Variable
+702,2026-06-21,Marketing,Software,DataTools,Software licenses and subscriptions,9581.22,MXN,Variable
+703,2026-06-05,Marketing,Events,Business Events MX,Marketing events and conferences,28883.2,MXN,Variable
+704,2026-06-15,Marketing,Events,Business Events MX,Marketing events and conferences,16156.04,MXN,Variable
+705,2026-06-14,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,134121.11,MXN,Recurring
+706,2026-06-05,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,123895.07,MXN,Recurring
+707,2026-06-10,Customer Success,Software,DataTools,Software licenses and subscriptions,8726.29,MXN,Variable
+708,2026-06-08,Customer Success,Software,CloudSuite,Software licenses and subscriptions,16444.93,MXN,Variable
+709,2026-06-12,Customer Success,Training,Business Learning,Employee training and development,9621.77,MXN,Variable
+710,2026-06-19,Customer Success,Training,Business Learning,Employee training and development,6401.19,MXN,Variable
+711,2026-06-07,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9042.52,MXN,Variable
+712,2026-06-03,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9470.47,MXN,Variable
+713,2026-06-21,Administration,Payroll,Nexora Payroll,Monthly employee payroll,110846.21,MXN,Recurring
+714,2026-06-17,Administration,Payroll,Nexora Payroll,Monthly employee payroll,124844.47,MXN,Recurring
+715,2026-06-15,Administration,Rent,Corporate Offices MX,Office rent,26697.03,MXN,Recurring
+716,2026-06-23,Administration,Rent,Corporate Offices MX,Office rent,42677.88,MXN,Recurring
+717,2026-06-05,Administration,Utilities,Utility Services MX,Office utilities and services,13455.78,MXN,Variable
+718,2026-06-11,Administration,Utilities,Utility Services MX,Office utilities and services,9852.94,MXN,Variable
+719,2026-06-14,Administration,Professional Services,Legal & Finance Partners,External professional services,18404.98,MXN,Variable
+720,2026-06-24,Administration,Professional Services,Consulting Group,External professional services,19773.6,MXN,Variable
+721,2026-07-20,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,275067.54,MXN,Recurring
+722,2026-07-05,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,277772.74,MXN,Recurring
+723,2026-07-22,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,36046.45,MXN,Variable
+724,2026-07-07,Engineering,Software,DataTools,Software licenses and subscriptions,26785.29,MXN,Variable
+725,2026-07-04,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,80641.51,MXN,Variable
+726,2026-07-13,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,57549.37,MXN,Variable
+727,2026-07-18,Engineering,Training,TechSkills Academy,Employee training and development,8281.23,MXN,Variable
+728,2026-07-04,Engineering,Training,TechSkills Academy,Employee training and development,9067.14,MXN,Variable
+729,2026-07-10,Sales,Payroll,Nexora Payroll,Monthly employee payroll,133110.4,MXN,Recurring
+730,2026-07-13,Sales,Payroll,Nexora Payroll,Monthly employee payroll,171976.35,MXN,Recurring
+731,2026-07-23,Sales,Commissions,Sales Incentive Program,Sales performance commissions,66963.34,MXN,Variable
+732,2026-07-02,Sales,Commissions,Sales Incentive Program,Sales performance commissions,79116.26,MXN,Variable
+733,2026-07-06,Sales,Travel,Corporate Travel MX,Business travel expenses,11471.84,MXN,Variable
+734,2026-07-18,Sales,Travel,Corporate Travel MX,Business travel expenses,11313.21,MXN,Variable
+735,2026-07-25,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,11504.69,MXN,Variable
+736,2026-07-15,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,10702.04,MXN,Variable
+737,2026-07-06,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,137358.06,MXN,Recurring
+738,2026-07-23,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,133720.64,MXN,Recurring
+739,2026-07-07,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,72064.78,MXN,Variable
+740,2026-07-17,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,98018.68,MXN,Variable
+741,2026-07-17,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,15145.36,MXN,Variable
+742,2026-07-18,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,7447.23,MXN,Variable
+743,2026-07-04,Marketing,Events,Business Events MX,Marketing events and conferences,20134.99,MXN,Variable
+744,2026-07-22,Marketing,Events,Business Events MX,Marketing events and conferences,12536.81,MXN,Variable
+745,2026-07-24,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,132796.8,MXN,Recurring
+746,2026-07-02,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,135718.16,MXN,Recurring
+747,2026-07-05,Customer Success,Software,DataTools,Software licenses and subscriptions,18239.27,MXN,Variable
+748,2026-07-22,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,9730.64,MXN,Variable
+749,2026-07-02,Customer Success,Training,Business Learning,Employee training and development,13218.69,MXN,Variable
+750,2026-07-15,Customer Success,Training,Business Learning,Employee training and development,4126.13,MXN,Variable
+751,2026-07-09,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,15014.39,MXN,Variable
+752,2026-07-11,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,19173.46,MXN,Variable
+753,2026-07-10,Administration,Payroll,Nexora Payroll,Monthly employee payroll,106108.83,MXN,Recurring
+754,2026-07-09,Administration,Payroll,Nexora Payroll,Monthly employee payroll,121269.55,MXN,Recurring
+755,2026-07-03,Administration,Rent,Corporate Offices MX,Office rent,39172.26,MXN,Recurring
+756,2026-07-25,Administration,Rent,Corporate Offices MX,Office rent,40664.73,MXN,Recurring
+757,2026-07-08,Administration,Utilities,Utility Services MX,Office utilities and services,8059.31,MXN,Variable
+758,2026-07-19,Administration,Utilities,Utility Services MX,Office utilities and services,11231.93,MXN,Variable
+759,2026-07-09,Administration,Professional Services,Legal & Finance Partners,External professional services,28816.83,MXN,Variable
+760,2026-07-07,Administration,Professional Services,Legal & Finance Partners,External professional services,14200.55,MXN,Variable
+761,2026-08-19,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,271690.18,MXN,Recurring
+762,2026-08-19,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,276754.6,MXN,Recurring
+763,2026-08-10,Engineering,Software,CloudSuite,Software licenses and subscriptions,20410.9,MXN,Variable
+764,2026-08-04,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,28044.56,MXN,Variable
+765,2026-08-02,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,94565.82,MXN,Variable
+766,2026-08-08,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,61252.15,MXN,Variable
+767,2026-08-05,Engineering,Training,TechSkills Academy,Employee training and development,7935.92,MXN,Variable
+768,2026-08-15,Engineering,Training,TechSkills Academy,Employee training and development,9955.95,MXN,Variable
+769,2026-08-20,Sales,Payroll,Nexora Payroll,Monthly employee payroll,135389.11,MXN,Recurring
+770,2026-08-14,Sales,Payroll,Nexora Payroll,Monthly employee payroll,150198.43,MXN,Recurring
+771,2026-08-14,Sales,Commissions,Sales Incentive Program,Sales performance commissions,74305.44,MXN,Variable
+772,2026-08-08,Sales,Commissions,Sales Incentive Program,Sales performance commissions,53695.01,MXN,Variable
+773,2026-08-16,Sales,Travel,Corporate Travel MX,Business travel expenses,19880.78,MXN,Variable
+774,2026-08-04,Sales,Travel,Corporate Travel MX,Business travel expenses,20595.88,MXN,Variable
+775,2026-08-24,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,17062.39,MXN,Variable
+776,2026-08-13,Sales,Software,DataTools,Software licenses and subscriptions,8269.61,MXN,Variable
+777,2026-08-25,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,102335.46,MXN,Recurring
+778,2026-08-22,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,138189.41,MXN,Recurring
+779,2026-08-07,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,86157.43,MXN,Variable
+780,2026-08-08,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,77500.37,MXN,Variable
+781,2026-08-18,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,14961.56,MXN,Variable
+782,2026-08-03,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,13366.19,MXN,Variable
+783,2026-08-06,Marketing,Events,Business Events MX,Marketing events and conferences,23023.69,MXN,Variable
+784,2026-08-07,Marketing,Events,Tech Conference Group,Marketing events and conferences,29305.14,MXN,Variable
+785,2026-08-15,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,140608.81,MXN,Recurring
+786,2026-08-16,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,137628.31,MXN,Recurring
+787,2026-08-08,Customer Success,Software,CloudSuite,Software licenses and subscriptions,13552.96,MXN,Variable
+788,2026-08-15,Customer Success,Software,CloudSuite,Software licenses and subscriptions,14872.23,MXN,Variable
+789,2026-08-24,Customer Success,Training,TechSkills Academy,Employee training and development,8370.57,MXN,Variable
+790,2026-08-08,Customer Success,Training,Business Learning,Employee training and development,13025.89,MXN,Variable
+791,2026-08-25,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10534.09,MXN,Variable
+792,2026-08-20,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10027.92,MXN,Variable
+793,2026-08-14,Administration,Payroll,Nexora Payroll,Monthly employee payroll,107251.4,MXN,Recurring
+794,2026-08-02,Administration,Payroll,Nexora Payroll,Monthly employee payroll,102142.82,MXN,Recurring
+795,2026-08-23,Administration,Rent,Corporate Offices MX,Office rent,28703.33,MXN,Recurring
+796,2026-08-03,Administration,Rent,Corporate Offices MX,Office rent,38719.19,MXN,Recurring
+797,2026-08-02,Administration,Utilities,Utility Services MX,Office utilities and services,10689.58,MXN,Variable
+798,2026-08-03,Administration,Utilities,Utility Services MX,Office utilities and services,9584.83,MXN,Variable
+799,2026-08-05,Administration,Professional Services,Consulting Group,External professional services,19003.76,MXN,Variable
+800,2026-08-06,Administration,Professional Services,Legal & Finance Partners,External professional services,17917.18,MXN,Variable
+801,2026-09-05,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,231296.58,MXN,Recurring
+802,2026-09-08,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,239773.18,MXN,Recurring
+803,2026-09-09,Engineering,Software,DataTools,Software licenses and subscriptions,33370.2,MXN,Variable
+804,2026-09-20,Engineering,Software,DataTools,Software licenses and subscriptions,24242.56,MXN,Variable
+805,2026-09-16,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,71030.31,MXN,Variable
+806,2026-09-02,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,90155.31,MXN,Variable
+807,2026-09-10,Engineering,Training,Business Learning,Employee training and development,8381.89,MXN,Variable
+808,2026-09-09,Engineering,Training,Business Learning,Employee training and development,14045.31,MXN,Variable
+809,2026-09-15,Sales,Payroll,Nexora Payroll,Monthly employee payroll,167031.85,MXN,Recurring
+810,2026-09-19,Sales,Payroll,Nexora Payroll,Monthly employee payroll,177207.4,MXN,Recurring
+811,2026-09-11,Sales,Commissions,Sales Incentive Program,Sales performance commissions,45295.83,MXN,Variable
+812,2026-09-24,Sales,Commissions,Sales Incentive Program,Sales performance commissions,69573.19,MXN,Variable
+813,2026-09-21,Sales,Travel,Corporate Travel MX,Business travel expenses,16546.2,MXN,Variable
+814,2026-09-22,Sales,Travel,Corporate Travel MX,Business travel expenses,24717.11,MXN,Variable
+815,2026-09-14,Sales,Software,DataTools,Software licenses and subscriptions,12122.79,MXN,Variable
+816,2026-09-08,Sales,Software,DataTools,Software licenses and subscriptions,12101.77,MXN,Variable
+817,2026-09-18,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,133027.7,MXN,Recurring
+818,2026-09-08,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,144803.02,MXN,Recurring
+819,2026-09-10,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,57913.67,MXN,Variable
+820,2026-09-04,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,56307.34,MXN,Variable
+821,2026-09-08,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,12746.66,MXN,Variable
+822,2026-09-22,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,13391.63,MXN,Variable
+823,2026-09-16,Marketing,Events,Business Events MX,Marketing events and conferences,32941.63,MXN,Variable
+824,2026-09-24,Marketing,Events,Business Events MX,Marketing events and conferences,12131.84,MXN,Variable
+825,2026-09-21,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,153124.78,MXN,Recurring
+826,2026-09-12,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,134251.46,MXN,Recurring
+827,2026-09-14,Customer Success,Software,CloudSuite,Software licenses and subscriptions,13936.57,MXN,Variable
+828,2026-09-16,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,18820.53,MXN,Variable
+829,2026-09-21,Customer Success,Training,Business Learning,Employee training and development,9795.03,MXN,Variable
+830,2026-09-02,Customer Success,Training,Business Learning,Employee training and development,4089.67,MXN,Variable
+831,2026-09-03,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,14192.83,MXN,Variable
+832,2026-09-06,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,15997.25,MXN,Variable
+833,2026-09-02,Administration,Payroll,Nexora Payroll,Monthly employee payroll,111795.96,MXN,Recurring
+834,2026-09-20,Administration,Payroll,Nexora Payroll,Monthly employee payroll,103818.29,MXN,Recurring
+835,2026-09-13,Administration,Rent,Corporate Offices MX,Office rent,27846.46,MXN,Recurring
+836,2026-09-17,Administration,Rent,Corporate Offices MX,Office rent,38755.8,MXN,Recurring
+837,2026-09-19,Administration,Utilities,Utility Services MX,Office utilities and services,6435.53,MXN,Variable
+838,2026-09-03,Administration,Utilities,Utility Services MX,Office utilities and services,10184.31,MXN,Variable
+839,2026-09-09,Administration,Professional Services,Consulting Group,External professional services,23925.07,MXN,Variable
+840,2026-09-09,Administration,Professional Services,Consulting Group,External professional services,27111.52,MXN,Variable
+841,2026-10-12,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,307242.03,MXN,Recurring
+842,2026-10-25,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,231851.96,MXN,Recurring
+843,2026-10-10,Engineering,Software,DataTools,Software licenses and subscriptions,36233.13,MXN,Variable
+844,2026-10-01,Engineering,Software,CloudSuite,Software licenses and subscriptions,28375.32,MXN,Variable
+845,2026-10-13,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,83373.13,MXN,Variable
+846,2026-10-02,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,94996.85,MXN,Variable
+847,2026-10-18,Engineering,Training,Business Learning,Employee training and development,7828.68,MXN,Variable
+848,2026-10-20,Engineering,Training,TechSkills Academy,Employee training and development,8672.78,MXN,Variable
+849,2026-10-14,Sales,Payroll,Nexora Payroll,Monthly employee payroll,173155.56,MXN,Recurring
+850,2026-10-14,Sales,Payroll,Nexora Payroll,Monthly employee payroll,136888.68,MXN,Recurring
+851,2026-10-04,Sales,Commissions,Sales Incentive Program,Sales performance commissions,33798.58,MXN,Variable
+852,2026-10-01,Sales,Commissions,Sales Incentive Program,Sales performance commissions,70287.66,MXN,Variable
+853,2026-10-05,Sales,Travel,Corporate Travel MX,Business travel expenses,19304.27,MXN,Variable
+854,2026-10-17,Sales,Travel,Corporate Travel MX,Business travel expenses,21834.92,MXN,Variable
+855,2026-10-08,Sales,Software,CloudSuite,Software licenses and subscriptions,14685.02,MXN,Variable
+856,2026-10-18,Sales,Software,CloudSuite,Software licenses and subscriptions,9230.46,MXN,Variable
+857,2026-10-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,103331.16,MXN,Recurring
+858,2026-10-24,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,125628.28,MXN,Recurring
+859,2026-10-08,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,92655.52,MXN,Variable
+860,2026-10-16,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,37987.63,MXN,Variable
+861,2026-10-19,Marketing,Software,CloudSuite,Software licenses and subscriptions,12013.53,MXN,Variable
+862,2026-10-07,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,9840.05,MXN,Variable
+863,2026-10-17,Marketing,Events,Tech Conference Group,Marketing events and conferences,32015.8,MXN,Variable
+864,2026-10-03,Marketing,Events,Business Events MX,Marketing events and conferences,31919.77,MXN,Variable
+865,2026-10-19,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,161688.92,MXN,Recurring
+866,2026-10-18,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,139213.93,MXN,Recurring
+867,2026-10-19,Customer Success,Software,DataTools,Software licenses and subscriptions,19431.89,MXN,Variable
+868,2026-10-18,Customer Success,Software,CloudSuite,Software licenses and subscriptions,14781.53,MXN,Variable
+869,2026-10-03,Customer Success,Training,Business Learning,Employee training and development,11284.15,MXN,Variable
+870,2026-10-08,Customer Success,Training,TechSkills Academy,Employee training and development,12009.68,MXN,Variable
+871,2026-10-06,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,14785.56,MXN,Variable
+872,2026-10-10,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10474.88,MXN,Variable
+873,2026-10-21,Administration,Payroll,Nexora Payroll,Monthly employee payroll,130840.62,MXN,Recurring
+874,2026-10-15,Administration,Payroll,Nexora Payroll,Monthly employee payroll,101587.88,MXN,Recurring
+875,2026-10-01,Administration,Rent,Corporate Offices MX,Office rent,32738.19,MXN,Recurring
+876,2026-10-06,Administration,Rent,Corporate Offices MX,Office rent,43397.14,MXN,Recurring
+877,2026-10-07,Administration,Utilities,Utility Services MX,Office utilities and services,12970.51,MXN,Variable
+878,2026-10-09,Administration,Utilities,Utility Services MX,Office utilities and services,8158.71,MXN,Variable
+879,2026-10-23,Administration,Professional Services,Legal & Finance Partners,External professional services,27711.11,MXN,Variable
+880,2026-10-08,Administration,Professional Services,Legal & Finance Partners,External professional services,28114.15,MXN,Variable
+881,2026-11-07,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,268138.98,MXN,Recurring
+882,2026-11-06,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,299090.72,MXN,Recurring
+883,2026-11-11,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,38973.29,MXN,Variable
+884,2026-11-01,Engineering,Software,CloudSuite,Software licenses and subscriptions,19789.92,MXN,Variable
+885,2026-11-05,Engineering,Infrastructure,Data Center Services,Cloud and hosting infrastructure,93615.95,MXN,Variable
+886,2026-11-09,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,65395.87,MXN,Variable
+887,2026-11-13,Engineering,Training,TechSkills Academy,Employee training and development,8776.0,MXN,Variable
+888,2026-11-20,Engineering,Training,Business Learning,Employee training and development,13020.07,MXN,Variable
+889,2026-11-04,Sales,Payroll,Nexora Payroll,Monthly employee payroll,182934.1,MXN,Recurring
+890,2026-11-15,Sales,Payroll,Nexora Payroll,Monthly employee payroll,134022.37,MXN,Recurring
+891,2026-11-21,Sales,Commissions,Sales Incentive Program,Sales performance commissions,78273.67,MXN,Variable
+892,2026-11-21,Sales,Commissions,Sales Incentive Program,Sales performance commissions,53238.85,MXN,Variable
+893,2026-11-23,Sales,Travel,Corporate Travel MX,Business travel expenses,9571.48,MXN,Variable
+894,2026-11-11,Sales,Travel,Corporate Travel MX,Business travel expenses,15510.7,MXN,Variable
+895,2026-11-01,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,14461.44,MXN,Variable
+896,2026-11-04,Sales,Software,DataTools,Software licenses and subscriptions,15990.37,MXN,Variable
+897,2026-11-06,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,109887.05,MXN,Recurring
+898,2026-11-12,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,118651.45,MXN,Recurring
+899,2026-11-08,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,37770.81,MXN,Variable
+900,2026-11-17,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,66825.92,MXN,Variable
+901,2026-11-10,Marketing,Software,WorkFlow Pro,Software licenses and subscriptions,9614.52,MXN,Variable
+902,2026-11-03,Marketing,Software,CloudSuite,Software licenses and subscriptions,13974.11,MXN,Variable
+903,2026-11-06,Marketing,Events,Business Events MX,Marketing events and conferences,33761.8,MXN,Variable
+904,2026-11-24,Marketing,Events,Business Events MX,Marketing events and conferences,25339.65,MXN,Variable
+905,2026-11-10,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,130505.27,MXN,Recurring
+906,2026-11-09,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,159730.7,MXN,Recurring
+907,2026-11-24,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,19177.58,MXN,Variable
+908,2026-11-21,Customer Success,Software,CloudSuite,Software licenses and subscriptions,17274.54,MXN,Variable
+909,2026-11-24,Customer Success,Training,Business Learning,Employee training and development,6130.94,MXN,Variable
+910,2026-11-03,Customer Success,Training,Business Learning,Employee training and development,5583.71,MXN,Variable
+911,2026-11-23,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,10323.46,MXN,Variable
+912,2026-11-05,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,17874.96,MXN,Variable
+913,2026-11-22,Administration,Payroll,Nexora Payroll,Monthly employee payroll,92681.28,MXN,Recurring
+914,2026-11-08,Administration,Payroll,Nexora Payroll,Monthly employee payroll,114391.31,MXN,Recurring
+915,2026-11-14,Administration,Rent,Corporate Offices MX,Office rent,30993.15,MXN,Recurring
+916,2026-11-07,Administration,Rent,Corporate Offices MX,Office rent,27320.45,MXN,Recurring
+917,2026-11-16,Administration,Utilities,Utility Services MX,Office utilities and services,7533.64,MXN,Variable
+918,2026-11-24,Administration,Utilities,Utility Services MX,Office utilities and services,12537.58,MXN,Variable
+919,2026-11-03,Administration,Professional Services,Legal & Finance Partners,External professional services,23733.36,MXN,Variable
+920,2026-11-23,Administration,Professional Services,Consulting Group,External professional services,23598.73,MXN,Variable
+921,2026-12-08,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,242364.69,MXN,Recurring
+922,2026-12-25,Engineering,Payroll,Nexora Payroll,Monthly employee payroll,228769.18,MXN,Recurring
+923,2026-12-23,Engineering,Software,DataTools,Software licenses and subscriptions,26151.53,MXN,Variable
+924,2026-12-06,Engineering,Software,WorkFlow Pro,Software licenses and subscriptions,33582.22,MXN,Variable
+925,2026-12-14,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,89134.07,MXN,Variable
+926,2026-12-23,Engineering,Infrastructure,Cloud Hosting MX,Cloud and hosting infrastructure,59312.68,MXN,Variable
+927,2026-12-12,Engineering,Training,Business Learning,Employee training and development,13068.83,MXN,Variable
+928,2026-12-24,Engineering,Training,TechSkills Academy,Employee training and development,13968.3,MXN,Variable
+929,2026-12-21,Sales,Payroll,Nexora Payroll,Monthly employee payroll,143881.54,MXN,Recurring
+930,2026-12-24,Sales,Payroll,Nexora Payroll,Monthly employee payroll,164668.4,MXN,Recurring
+931,2026-12-10,Sales,Commissions,Sales Incentive Program,Sales performance commissions,67859.39,MXN,Variable
+932,2026-12-23,Sales,Commissions,Sales Incentive Program,Sales performance commissions,55738.72,MXN,Variable
+933,2026-12-14,Sales,Travel,Corporate Travel MX,Business travel expenses,13906.28,MXN,Variable
+934,2026-12-24,Sales,Travel,Corporate Travel MX,Business travel expenses,8545.07,MXN,Variable
+935,2026-12-01,Sales,Software,WorkFlow Pro,Software licenses and subscriptions,16333.49,MXN,Variable
+936,2026-12-01,Sales,Software,DataTools,Software licenses and subscriptions,10171.13,MXN,Variable
+937,2026-12-06,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,117837.65,MXN,Recurring
+938,2026-12-05,Marketing,Payroll,Nexora Payroll,Monthly employee payroll,120757.22,MXN,Recurring
+939,2026-12-19,Marketing,Advertising,Media Partners,Digital marketing and advertising campaigns,82631.44,MXN,Variable
+940,2026-12-06,Marketing,Advertising,Digital Ads Network,Digital marketing and advertising campaigns,46277.8,MXN,Variable
+941,2026-12-23,Marketing,Software,DataTools,Software licenses and subscriptions,9038.85,MXN,Variable
+942,2026-12-02,Marketing,Software,CloudSuite,Software licenses and subscriptions,12942.5,MXN,Variable
+943,2026-12-13,Marketing,Events,Business Events MX,Marketing events and conferences,33974.87,MXN,Variable
+944,2026-12-22,Marketing,Events,Business Events MX,Marketing events and conferences,13979.23,MXN,Variable
+945,2026-12-09,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,115352.63,MXN,Recurring
+946,2026-12-09,Customer Success,Payroll,Nexora Payroll,Monthly employee payroll,138597.27,MXN,Recurring
+947,2026-12-20,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,13512.38,MXN,Variable
+948,2026-12-23,Customer Success,Software,WorkFlow Pro,Software licenses and subscriptions,8738.11,MXN,Variable
+949,2026-12-14,Customer Success,Training,Business Learning,Employee training and development,10389.81,MXN,Variable
+950,2026-12-21,Customer Success,Training,Business Learning,Employee training and development,12725.24,MXN,Variable
+951,2026-12-18,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,9590.85,MXN,Variable
+952,2026-12-11,Customer Success,Operations,Operations Supplies MX,Customer support operating expenses,8566.17,MXN,Variable
+953,2026-12-04,Administration,Payroll,Nexora Payroll,Monthly employee payroll,115672.65,MXN,Recurring
+954,2026-12-11,Administration,Payroll,Nexora Payroll,Monthly employee payroll,120247.65,MXN,Recurring
+955,2026-12-03,Administration,Rent,Corporate Offices MX,Office rent,38196.88,MXN,Recurring
+956,2026-12-03,Administration,Rent,Corporate Offices MX,Office rent,41395.7,MXN,Recurring
+957,2026-12-03,Administration,Utilities,Utility Services MX,Office utilities and services,7711.47,MXN,Variable
+958,2026-12-17,Administration,Utilities,Utility Services MX,Office utilities and services,13065.13,MXN,Variable
+959,2026-12-20,Administration,Professional Services,Consulting Group,External professional services,14687.32,MXN,Variable
+960,2026-12-06,Administration,Professional Services,Legal & Finance Partners,External professional services,12305.59,MXN,Variable
